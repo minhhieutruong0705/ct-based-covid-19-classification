@@ -1,0 +1,15 @@
+
+Classification Accuracy (Test):
+Mean: 99.774, Standard Error: 0.013, Standard Variation: 0.117
+
+Classification Dice Score (Test):
+Mean: 99.551, Standard Error: 0.027, Standard Variation: 0.239
+
+Classification F1 (Test):
+Mean: 99.95, Standard Error: 0.024, Standard Variation: 0.218
+
+Segmentation Accuracy (Test):
+Mean: 99.647, Standard Error: 0.001, Standard Variation: 0.006
+
+Segmentation Dice Score (Test):
+Mean: 83.708, Standard Error: 0.067, Standard Variation: 0.369
