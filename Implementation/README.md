@@ -1,7 +1,7 @@
 # Implementation
 
 This directory keeps implementation of:
-- Models
-- Dataset Preparation Process
-- Utility supporting Train and Evaluation Process
+- Models: `Models`
+- Dataset Preparation Process : `DatasetPreparation`
+- Utility supporting Train and Evaluation Process : `Utils`
 - main : `Covid19_Phase2_IncorporatingBinaryClassificationTrainFinal.ipynb`
