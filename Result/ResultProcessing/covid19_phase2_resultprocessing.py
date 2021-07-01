@@ -67,19 +67,19 @@ def process_result(data, out_file_path):
       f.write("\n")
       f.write(f"{LABELS[i]}:\n")
       mean = round(np.mean(scores[-PROCESSING_RANGE_CLASSIFICATION:]), 3)
-      standard_variation = round(np.std(scores[-PROCESSING_RANGE_CLASSIFICATION:]), 3)
-      standard_error = round(standard_variation/(math.sqrt(PROCESSING_RANGE_CLASSIFICATION)), 3)
-      print(f"Mean: {mean}, Standard Error: {standard_error}, Standard Variation: {standard_variation}")
-      f.write(f"Mean: {mean}, Standard Error: {standard_error}, Standard Variation: {standard_variation}\n")
+      standard_deviation = round(np.std(scores[-PROCESSING_RANGE_CLASSIFICATION:]), 3)
+      standard_error = round(standard_deviation/(math.sqrt(PROCESSING_RANGE_CLASSIFICATION)), 3)
+      print(f"Mean: {mean}, Standard Error: {standard_error}, Standard Deviation: {standard_deviation}")
+      f.write(f"Mean: {mean}, Standard Error: {standard_error}, Standard Deviation: {standard_deviation}\n")
     else:
       print(f"{LABELS[i]}:")
       f.write("\n")
       f.write(f"{LABELS[i]}:\n")
       mean = round(np.mean(scores[-PROCESSING_RANGE_SEGMENTATION:]), 3)
-      standard_variation = round(np.std(scores[-PROCESSING_RANGE_SEGMENTATION:]), 3)
-      standard_error = round(standard_variation/(math.sqrt(PROCESSING_RANGE_SEGMENTATION)), 3)
-      print(f"Mean: {mean}, Standard Error: {standard_error}, Standard Variation: {standard_variation}")
-      f.write(f"Mean: {mean}, Standard Error: {standard_error}, Standard Variation: {standard_variation}\n")
+      standard_deviation = round(np.std(scores[-PROCESSING_RANGE_SEGMENTATION:]), 3)
+      standard_error = round(standard_deviation/(math.sqrt(PROCESSING_RANGE_SEGMENTATION)), 3)
+      print(f"Mean: {mean}, Standard Error: {standard_error}, Standard Deviation: {standard_deviation}")
+      f.write(f"Mean: {mean}, Standard Error: {standard_error}, Standard Deviation: {standard_deviation}\n")
     print("")
   f.close()
 
@@ -94,7 +94,7 @@ def process_result(data, out_file_path):
 # file_path = "Final_Output/XNet_CAP_HU_256/train_log"
 # file_path = "Final_Output/XNet_CAP_PNG_256/train_log"
 
-file_path = "Final_Output/XNet_512/train_log"
+# file_path = "Final_Output/XNet_512/train_log"
 
 file_path = file_path.replace("Final_Output", "Model Results")
 _, _, _, _, test_data_class, test_data_mask = parse_data (file_path)
