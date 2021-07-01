@@ -1,0 +1,4053 @@
+
+[TRAIN] Epoch 0:  
+[Classification] Loss: 0.39, Accuracy: 86.00, Dice Score: 75.84  
+[Segmentation]   Loss: 0.97, Accuracy: 56.60, Dice Score: 8.79
+[EVAL] Epoch 0:  
+[Classification] Accuracy: 90.31, Dice Score: 83.58, F1 Score: 0.91  
+[Segmentation]   Accuracy: 95.38, Dice Score 28.56
+[TRAIN] Epoch 1:  
+[Classification] Loss: 0.28, Accuracy: 89.34, Dice Score: 81.15  
+[Segmentation]   Loss: 0.95, Accuracy: 88.38, Dice Score: 19.59
+[EVAL] Epoch 1:  
+[Classification] Accuracy: 88.87, Dice Score: 81.59, F1 Score: 0.90  
+[Segmentation]   Accuracy: 96.02, Dice Score 34.27
+[TRAIN] Epoch 2:  
+[Classification] Loss: 0.21, Accuracy: 91.46, Dice Score: 84.81  
+[Segmentation]   Loss: 0.93, Accuracy: 93.34, Dice Score: 28.29
+[EVAL] Epoch 2:  
+[Classification] Accuracy: 90.60, Dice Score: 83.96, F1 Score: 0.91  
+[Segmentation]   Accuracy: 96.73, Dice Score 39.51
+[TRAIN] Epoch 3:  
+[Classification] Loss: 0.19, Accuracy: 92.23, Dice Score: 86.07  
+[Segmentation]   Loss: 0.90, Accuracy: 95.29, Dice Score: 36.80
+[EVAL] Epoch 3:  
+[Classification] Accuracy: 92.80, Dice Score: 87.00, F1 Score: 0.93  
+[Segmentation]   Accuracy: 97.81, Dice Score 46.74
+[TRAIN] Epoch 4:  
+[Classification] Loss: 0.17, Accuracy: 92.85, Dice Score: 87.07  
+[Segmentation]   Loss: 0.85, Accuracy: 96.93, Dice Score: 44.04
+[EVAL] Epoch 4:  
+[Classification] Accuracy: 92.13, Dice Score: 85.93, F1 Score: 0.92  
+[Segmentation]   Accuracy: 95.10, Dice Score 34.27
+[TRAIN] Epoch 5:  
+[Classification] Loss: 0.20, Accuracy: 92.14, Dice Score: 85.93  
+[Segmentation]   Loss: 0.81, Accuracy: 97.48, Dice Score: 47.51
+[EVAL] Epoch 5:  
+[Classification] Accuracy: 91.17, Dice Score: 84.51, F1 Score: 0.92  
+[Segmentation]   Accuracy: 98.42, Dice Score 56.72
+[TRAIN] Epoch 6:  
+[Classification] Loss: 1.11, Accuracy: 85.65, Dice Score: 75.22  
+[Segmentation]   Loss: 0.87, Accuracy: 93.85, Dice Score: 32.83
+[EVAL] Epoch 6:  
+[Classification] Accuracy: 90.31, Dice Score: 83.63, F1 Score: 0.91  
+[Segmentation]   Accuracy: 98.23, Dice Score 40.39
+[TRAIN] Epoch 7:  
+[Classification] Loss: 1.20, Accuracy: 86.15, Dice Score: 76.33  
+[Segmentation]   Loss: 0.81, Accuracy: 97.75, Dice Score: 36.80
+[EVAL] Epoch 7:  
+[Classification] Accuracy: 89.64, Dice Score: 81.02, F1 Score: 0.90  
+[Segmentation]   Accuracy: 98.63, Dice Score 37.90
+[TRAIN] Epoch 8:  
+[Classification] Loss: 1.59, Accuracy: 88.81, Dice Score: 80.32  
+[Segmentation]   Loss: 0.75, Accuracy: 98.00, Dice Score: 39.79
+[EVAL] Epoch 8:  
+[Classification] Accuracy: 91.75, Dice Score: 85.35, F1 Score: 0.92  
+[Segmentation]   Accuracy: 98.62, Dice Score 36.88
+[TRAIN] Epoch 9:  
+[Classification] Loss: 1.34, Accuracy: 90.49, Dice Score: 83.06  
+[Segmentation]   Loss: 0.70, Accuracy: 98.37, Dice Score: 41.69
+[EVAL] Epoch 9:  
+[Classification] Accuracy: 92.42, Dice Score: 86.77, F1 Score: 0.93  
+[Segmentation]   Accuracy: 98.76, Dice Score 42.71
+[TRAIN] Epoch 10:  
+[Classification] Loss: 0.85, Accuracy: 90.52, Dice Score: 83.20  
+[Segmentation]   Loss: 0.65, Accuracy: 98.45, Dice Score: 44.36
+[EVAL] Epoch 10:  
+[Classification] Accuracy: 92.51, Dice Score: 86.57, F1 Score: 0.93  
+[Segmentation]   Accuracy: 98.81, Dice Score 50.45
+[TRAIN] Epoch 11:  
+[Classification] Loss: 0.60, Accuracy: 90.40, Dice Score: 82.82  
+[Segmentation]   Loss: 0.64, Accuracy: 98.53, Dice Score: 44.78
+[EVAL] Epoch 11:  
+[Classification] Accuracy: 91.75, Dice Score: 85.74, F1 Score: 0.92  
+[Segmentation]   Accuracy: 98.77, Dice Score 51.12
+[TRAIN] Epoch 12:  
+[Classification] Loss: 0.56, Accuracy: 90.17, Dice Score: 82.67  
+[Segmentation]   Loss: 0.60, Accuracy: 98.57, Dice Score: 48.05
+[EVAL] Epoch 12:  
+[Classification] Accuracy: 92.23, Dice Score: 86.29, F1 Score: 0.93  
+[Segmentation]   Accuracy: 98.91, Dice Score 53.29
+[TRAIN] Epoch 13:  
+[Classification] Loss: 0.24, Accuracy: 91.58, Dice Score: 85.12  
+[Segmentation]   Loss: 0.56, Accuracy: 98.70, Dice Score: 51.31
+[EVAL] Epoch 13:  
+[Classification] Accuracy: 92.99, Dice Score: 87.30, F1 Score: 0.93  
+[Segmentation]   Accuracy: 98.93, Dice Score 45.82
+[TRAIN] Epoch 14:  
+[Classification] Loss: 0.19, Accuracy: 91.91, Dice Score: 85.53  
+[Segmentation]   Loss: 0.54, Accuracy: 98.79, Dice Score: 52.87
+[EVAL] Epoch 14:  
+[Classification] Accuracy: 92.90, Dice Score: 87.09, F1 Score: 0.93  
+[Segmentation]   Accuracy: 99.00, Dice Score 55.22
+[TRAIN] Epoch 15:  
+[Classification] Loss: 0.17, Accuracy: 93.12, Dice Score: 87.50  
+[Segmentation]   Loss: 0.52, Accuracy: 98.87, Dice Score: 55.48
+[EVAL] Epoch 15:  
+[Classification] Accuracy: 92.99, Dice Score: 87.19, F1 Score: 0.93  
+[Segmentation]   Accuracy: 99.03, Dice Score 55.23
+[TRAIN] Epoch 16:  
+[Classification] Loss: 1.01, Accuracy: 91.38, Dice Score: 84.55  
+[Segmentation]   Loss: 0.55, Accuracy: 98.69, Dice Score: 52.94
+[EVAL] Epoch 16:  
+[Classification] Accuracy: 91.65, Dice Score: 85.38, F1 Score: 0.92  
+[Segmentation]   Accuracy: 98.95, Dice Score 47.83
+[TRAIN] Epoch 17:  
+[Classification] Loss: 0.46, Accuracy: 91.70, Dice Score: 85.08  
+[Segmentation]   Loss: 0.53, Accuracy: 98.79, Dice Score: 54.44
+[EVAL] Epoch 17:  
+[Classification] Accuracy: 92.61, Dice Score: 86.84, F1 Score: 0.93  
+[Segmentation]   Accuracy: 99.00, Dice Score 55.57
+[TRAIN] Epoch 18:  
+[Classification] Loss: 0.17, Accuracy: 93.18, Dice Score: 87.66  
+[Segmentation]   Loss: 0.51, Accuracy: 98.88, Dice Score: 56.41
+[EVAL] Epoch 18:  
+[Classification] Accuracy: 93.19, Dice Score: 87.74, F1 Score: 0.93  
+[Segmentation]   Accuracy: 99.05, Dice Score 57.18
+[TRAIN] Epoch 19:  
+[Classification] Loss: 0.27, Accuracy: 92.59, Dice Score: 86.58  
+[Segmentation]   Loss: 0.49, Accuracy: 98.92, Dice Score: 57.19
+[EVAL] Epoch 19:  
+[Classification] Accuracy: 92.99, Dice Score: 87.44, F1 Score: 0.93  
+[Segmentation]   Accuracy: 99.05, Dice Score 61.15
+[TRAIN] Epoch 20:  
+[Classification] Loss: 0.20, Accuracy: 92.53, Dice Score: 86.51  
+[Segmentation]   Loss: 0.50, Accuracy: 98.93, Dice Score: 56.55
+[EVAL] Epoch 20:  
+[Classification] Accuracy: 92.99, Dice Score: 87.39, F1 Score: 0.93  
+[Segmentation]   Accuracy: 99.08, Dice Score 59.01
+[TRAIN] Epoch 21:  
+[Classification] Loss: 0.18, Accuracy: 93.24, Dice Score: 87.65  
+[Segmentation]   Loss: 0.49, Accuracy: 98.95, Dice Score: 57.77
+[EVAL] Epoch 21:  
+[Classification] Accuracy: 92.90, Dice Score: 87.09, F1 Score: 0.93  
+[Segmentation]   Accuracy: 99.05, Dice Score 54.74
+[TRAIN] Epoch 22:  
+[Classification] Loss: 0.59, Accuracy: 93.12, Dice Score: 87.48  
+[Segmentation]   Loss: 0.47, Accuracy: 98.93, Dice Score: 60.21
+[EVAL] Epoch 22:  
+[Classification] Accuracy: 93.38, Dice Score: 87.77, F1 Score: 0.93  
+[Segmentation]   Accuracy: 99.04, Dice Score 61.00
+[TRAIN] Epoch 23:  
+[Classification] Loss: 0.19, Accuracy: 93.27, Dice Score: 87.65  
+[Segmentation]   Loss: 0.49, Accuracy: 98.95, Dice Score: 57.48
+[EVAL] Epoch 23:  
+[Classification] Accuracy: 92.51, Dice Score: 86.41, F1 Score: 0.93  
+[Segmentation]   Accuracy: 99.09, Dice Score 60.46
+[TRAIN] Epoch 24:  
+[Classification] Loss: 0.16, Accuracy: 93.12, Dice Score: 87.51  
+[Segmentation]   Loss: 0.46, Accuracy: 99.00, Dice Score: 60.27
+[EVAL] Epoch 24:  
+[Classification] Accuracy: 92.90, Dice Score: 87.24, F1 Score: 0.93  
+[Segmentation]   Accuracy: 99.12, Dice Score 63.56
+[TRAIN] Epoch 25:  
+[Classification] Loss: 0.15, Accuracy: 93.35, Dice Score: 87.86  
+[Segmentation]   Loss: 0.46, Accuracy: 99.00, Dice Score: 60.64
+[EVAL] Epoch 25:  
+[Classification] Accuracy: 93.09, Dice Score: 87.46, F1 Score: 0.93  
+[Segmentation]   Accuracy: 99.12, Dice Score 60.61
+[TRAIN] Epoch 26:  
+[Classification] Loss: 0.15, Accuracy: 94.06, Dice Score: 89.08  
+[Segmentation]   Loss: 0.44, Accuracy: 99.03, Dice Score: 62.26
+[EVAL] Epoch 26:  
+[Classification] Accuracy: 92.71, Dice Score: 86.83, F1 Score: 0.93  
+[Segmentation]   Accuracy: 99.13, Dice Score 64.61
+[TRAIN] Epoch 27:  
+[Classification] Loss: 0.13, Accuracy: 94.18, Dice Score: 89.26  
+[Segmentation]   Loss: 0.44, Accuracy: 99.06, Dice Score: 62.77
+[EVAL] Epoch 27:  
+[Classification] Accuracy: 93.57, Dice Score: 88.49, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.16, Dice Score 63.37
+[TRAIN] Epoch 28:  
+[Classification] Loss: 0.13, Accuracy: 94.57, Dice Score: 89.92  
+[Segmentation]   Loss: 0.43, Accuracy: 99.06, Dice Score: 63.44
+[EVAL] Epoch 28:  
+[Classification] Accuracy: 92.90, Dice Score: 87.41, F1 Score: 0.93  
+[Segmentation]   Accuracy: 99.16, Dice Score 62.34
+[TRAIN] Epoch 29:  
+[Classification] Loss: 0.13, Accuracy: 94.15, Dice Score: 89.19  
+[Segmentation]   Loss: 0.43, Accuracy: 99.05, Dice Score: 63.08
+[EVAL] Epoch 29:  
+[Classification] Accuracy: 94.15, Dice Score: 89.11, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.15, Dice Score 59.79
+[TRAIN] Epoch 30:  
+[Classification] Loss: 0.14, Accuracy: 94.03, Dice Score: 88.96  
+[Segmentation]   Loss: 0.42, Accuracy: 99.08, Dice Score: 64.04
+[EVAL] Epoch 30:  
+[Classification] Accuracy: 93.47, Dice Score: 88.05, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.18, Dice Score 66.88
+[TRAIN] Epoch 31:  
+[Classification] Loss: 0.14, Accuracy: 93.83, Dice Score: 88.58  
+[Segmentation]   Loss: 0.42, Accuracy: 99.08, Dice Score: 64.78
+[EVAL] Epoch 31:  
+[Classification] Accuracy: 93.38, Dice Score: 88.02, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.20, Dice Score 65.48
+[TRAIN] Epoch 32:  
+[Classification] Loss: 0.12, Accuracy: 94.77, Dice Score: 90.27  
+[Segmentation]   Loss: 0.41, Accuracy: 99.12, Dice Score: 65.62
+[EVAL] Epoch 32:  
+[Classification] Accuracy: 94.24, Dice Score: 89.36, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.21, Dice Score 64.80
+[TRAIN] Epoch 33:  
+[Classification] Loss: 0.12, Accuracy: 94.74, Dice Score: 90.23  
+[Segmentation]   Loss: 0.41, Accuracy: 99.12, Dice Score: 65.21
+[EVAL] Epoch 33:  
+[Classification] Accuracy: 94.72, Dice Score: 90.18, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.20, Dice Score 63.86
+[TRAIN] Epoch 34:  
+[Classification] Loss: 0.18, Accuracy: 94.24, Dice Score: 89.30  
+[Segmentation]   Loss: 0.44, Accuracy: 99.00, Dice Score: 63.04
+[EVAL] Epoch 34:  
+[Classification] Accuracy: 93.47, Dice Score: 87.70, F1 Score: 0.93  
+[Segmentation]   Accuracy: 99.18, Dice Score 63.80
+[TRAIN] Epoch 35:  
+[Classification] Loss: 0.52, Accuracy: 93.27, Dice Score: 87.65  
+[Segmentation]   Loss: 0.44, Accuracy: 99.01, Dice Score: 63.15
+[EVAL] Epoch 35:  
+[Classification] Accuracy: 92.13, Dice Score: 86.10, F1 Score: 0.93  
+[Segmentation]   Accuracy: 99.13, Dice Score 62.81
+[TRAIN] Epoch 36:  
+[Classification] Loss: 0.17, Accuracy: 92.94, Dice Score: 87.02  
+[Segmentation]   Loss: 0.46, Accuracy: 99.00, Dice Score: 60.67
+[EVAL] Epoch 36:  
+[Classification] Accuracy: 92.71, Dice Score: 86.90, F1 Score: 0.93  
+[Segmentation]   Accuracy: 99.19, Dice Score 66.09
+[TRAIN] Epoch 37:  
+[Classification] Loss: 0.13, Accuracy: 93.80, Dice Score: 88.56  
+[Segmentation]   Loss: 0.42, Accuracy: 99.08, Dice Score: 64.30
+[EVAL] Epoch 37:  
+[Classification] Accuracy: 93.47, Dice Score: 88.11, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.17, Dice Score 68.46
+[TRAIN] Epoch 38:  
+[Classification] Loss: 0.14, Accuracy: 93.98, Dice Score: 88.87  
+[Segmentation]   Loss: 0.43, Accuracy: 99.08, Dice Score: 63.65
+[EVAL] Epoch 38:  
+[Classification] Accuracy: 93.76, Dice Score: 88.60, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.19, Dice Score 63.55
+[TRAIN] Epoch 39:  
+[Classification] Loss: 1.28, Accuracy: 93.65, Dice Score: 88.20  
+[Segmentation]   Loss: 0.43, Accuracy: 99.05, Dice Score: 63.48
+[EVAL] Epoch 39:  
+[Classification] Accuracy: 93.38, Dice Score: 88.06, F1 Score: 0.94  
+[Segmentation]   Accuracy: 98.85, Dice Score 64.83
+[TRAIN] Epoch 40:  
+[Classification] Loss: 0.61, Accuracy: 91.88, Dice Score: 85.31  
+[Segmentation]   Loss: 0.45, Accuracy: 99.03, Dice Score: 61.88
+[EVAL] Epoch 40:  
+[Classification] Accuracy: 93.09, Dice Score: 87.43, F1 Score: 0.93  
+[Segmentation]   Accuracy: 99.20, Dice Score 66.12
+[TRAIN] Epoch 41:  
+[Classification] Loss: 0.49, Accuracy: 92.88, Dice Score: 87.05  
+[Segmentation]   Loss: 0.43, Accuracy: 99.05, Dice Score: 63.90
+[EVAL] Epoch 41:  
+[Classification] Accuracy: 93.67, Dice Score: 88.30, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.22, Dice Score 67.45
+[TRAIN] Epoch 42:  
+[Classification] Loss: 0.13, Accuracy: 94.36, Dice Score: 89.52  
+[Segmentation]   Loss: 0.41, Accuracy: 99.13, Dice Score: 65.86
+[EVAL] Epoch 42:  
+[Classification] Accuracy: 93.67, Dice Score: 88.40, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.21, Dice Score 65.55
+[TRAIN] Epoch 43:  
+[Classification] Loss: 0.37, Accuracy: 94.71, Dice Score: 90.08  
+[Segmentation]   Loss: 0.41, Accuracy: 99.10, Dice Score: 65.88
+[EVAL] Epoch 43:  
+[Classification] Accuracy: 93.86, Dice Score: 88.81, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.24, Dice Score 70.52
+[TRAIN] Epoch 44:  
+[Classification] Loss: 0.64, Accuracy: 92.29, Dice Score: 85.85  
+[Segmentation]   Loss: 0.44, Accuracy: 99.05, Dice Score: 62.26
+[EVAL] Epoch 44:  
+[Classification] Accuracy: 93.95, Dice Score: 88.55, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.22, Dice Score 67.42
+[TRAIN] Epoch 45:  
+[Classification] Loss: 0.14, Accuracy: 94.51, Dice Score: 89.74  
+[Segmentation]   Loss: 0.41, Accuracy: 99.11, Dice Score: 65.38
+[EVAL] Epoch 45:  
+[Classification] Accuracy: 94.05, Dice Score: 89.01, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.24, Dice Score 69.49
+[TRAIN] Epoch 46:  
+[Classification] Loss: 0.14, Accuracy: 94.98, Dice Score: 90.55  
+[Segmentation]   Loss: 0.40, Accuracy: 99.14, Dice Score: 66.57
+[EVAL] Epoch 46:  
+[Classification] Accuracy: 95.01, Dice Score: 90.53, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.26, Dice Score 68.95
+[TRAIN] Epoch 47:  
+[Classification] Loss: 0.12, Accuracy: 94.77, Dice Score: 90.18  
+[Segmentation]   Loss: 0.40, Accuracy: 99.14, Dice Score: 66.60
+[EVAL] Epoch 47:  
+[Classification] Accuracy: 92.61, Dice Score: 85.85, F1 Score: 0.92  
+[Segmentation]   Accuracy: 99.23, Dice Score 65.00
+[TRAIN] Epoch 48:  
+[Classification] Loss: 0.11, Accuracy: 94.86, Dice Score: 90.38  
+[Segmentation]   Loss: 0.40, Accuracy: 99.14, Dice Score: 66.48
+[EVAL] Epoch 48:  
+[Classification] Accuracy: 94.34, Dice Score: 89.43, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.28, Dice Score 69.66
+[TRAIN] Epoch 49:  
+[Classification] Loss: 0.11, Accuracy: 94.80, Dice Score: 90.27  
+[Segmentation]   Loss: 0.40, Accuracy: 99.15, Dice Score: 66.81
+[EVAL] Epoch 49:  
+[Classification] Accuracy: 94.43, Dice Score: 89.53, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.22, Dice Score 63.37
+[TRAIN] Epoch 50:  
+[Classification] Loss: 0.18, Accuracy: 94.65, Dice Score: 89.99  
+[Segmentation]   Loss: 0.40, Accuracy: 99.13, Dice Score: 66.15
+[EVAL] Epoch 50:  
+[Classification] Accuracy: 93.86, Dice Score: 88.85, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.26, Dice Score 70.42
+[TRAIN] Epoch 51:  
+[Classification] Loss: 0.12, Accuracy: 95.07, Dice Score: 90.73  
+[Segmentation]   Loss: 0.40, Accuracy: 99.16, Dice Score: 66.70
+[EVAL] Epoch 51:  
+[Classification] Accuracy: 94.91, Dice Score: 90.38, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.29, Dice Score 70.13
+[TRAIN] Epoch 52:  
+[Classification] Loss: 0.51, Accuracy: 94.68, Dice Score: 90.04  
+[Segmentation]   Loss: 0.40, Accuracy: 99.09, Dice Score: 66.24
+[EVAL] Epoch 52:  
+[Classification] Accuracy: 93.67, Dice Score: 88.46, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.25, Dice Score 70.66
+[TRAIN] Epoch 53:  
+[Classification] Loss: 0.59, Accuracy: 94.60, Dice Score: 89.93  
+[Segmentation]   Loss: 0.40, Accuracy: 99.14, Dice Score: 67.23
+[EVAL] Epoch 53:  
+[Classification] Accuracy: 93.09, Dice Score: 87.78, F1 Score: 0.93  
+[Segmentation]   Accuracy: 99.26, Dice Score 67.29
+[TRAIN] Epoch 54:  
+[Classification] Loss: 0.11, Accuracy: 95.25, Dice Score: 91.05  
+[Segmentation]   Loss: 0.39, Accuracy: 99.16, Dice Score: 67.27
+[EVAL] Epoch 54:  
+[Classification] Accuracy: 94.24, Dice Score: 89.42, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.27, Dice Score 71.49
+[TRAIN] Epoch 55:  
+[Classification] Loss: 0.11, Accuracy: 95.25, Dice Score: 91.06  
+[Segmentation]   Loss: 0.39, Accuracy: 99.17, Dice Score: 67.98
+[EVAL] Epoch 55:  
+[Classification] Accuracy: 93.86, Dice Score: 88.83, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.30, Dice Score 72.07
+[TRAIN] Epoch 56:  
+[Classification] Loss: 0.10, Accuracy: 95.57, Dice Score: 91.60  
+[Segmentation]   Loss: 0.39, Accuracy: 99.17, Dice Score: 67.93
+[EVAL] Epoch 56:  
+[Classification] Accuracy: 94.82, Dice Score: 90.07, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.29, Dice Score 71.64
+[TRAIN] Epoch 57:  
+[Classification] Loss: 0.11, Accuracy: 95.48, Dice Score: 91.46  
+[Segmentation]   Loss: 0.38, Accuracy: 99.17, Dice Score: 68.27
+[EVAL] Epoch 57:  
+[Classification] Accuracy: 94.82, Dice Score: 90.37, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.31, Dice Score 71.72
+[TRAIN] Epoch 58:  
+[Classification] Loss: 0.89, Accuracy: 92.26, Dice Score: 85.69  
+[Segmentation]   Loss: 0.44, Accuracy: 99.07, Dice Score: 62.21
+[EVAL] Epoch 58:  
+[Classification] Accuracy: 91.65, Dice Score: 84.24, F1 Score: 0.91  
+[Segmentation]   Accuracy: 99.05, Dice Score 55.72
+[TRAIN] Epoch 59:  
+[Classification] Loss: 0.16, Accuracy: 93.09, Dice Score: 87.29  
+[Segmentation]   Loss: 0.43, Accuracy: 99.08, Dice Score: 62.92
+[EVAL] Epoch 59:  
+[Classification] Accuracy: 92.90, Dice Score: 86.88, F1 Score: 0.93  
+[Segmentation]   Accuracy: 99.14, Dice Score 59.66
+[TRAIN] Epoch 60:  
+[Classification] Loss: 0.14, Accuracy: 93.77, Dice Score: 88.44  
+[Segmentation]   Loss: 0.41, Accuracy: 99.13, Dice Score: 65.65
+[EVAL] Epoch 60:  
+[Classification] Accuracy: 93.76, Dice Score: 88.58, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.24, Dice Score 67.23
+[TRAIN] Epoch 61:  
+[Classification] Loss: 0.40, Accuracy: 93.53, Dice Score: 88.08  
+[Segmentation]   Loss: 0.44, Accuracy: 99.05, Dice Score: 62.63
+[EVAL] Epoch 61:  
+[Classification] Accuracy: 94.34, Dice Score: 89.65, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.23, Dice Score 67.88
+[TRAIN] Epoch 62:  
+[Classification] Loss: 0.11, Accuracy: 95.25, Dice Score: 91.03  
+[Segmentation]   Loss: 0.41, Accuracy: 99.13, Dice Score: 65.34
+[EVAL] Epoch 62:  
+[Classification] Accuracy: 94.05, Dice Score: 88.71, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.26, Dice Score 69.91
+[TRAIN] Epoch 63:  
+[Classification] Loss: 0.80, Accuracy: 94.92, Dice Score: 90.41  
+[Segmentation]   Loss: 0.40, Accuracy: 99.11, Dice Score: 65.97
+[EVAL] Epoch 63:  
+[Classification] Accuracy: 95.01, Dice Score: 90.55, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.22, Dice Score 66.52
+[TRAIN] Epoch 64:  
+[Classification] Loss: 0.12, Accuracy: 94.71, Dice Score: 90.11  
+[Segmentation]   Loss: 0.40, Accuracy: 99.13, Dice Score: 66.46
+[EVAL] Epoch 64:  
+[Classification] Accuracy: 94.63, Dice Score: 89.98, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.23, Dice Score 64.80
+[TRAIN] Epoch 65:  
+[Classification] Loss: 0.10, Accuracy: 95.84, Dice Score: 92.08  
+[Segmentation]   Loss: 0.39, Accuracy: 99.16, Dice Score: 67.52
+[EVAL] Epoch 65:  
+[Classification] Accuracy: 94.05, Dice Score: 88.54, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.16, Dice Score 60.64
+[TRAIN] Epoch 66:  
+[Classification] Loss: 0.11, Accuracy: 95.04, Dice Score: 90.65  
+[Segmentation]   Loss: 0.38, Accuracy: 99.17, Dice Score: 68.15
+[EVAL] Epoch 66:  
+[Classification] Accuracy: 94.72, Dice Score: 90.04, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.25, Dice Score 66.51
+[TRAIN] Epoch 67:  
+[Classification] Loss: 0.09, Accuracy: 96.01, Dice Score: 92.39  
+[Segmentation]   Loss: 0.38, Accuracy: 99.19, Dice Score: 68.91
+[EVAL] Epoch 67:  
+[Classification] Accuracy: 95.11, Dice Score: 90.83, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.29, Dice Score 69.62
+[TRAIN] Epoch 68:  
+[Classification] Loss: 0.47, Accuracy: 95.57, Dice Score: 91.59  
+[Segmentation]   Loss: 0.37, Accuracy: 99.12, Dice Score: 69.04
+[EVAL] Epoch 68:  
+[Classification] Accuracy: 90.88, Dice Score: 84.14, F1 Score: 0.91  
+[Segmentation]   Accuracy: 98.72, Dice Score 42.58
+[TRAIN] Epoch 69:  
+[Classification] Loss: 0.23, Accuracy: 93.27, Dice Score: 87.64  
+[Segmentation]   Loss: 0.43, Accuracy: 99.07, Dice Score: 63.28
+[EVAL] Epoch 69:  
+[Classification] Accuracy: 93.86, Dice Score: 88.63, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.27, Dice Score 69.19
+[TRAIN] Epoch 70:  
+[Classification] Loss: 0.13, Accuracy: 94.57, Dice Score: 89.83  
+[Segmentation]   Loss: 0.41, Accuracy: 99.15, Dice Score: 65.34
+[EVAL] Epoch 70:  
+[Classification] Accuracy: 94.24, Dice Score: 89.21, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.24, Dice Score 67.34
+[TRAIN] Epoch 71:  
+[Classification] Loss: 0.30, Accuracy: 94.86, Dice Score: 90.35  
+[Segmentation]   Loss: 0.40, Accuracy: 99.14, Dice Score: 66.48
+[EVAL] Epoch 71:  
+[Classification] Accuracy: 92.32, Dice Score: 86.58, F1 Score: 0.93  
+[Segmentation]   Accuracy: 99.00, Dice Score 45.23
+[TRAIN] Epoch 72:  
+[Classification] Loss: 3.27, Accuracy: 93.15, Dice Score: 87.36  
+[Segmentation]   Loss: 0.42, Accuracy: 99.08, Dice Score: 63.77
+[EVAL] Epoch 72:  
+[Classification] Accuracy: 93.67, Dice Score: 88.36, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.24, Dice Score 66.75
+[TRAIN] Epoch 73:  
+[Classification] Loss: 0.13, Accuracy: 94.51, Dice Score: 89.83  
+[Segmentation]   Loss: 0.39, Accuracy: 99.16, Dice Score: 67.44
+[EVAL] Epoch 73:  
+[Classification] Accuracy: 93.76, Dice Score: 88.58, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.29, Dice Score 69.52
+[TRAIN] Epoch 74:  
+[Classification] Loss: 0.11, Accuracy: 95.30, Dice Score: 91.18  
+[Segmentation]   Loss: 0.38, Accuracy: 99.17, Dice Score: 68.55
+[EVAL] Epoch 74:  
+[Classification] Accuracy: 94.63, Dice Score: 89.80, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.27, Dice Score 67.90
+[TRAIN] Epoch 75:  
+[Classification] Loss: 0.11, Accuracy: 95.30, Dice Score: 91.16  
+[Segmentation]   Loss: 0.38, Accuracy: 99.19, Dice Score: 68.48
+[EVAL] Epoch 75:  
+[Classification] Accuracy: 95.11, Dice Score: 90.68, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.28, Dice Score 68.18
+[TRAIN] Epoch 76:  
+[Classification] Loss: 0.10, Accuracy: 95.95, Dice Score: 92.31  
+[Segmentation]   Loss: 0.37, Accuracy: 99.20, Dice Score: 69.14
+[EVAL] Epoch 76:  
+[Classification] Accuracy: 95.39, Dice Score: 91.18, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.31, Dice Score 71.20
+[TRAIN] Epoch 77:  
+[Classification] Loss: 0.16, Accuracy: 95.66, Dice Score: 91.76  
+[Segmentation]   Loss: 0.38, Accuracy: 99.20, Dice Score: 68.72
+[EVAL] Epoch 77:  
+[Classification] Accuracy: 94.82, Dice Score: 90.22, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.25, Dice Score 66.92
+[TRAIN] Epoch 78:  
+[Classification] Loss: 0.11, Accuracy: 95.81, Dice Score: 92.03  
+[Segmentation]   Loss: 0.37, Accuracy: 99.21, Dice Score: 69.39
+[EVAL] Epoch 78:  
+[Classification] Accuracy: 95.11, Dice Score: 90.64, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.22, Dice Score 64.01
+[TRAIN] Epoch 79:  
+[Classification] Loss: 0.53, Accuracy: 95.89, Dice Score: 92.17  
+[Segmentation]   Loss: 0.37, Accuracy: 99.21, Dice Score: 69.51
+[EVAL] Epoch 79:  
+[Classification] Accuracy: 83.01, Dice Score: 66.22, F1 Score: 0.80  
+[Segmentation]   Accuracy: 99.00, Dice Score 45.62
+[TRAIN] Epoch 80:  
+[Classification] Loss: 0.11, Accuracy: 95.27, Dice Score: 91.06  
+[Segmentation]   Loss: 0.39, Accuracy: 99.17, Dice Score: 67.38
+[EVAL] Epoch 80:  
+[Classification] Accuracy: 95.39, Dice Score: 91.22, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.26, Dice Score 67.10
+[TRAIN] Epoch 81:  
+[Classification] Loss: 0.10, Accuracy: 95.60, Dice Score: 91.66  
+[Segmentation]   Loss: 0.38, Accuracy: 99.20, Dice Score: 68.32
+[EVAL] Epoch 81:  
+[Classification] Accuracy: 95.39, Dice Score: 91.29, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.26, Dice Score 68.43
+[TRAIN] Epoch 82:  
+[Classification] Loss: 1.08, Accuracy: 95.27, Dice Score: 91.08  
+[Segmentation]   Loss: 0.38, Accuracy: 99.17, Dice Score: 68.49
+[EVAL] Epoch 82:  
+[Classification] Accuracy: 94.72, Dice Score: 89.93, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.26, Dice Score 67.16
+[TRAIN] Epoch 83:  
+[Classification] Loss: 0.21, Accuracy: 96.22, Dice Score: 92.78  
+[Segmentation]   Loss: 0.38, Accuracy: 99.19, Dice Score: 68.49
+[EVAL] Epoch 83:  
+[Classification] Accuracy: 95.11, Dice Score: 90.68, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.31, Dice Score 70.63
+[TRAIN] Epoch 84:  
+[Classification] Loss: 0.12, Accuracy: 94.86, Dice Score: 90.33  
+[Segmentation]   Loss: 0.38, Accuracy: 99.20, Dice Score: 68.38
+[EVAL] Epoch 84:  
+[Classification] Accuracy: 94.43, Dice Score: 89.64, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.32, Dice Score 71.78
+[TRAIN] Epoch 85:  
+[Classification] Loss: 1.04, Accuracy: 95.63, Dice Score: 91.69  
+[Segmentation]   Loss: 0.37, Accuracy: 99.19, Dice Score: 69.43
+[EVAL] Epoch 85:  
+[Classification] Accuracy: 95.11, Dice Score: 90.68, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.33, Dice Score 72.86
+[TRAIN] Epoch 86:  
+[Classification] Loss: 1.57, Accuracy: 94.42, Dice Score: 89.52  
+[Segmentation]   Loss: 0.40, Accuracy: 99.08, Dice Score: 66.60
+[EVAL] Epoch 86:  
+[Classification] Accuracy: 94.63, Dice Score: 90.07, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.24, Dice Score 66.25
+[TRAIN] Epoch 87:  
+[Classification] Loss: 0.13, Accuracy: 94.39, Dice Score: 89.50  
+[Segmentation]   Loss: 0.40, Accuracy: 99.16, Dice Score: 66.76
+[EVAL] Epoch 87:  
+[Classification] Accuracy: 94.63, Dice Score: 89.53, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.22, Dice Score 64.46
+[TRAIN] Epoch 88:  
+[Classification] Loss: 0.11, Accuracy: 95.16, Dice Score: 90.88  
+[Segmentation]   Loss: 0.39, Accuracy: 99.18, Dice Score: 67.95
+[EVAL] Epoch 88:  
+[Classification] Accuracy: 95.11, Dice Score: 90.83, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.32, Dice Score 73.92
+[TRAIN] Epoch 89:  
+[Classification] Loss: 0.31, Accuracy: 92.79, Dice Score: 86.70  
+[Segmentation]   Loss: 0.41, Accuracy: 99.09, Dice Score: 65.14
+[EVAL] Epoch 89:  
+[Classification] Accuracy: 93.57, Dice Score: 88.10, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.17, Dice Score 61.36
+[TRAIN] Epoch 90:  
+[Classification] Loss: 1.00, Accuracy: 94.36, Dice Score: 89.42  
+[Segmentation]   Loss: 0.40, Accuracy: 99.15, Dice Score: 66.94
+[EVAL] Epoch 90:  
+[Classification] Accuracy: 94.53, Dice Score: 89.86, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.26, Dice Score 68.11
+[TRAIN] Epoch 91:  
+[Classification] Loss: 0.15, Accuracy: 94.89, Dice Score: 90.40  
+[Segmentation]   Loss: 0.39, Accuracy: 99.16, Dice Score: 67.07
+[EVAL] Epoch 91:  
+[Classification] Accuracy: 95.01, Dice Score: 90.63, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.24, Dice Score 66.06
+[TRAIN] Epoch 92:  
+[Classification] Loss: 0.13, Accuracy: 95.48, Dice Score: 91.45  
+[Segmentation]   Loss: 0.38, Accuracy: 99.19, Dice Score: 68.72
+[EVAL] Epoch 92:  
+[Classification] Accuracy: 94.91, Dice Score: 90.55, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.30, Dice Score 70.24
+[TRAIN] Epoch 93:  
+[Classification] Loss: 0.19, Accuracy: 95.10, Dice Score: 90.76  
+[Segmentation]   Loss: 0.37, Accuracy: 99.18, Dice Score: 69.25
+[EVAL] Epoch 93:  
+[Classification] Accuracy: 94.43, Dice Score: 89.64, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.29, Dice Score 71.14
+[TRAIN] Epoch 94:  
+[Classification] Loss: 1.36, Accuracy: 93.06, Dice Score: 87.32  
+[Segmentation]   Loss: 0.40, Accuracy: 99.09, Dice Score: 66.22
+[EVAL] Epoch 94:  
+[Classification] Accuracy: 93.47, Dice Score: 87.86, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.25, Dice Score 67.21
+[TRAIN] Epoch 95:  
+[Classification] Loss: 0.59, Accuracy: 94.89, Dice Score: 90.41  
+[Segmentation]   Loss: 0.39, Accuracy: 99.13, Dice Score: 67.36
+[EVAL] Epoch 95:  
+[Classification] Accuracy: 94.05, Dice Score: 88.97, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.31, Dice Score 72.75
+[TRAIN] Epoch 96:  
+[Classification] Loss: 0.11, Accuracy: 95.36, Dice Score: 91.22  
+[Segmentation]   Loss: 0.38, Accuracy: 99.19, Dice Score: 68.32
+[EVAL] Epoch 96:  
+[Classification] Accuracy: 94.43, Dice Score: 89.59, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.31, Dice Score 71.78
+[TRAIN] Epoch 97:  
+[Classification] Loss: 0.12, Accuracy: 95.66, Dice Score: 91.74  
+[Segmentation]   Loss: 0.38, Accuracy: 99.20, Dice Score: 69.15
+[EVAL] Epoch 97:  
+[Classification] Accuracy: 95.30, Dice Score: 91.14, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.31, Dice Score 71.57
+[TRAIN] Epoch 98:  
+[Classification] Loss: 0.09, Accuracy: 95.75, Dice Score: 91.94  
+[Segmentation]   Loss: 0.37, Accuracy: 99.21, Dice Score: 69.19
+[EVAL] Epoch 98:  
+[Classification] Accuracy: 95.59, Dice Score: 91.65, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.31, Dice Score 71.35
+[TRAIN] Epoch 99:  
+[Classification] Loss: 0.18, Accuracy: 95.72, Dice Score: 91.86  
+[Segmentation]   Loss: 0.38, Accuracy: 99.20, Dice Score: 68.79
+[EVAL] Epoch 99:  
+[Classification] Accuracy: 95.68, Dice Score: 91.77, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.28, Dice Score 68.73
+[TRAIN] Epoch 100:  
+[Classification] Loss: 0.12, Accuracy: 95.81, Dice Score: 92.02  
+[Segmentation]   Loss: 0.37, Accuracy: 99.20, Dice Score: 69.79
+[EVAL] Epoch 100:  
+[Classification] Accuracy: 95.49, Dice Score: 91.52, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.33, Dice Score 71.97
+[TRAIN] Epoch 101:  
+[Classification] Loss: 0.09, Accuracy: 96.31, Dice Score: 92.95  
+[Segmentation]   Loss: 0.38, Accuracy: 99.20, Dice Score: 68.98
+[EVAL] Epoch 101:  
+[Classification] Accuracy: 96.07, Dice Score: 92.45, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.31, Dice Score 71.10
+[TRAIN] Epoch 102:  
+[Classification] Loss: 0.09, Accuracy: 95.54, Dice Score: 91.51  
+[Segmentation]   Loss: 0.36, Accuracy: 99.22, Dice Score: 70.12
+[EVAL] Epoch 102:  
+[Classification] Accuracy: 96.26, Dice Score: 92.79, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.32, Dice Score 71.37
+[TRAIN] Epoch 103:  
+[Classification] Loss: 0.08, Accuracy: 96.40, Dice Score: 93.12  
+[Segmentation]   Loss: 0.37, Accuracy: 99.22, Dice Score: 70.01
+[EVAL] Epoch 103:  
+[Classification] Accuracy: 96.16, Dice Score: 92.59, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.29, Dice Score 69.09
+[TRAIN] Epoch 104:  
+[Classification] Loss: 0.08, Accuracy: 96.57, Dice Score: 93.41  
+[Segmentation]   Loss: 0.36, Accuracy: 99.23, Dice Score: 70.03
+[EVAL] Epoch 104:  
+[Classification] Accuracy: 95.87, Dice Score: 92.10, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.33, Dice Score 72.63
+[TRAIN] Epoch 105:  
+[Classification] Loss: 0.08, Accuracy: 96.66, Dice Score: 93.56  
+[Segmentation]   Loss: 0.36, Accuracy: 99.23, Dice Score: 70.62
+[EVAL] Epoch 105:  
+[Classification] Accuracy: 95.87, Dice Score: 92.18, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.30, Dice Score 69.50
+[TRAIN] Epoch 106:  
+[Classification] Loss: 0.08, Accuracy: 96.52, Dice Score: 93.31  
+[Segmentation]   Loss: 0.35, Accuracy: 99.24, Dice Score: 70.98
+[EVAL] Epoch 106:  
+[Classification] Accuracy: 96.26, Dice Score: 92.86, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.33, Dice Score 72.08
+[TRAIN] Epoch 107:  
+[Classification] Loss: 0.08, Accuracy: 96.72, Dice Score: 93.70  
+[Segmentation]   Loss: 0.35, Accuracy: 99.25, Dice Score: 71.34
+[EVAL] Epoch 107:  
+[Classification] Accuracy: 95.97, Dice Score: 92.29, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.33, Dice Score 72.68
+[TRAIN] Epoch 108:  
+[Classification] Loss: 0.10, Accuracy: 96.60, Dice Score: 93.47  
+[Segmentation]   Loss: 0.36, Accuracy: 99.23, Dice Score: 70.46
+[EVAL] Epoch 108:  
+[Classification] Accuracy: 95.68, Dice Score: 91.88, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.32, Dice Score 72.89
+[TRAIN] Epoch 109:  
+[Classification] Loss: 0.08, Accuracy: 96.49, Dice Score: 93.25  
+[Segmentation]   Loss: 0.36, Accuracy: 99.24, Dice Score: 70.78
+[EVAL] Epoch 109:  
+[Classification] Accuracy: 96.16, Dice Score: 92.62, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.31, Dice Score 70.88
+[TRAIN] Epoch 110:  
+[Classification] Loss: 0.08, Accuracy: 96.66, Dice Score: 93.57  
+[Segmentation]   Loss: 0.36, Accuracy: 99.24, Dice Score: 70.91
+[EVAL] Epoch 110:  
+[Classification] Accuracy: 95.59, Dice Score: 91.54, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.34, Dice Score 74.46
+[TRAIN] Epoch 111:  
+[Classification] Loss: 0.10, Accuracy: 96.63, Dice Score: 93.51  
+[Segmentation]   Loss: 0.36, Accuracy: 99.24, Dice Score: 70.81
+[EVAL] Epoch 111:  
+[Classification] Accuracy: 95.87, Dice Score: 92.07, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.32, Dice Score 70.65
+[TRAIN] Epoch 112:  
+[Classification] Loss: 0.08, Accuracy: 96.34, Dice Score: 92.98  
+[Segmentation]   Loss: 0.35, Accuracy: 99.25, Dice Score: 70.97
+[EVAL] Epoch 112:  
+[Classification] Accuracy: 96.16, Dice Score: 92.62, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.35, Dice Score 73.56
+[TRAIN] Epoch 113:  
+[Classification] Loss: 0.08, Accuracy: 96.13, Dice Score: 92.59  
+[Segmentation]   Loss: 0.35, Accuracy: 99.24, Dice Score: 71.28
+[EVAL] Epoch 113:  
+[Classification] Accuracy: 96.35, Dice Score: 92.96, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.31, Dice Score 69.96
+[TRAIN] Epoch 114:  
+[Classification] Loss: 0.07, Accuracy: 97.08, Dice Score: 94.34  
+[Segmentation]   Loss: 0.35, Accuracy: 99.25, Dice Score: 70.99
+[EVAL] Epoch 114:  
+[Classification] Accuracy: 95.87, Dice Score: 92.14, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.30, Dice Score 69.33
+[TRAIN] Epoch 115:  
+[Classification] Loss: 0.07, Accuracy: 97.34, Dice Score: 94.83  
+[Segmentation]   Loss: 0.35, Accuracy: 99.24, Dice Score: 71.18
+[EVAL] Epoch 115:  
+[Classification] Accuracy: 95.87, Dice Score: 92.17, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.35, Dice Score 73.48
+[TRAIN] Epoch 116:  
+[Classification] Loss: 0.07, Accuracy: 96.99, Dice Score: 94.17  
+[Segmentation]   Loss: 0.35, Accuracy: 99.25, Dice Score: 71.00
+[EVAL] Epoch 116:  
+[Classification] Accuracy: 95.78, Dice Score: 91.93, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.32, Dice Score 71.21
+[TRAIN] Epoch 117:  
+[Classification] Loss: 0.07, Accuracy: 97.16, Dice Score: 94.51  
+[Segmentation]   Loss: 0.35, Accuracy: 99.27, Dice Score: 71.75
+[EVAL] Epoch 117:  
+[Classification] Accuracy: 95.68, Dice Score: 91.70, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.32, Dice Score 70.94
+[TRAIN] Epoch 118:  
+[Classification] Loss: 0.07, Accuracy: 96.49, Dice Score: 93.22  
+[Segmentation]   Loss: 0.34, Accuracy: 99.26, Dice Score: 72.14
+[EVAL] Epoch 118:  
+[Classification] Accuracy: 95.59, Dice Score: 91.53, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.32, Dice Score 70.97
+[TRAIN] Epoch 119:  
+[Classification] Loss: 0.07, Accuracy: 97.11, Dice Score: 94.38  
+[Segmentation]   Loss: 0.35, Accuracy: 99.25, Dice Score: 71.62
+[EVAL] Epoch 119:  
+[Classification] Accuracy: 96.35, Dice Score: 93.05, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.34, Dice Score 72.95
+[TRAIN] Epoch 120:  
+[Classification] Loss: 0.07, Accuracy: 97.11, Dice Score: 94.39  
+[Segmentation]   Loss: 0.35, Accuracy: 99.25, Dice Score: 71.49
+[EVAL] Epoch 120:  
+[Classification] Accuracy: 96.07, Dice Score: 92.46, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.35, Dice Score 73.36
+[TRAIN] Epoch 121:  
+[Classification] Loss: 0.07, Accuracy: 97.25, Dice Score: 94.68  
+[Segmentation]   Loss: 0.35, Accuracy: 99.26, Dice Score: 71.76
+[EVAL] Epoch 121:  
+[Classification] Accuracy: 95.68, Dice Score: 91.65, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.32, Dice Score 70.80
+[TRAIN] Epoch 122:  
+[Classification] Loss: 0.06, Accuracy: 97.25, Dice Score: 94.65  
+[Segmentation]   Loss: 0.35, Accuracy: 99.27, Dice Score: 71.84
+[EVAL] Epoch 122:  
+[Classification] Accuracy: 95.68, Dice Score: 91.76, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.34, Dice Score 72.41
+[TRAIN] Epoch 123:  
+[Classification] Loss: 0.06, Accuracy: 97.08, Dice Score: 94.33  
+[Segmentation]   Loss: 0.35, Accuracy: 99.27, Dice Score: 71.75
+[EVAL] Epoch 123:  
+[Classification] Accuracy: 96.07, Dice Score: 92.55, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.36, Dice Score 73.01
+[TRAIN] Epoch 124:  
+[Classification] Loss: 0.06, Accuracy: 97.08, Dice Score: 94.33  
+[Segmentation]   Loss: 0.35, Accuracy: 99.27, Dice Score: 71.55
+[EVAL] Epoch 124:  
+[Classification] Accuracy: 96.07, Dice Score: 92.52, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.36, Dice Score 74.31
+[TRAIN] Epoch 125:  
+[Classification] Loss: 0.06, Accuracy: 97.14, Dice Score: 94.45  
+[Segmentation]   Loss: 0.35, Accuracy: 99.27, Dice Score: 71.75
+[EVAL] Epoch 125:  
+[Classification] Accuracy: 95.68, Dice Score: 91.77, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.37, Dice Score 74.25
+[TRAIN] Epoch 126:  
+[Classification] Loss: 0.06, Accuracy: 97.14, Dice Score: 94.43  
+[Segmentation]   Loss: 0.35, Accuracy: 99.27, Dice Score: 71.57
+[EVAL] Epoch 126:  
+[Classification] Accuracy: 95.97, Dice Score: 92.28, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.36, Dice Score 74.94
+[TRAIN] Epoch 127:  
+[Classification] Loss: 0.07, Accuracy: 97.22, Dice Score: 94.62  
+[Segmentation]   Loss: 0.34, Accuracy: 99.27, Dice Score: 72.10
+[EVAL] Epoch 127:  
+[Classification] Accuracy: 95.97, Dice Score: 92.22, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.31, Dice Score 70.01
+[TRAIN] Epoch 128:  
+[Classification] Loss: 0.06, Accuracy: 97.25, Dice Score: 94.67  
+[Segmentation]   Loss: 0.34, Accuracy: 99.27, Dice Score: 72.02
+[EVAL] Epoch 128:  
+[Classification] Accuracy: 96.45, Dice Score: 93.16, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.36, Dice Score 74.47
+[TRAIN] Epoch 129:  
+[Classification] Loss: 0.06, Accuracy: 97.67, Dice Score: 95.46  
+[Segmentation]   Loss: 0.35, Accuracy: 99.27, Dice Score: 71.61
+[EVAL] Epoch 129:  
+[Classification] Accuracy: 96.07, Dice Score: 92.35, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.31, Dice Score 70.09
+[TRAIN] Epoch 130:  
+[Classification] Loss: 0.10, Accuracy: 97.16, Dice Score: 94.49  
+[Segmentation]   Loss: 0.35, Accuracy: 99.23, Dice Score: 71.43
+[EVAL] Epoch 130:  
+[Classification] Accuracy: 95.49, Dice Score: 91.41, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.33, Dice Score 72.01
+[TRAIN] Epoch 131:  
+[Classification] Loss: 0.07, Accuracy: 97.02, Dice Score: 94.23  
+[Segmentation]   Loss: 0.35, Accuracy: 99.26, Dice Score: 72.20
+[EVAL] Epoch 131:  
+[Classification] Accuracy: 95.49, Dice Score: 91.45, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.34, Dice Score 72.00
+[TRAIN] Epoch 132:  
+[Classification] Loss: 0.07, Accuracy: 96.75, Dice Score: 93.73  
+[Segmentation]   Loss: 0.35, Accuracy: 99.26, Dice Score: 71.70
+[EVAL] Epoch 132:  
+[Classification] Accuracy: 95.59, Dice Score: 91.56, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.37, Dice Score 75.83
+[TRAIN] Epoch 133:  
+[Classification] Loss: 0.07, Accuracy: 96.84, Dice Score: 93.88  
+[Segmentation]   Loss: 0.35, Accuracy: 99.24, Dice Score: 71.14
+[EVAL] Epoch 133:  
+[Classification] Accuracy: 95.49, Dice Score: 91.50, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.35, Dice Score 74.16
+[TRAIN] Epoch 134:  
+[Classification] Loss: 0.08, Accuracy: 96.63, Dice Score: 93.50  
+[Segmentation]   Loss: 0.36, Accuracy: 99.25, Dice Score: 70.98
+[EVAL] Epoch 134:  
+[Classification] Accuracy: 95.97, Dice Score: 92.28, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.35, Dice Score 73.01
+[TRAIN] Epoch 135:  
+[Classification] Loss: 0.08, Accuracy: 96.66, Dice Score: 93.56  
+[Segmentation]   Loss: 0.35, Accuracy: 99.26, Dice Score: 70.98
+[EVAL] Epoch 135:  
+[Classification] Accuracy: 95.30, Dice Score: 90.88, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.31, Dice Score 70.00
+[TRAIN] Epoch 136:  
+[Classification] Loss: 0.06, Accuracy: 97.37, Dice Score: 94.89  
+[Segmentation]   Loss: 0.35, Accuracy: 99.27, Dice Score: 71.43
+[EVAL] Epoch 136:  
+[Classification] Accuracy: 96.07, Dice Score: 92.41, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.28, Dice Score 67.16
+[TRAIN] Epoch 137:  
+[Classification] Loss: 0.07, Accuracy: 97.02, Dice Score: 94.21  
+[Segmentation]   Loss: 0.35, Accuracy: 99.26, Dice Score: 72.04
+[EVAL] Epoch 137:  
+[Classification] Accuracy: 95.87, Dice Score: 92.08, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.37, Dice Score 75.05
+[TRAIN] Epoch 138:  
+[Classification] Loss: 0.07, Accuracy: 96.99, Dice Score: 94.17  
+[Segmentation]   Loss: 0.34, Accuracy: 99.27, Dice Score: 72.20
+[EVAL] Epoch 138:  
+[Classification] Accuracy: 94.24, Dice Score: 88.83, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.35, Dice Score 74.55
+[TRAIN] Epoch 139:  
+[Classification] Loss: 0.06, Accuracy: 97.49, Dice Score: 95.11  
+[Segmentation]   Loss: 0.35, Accuracy: 99.26, Dice Score: 71.82
+[EVAL] Epoch 139:  
+[Classification] Accuracy: 96.07, Dice Score: 92.50, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.37, Dice Score 74.61
+[TRAIN] Epoch 140:  
+[Classification] Loss: 0.12, Accuracy: 97.96, Dice Score: 96.01  
+[Segmentation]   Loss: 0.34, Accuracy: 99.26, Dice Score: 72.63
+[EVAL] Epoch 140:  
+[Classification] Accuracy: 96.16, Dice Score: 92.61, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.33, Dice Score 70.75
+[TRAIN] Epoch 141:  
+[Classification] Loss: 0.07, Accuracy: 96.99, Dice Score: 94.15  
+[Segmentation]   Loss: 0.35, Accuracy: 99.25, Dice Score: 71.43
+[EVAL] Epoch 141:  
+[Classification] Accuracy: 96.26, Dice Score: 92.90, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.36, Dice Score 73.89
+[TRAIN] Epoch 142:  
+[Classification] Loss: 0.07, Accuracy: 96.93, Dice Score: 94.07  
+[Segmentation]   Loss: 0.35, Accuracy: 99.27, Dice Score: 71.81
+[EVAL] Epoch 142:  
+[Classification] Accuracy: 96.26, Dice Score: 92.74, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.34, Dice Score 72.46
+[TRAIN] Epoch 143:  
+[Classification] Loss: 0.06, Accuracy: 97.52, Dice Score: 95.16  
+[Segmentation]   Loss: 0.34, Accuracy: 99.28, Dice Score: 72.36
+[EVAL] Epoch 143:  
+[Classification] Accuracy: 95.11, Dice Score: 90.47, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.35, Dice Score 73.03
+[TRAIN] Epoch 144:  
+[Classification] Loss: 0.07, Accuracy: 97.14, Dice Score: 94.42  
+[Segmentation]   Loss: 0.34, Accuracy: 99.27, Dice Score: 72.57
+[EVAL] Epoch 144:  
+[Classification] Accuracy: 95.49, Dice Score: 91.21, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.32, Dice Score 70.08
+[TRAIN] Epoch 145:  
+[Classification] Loss: 0.06, Accuracy: 97.43, Dice Score: 95.00  
+[Segmentation]   Loss: 0.33, Accuracy: 99.29, Dice Score: 73.04
+[EVAL] Epoch 145:  
+[Classification] Accuracy: 96.45, Dice Score: 93.22, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.38, Dice Score 75.71
+[TRAIN] Epoch 146:  
+[Classification] Loss: 0.05, Accuracy: 98.08, Dice Score: 96.24  
+[Segmentation]   Loss: 0.35, Accuracy: 99.28, Dice Score: 71.72
+[EVAL] Epoch 146:  
+[Classification] Accuracy: 96.26, Dice Score: 92.76, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.37, Dice Score 73.81
+[TRAIN] Epoch 147:  
+[Classification] Loss: 0.06, Accuracy: 97.58, Dice Score: 95.27  
+[Segmentation]   Loss: 0.34, Accuracy: 99.28, Dice Score: 72.20
+[EVAL] Epoch 147:  
+[Classification] Accuracy: 96.07, Dice Score: 92.29, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.37, Dice Score 76.57
+[TRAIN] Epoch 148:  
+[Classification] Loss: 0.06, Accuracy: 97.64, Dice Score: 95.40  
+[Segmentation]   Loss: 0.34, Accuracy: 99.27, Dice Score: 72.03
+[EVAL] Epoch 148:  
+[Classification] Accuracy: 96.45, Dice Score: 93.14, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.37, Dice Score 73.84
+[TRAIN] Epoch 149:  
+[Classification] Loss: 0.07, Accuracy: 97.22, Dice Score: 94.60  
+[Segmentation]   Loss: 0.33, Accuracy: 99.29, Dice Score: 73.13
+[EVAL] Epoch 149:  
+[Classification] Accuracy: 95.49, Dice Score: 91.30, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.35, Dice Score 72.68
+[TRAIN] Epoch 150:  
+[Classification] Loss: 0.05, Accuracy: 97.52, Dice Score: 95.15  
+[Segmentation]   Loss: 0.33, Accuracy: 99.30, Dice Score: 73.50
+[EVAL] Epoch 150:  
+[Classification] Accuracy: 96.64, Dice Score: 93.53, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.40, Dice Score 76.53
+[TRAIN] Epoch 151:  
+[Classification] Loss: 0.05, Accuracy: 97.78, Dice Score: 95.67  
+[Segmentation]   Loss: 0.33, Accuracy: 99.30, Dice Score: 73.57
+[EVAL] Epoch 151:  
+[Classification] Accuracy: 96.07, Dice Score: 92.36, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.39, Dice Score 75.85
+[TRAIN] Epoch 152:  
+[Classification] Loss: 0.04, Accuracy: 97.99, Dice Score: 96.06  
+[Segmentation]   Loss: 0.33, Accuracy: 99.31, Dice Score: 73.57
+[EVAL] Epoch 152:  
+[Classification] Accuracy: 95.87, Dice Score: 92.07, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.37, Dice Score 73.92
+[TRAIN] Epoch 153:  
+[Classification] Loss: 0.06, Accuracy: 97.73, Dice Score: 95.55  
+[Segmentation]   Loss: 0.33, Accuracy: 99.29, Dice Score: 73.08
+[EVAL] Epoch 153:  
+[Classification] Accuracy: 95.68, Dice Score: 91.67, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.34, Dice Score 72.13
+[TRAIN] Epoch 154:  
+[Classification] Loss: 0.05, Accuracy: 97.81, Dice Score: 95.72  
+[Segmentation]   Loss: 0.34, Accuracy: 99.29, Dice Score: 72.70
+[EVAL] Epoch 154:  
+[Classification] Accuracy: 95.78, Dice Score: 92.06, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.38, Dice Score 74.57
+[TRAIN] Epoch 155:  
+[Classification] Loss: 0.06, Accuracy: 97.49, Dice Score: 95.10  
+[Segmentation]   Loss: 0.34, Accuracy: 99.29, Dice Score: 72.77
+[EVAL] Epoch 155:  
+[Classification] Accuracy: 95.68, Dice Score: 91.86, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.38, Dice Score 77.05
+[TRAIN] Epoch 156:  
+[Classification] Loss: 0.05, Accuracy: 97.73, Dice Score: 95.55  
+[Segmentation]   Loss: 0.34, Accuracy: 99.31, Dice Score: 72.93
+[EVAL] Epoch 156:  
+[Classification] Accuracy: 95.87, Dice Score: 91.96, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.34, Dice Score 72.54
+[TRAIN] Epoch 157:  
+[Classification] Loss: 0.05, Accuracy: 97.87, Dice Score: 95.84  
+[Segmentation]   Loss: 0.33, Accuracy: 99.31, Dice Score: 73.04
+[EVAL] Epoch 157:  
+[Classification] Accuracy: 96.26, Dice Score: 92.71, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.38, Dice Score 74.95
+[TRAIN] Epoch 158:  
+[Classification] Loss: 0.05, Accuracy: 97.99, Dice Score: 96.06  
+[Segmentation]   Loss: 0.33, Accuracy: 99.31, Dice Score: 73.81
+[EVAL] Epoch 158:  
+[Classification] Accuracy: 96.74, Dice Score: 93.70, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.39, Dice Score 75.13
+[TRAIN] Epoch 159:  
+[Classification] Loss: 0.04, Accuracy: 98.38, Dice Score: 96.81  
+[Segmentation]   Loss: 0.33, Accuracy: 99.31, Dice Score: 73.71
+[EVAL] Epoch 159:  
+[Classification] Accuracy: 96.45, Dice Score: 93.19, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.36, Dice Score 72.61
+[TRAIN] Epoch 160:  
+[Classification] Loss: 0.03, Accuracy: 98.73, Dice Score: 97.49  
+[Segmentation]   Loss: 0.32, Accuracy: 99.32, Dice Score: 74.19
+[EVAL] Epoch 160:  
+[Classification] Accuracy: 95.78, Dice Score: 92.07, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.40, Dice Score 76.07
+[TRAIN] Epoch 161:  
+[Classification] Loss: 0.04, Accuracy: 98.46, Dice Score: 96.97  
+[Segmentation]   Loss: 0.32, Accuracy: 99.31, Dice Score: 74.10
+[EVAL] Epoch 161:  
+[Classification] Accuracy: 96.64, Dice Score: 93.55, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.37, Dice Score 73.77
+[TRAIN] Epoch 162:  
+[Classification] Loss: 0.04, Accuracy: 98.29, Dice Score: 96.63  
+[Segmentation]   Loss: 0.32, Accuracy: 99.32, Dice Score: 74.51
+[EVAL] Epoch 162:  
+[Classification] Accuracy: 96.45, Dice Score: 93.14, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.40, Dice Score 75.96
+[TRAIN] Epoch 163:  
+[Classification] Loss: 0.04, Accuracy: 98.49, Dice Score: 97.04  
+[Segmentation]   Loss: 0.33, Accuracy: 99.32, Dice Score: 73.59
+[EVAL] Epoch 163:  
+[Classification] Accuracy: 95.87, Dice Score: 91.96, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.36, Dice Score 72.42
+[TRAIN] Epoch 164:  
+[Classification] Loss: 0.04, Accuracy: 98.11, Dice Score: 96.29  
+[Segmentation]   Loss: 0.33, Accuracy: 99.31, Dice Score: 73.86
+[EVAL] Epoch 164:  
+[Classification] Accuracy: 96.55, Dice Score: 93.21, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.39, Dice Score 74.92
+[TRAIN] Epoch 165:  
+[Classification] Loss: 0.04, Accuracy: 98.58, Dice Score: 97.21  
+[Segmentation]   Loss: 0.32, Accuracy: 99.32, Dice Score: 74.09
+[EVAL] Epoch 165:  
+[Classification] Accuracy: 96.83, Dice Score: 93.87, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.40, Dice Score 75.76
+[TRAIN] Epoch 166:  
+[Classification] Loss: 0.05, Accuracy: 98.02, Dice Score: 96.11  
+[Segmentation]   Loss: 0.33, Accuracy: 99.30, Dice Score: 72.95
+[EVAL] Epoch 166:  
+[Classification] Accuracy: 96.16, Dice Score: 92.61, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.40, Dice Score 76.48
+[TRAIN] Epoch 167:  
+[Classification] Loss: 0.04, Accuracy: 98.23, Dice Score: 96.52  
+[Segmentation]   Loss: 0.32, Accuracy: 99.32, Dice Score: 74.32
+[EVAL] Epoch 167:  
+[Classification] Accuracy: 96.45, Dice Score: 93.14, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.37, Dice Score 73.91
+[TRAIN] Epoch 168:  
+[Classification] Loss: 0.03, Accuracy: 98.46, Dice Score: 96.97  
+[Segmentation]   Loss: 0.32, Accuracy: 99.33, Dice Score: 74.61
+[EVAL] Epoch 168:  
+[Classification] Accuracy: 96.16, Dice Score: 92.54, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.40, Dice Score 76.04
+[TRAIN] Epoch 169:  
+[Classification] Loss: 0.04, Accuracy: 98.14, Dice Score: 96.34  
+[Segmentation]   Loss: 0.32, Accuracy: 99.33, Dice Score: 74.48
+[EVAL] Epoch 169:  
+[Classification] Accuracy: 95.97, Dice Score: 92.24, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.40, Dice Score 75.32
+[TRAIN] Epoch 170:  
+[Classification] Loss: 0.04, Accuracy: 98.64, Dice Score: 97.32  
+[Segmentation]   Loss: 0.32, Accuracy: 99.33, Dice Score: 74.36
+[EVAL] Epoch 170:  
+[Classification] Accuracy: 96.93, Dice Score: 94.07, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.41, Dice Score 76.96
+[TRAIN] Epoch 171:  
+[Classification] Loss: 0.09, Accuracy: 97.52, Dice Score: 95.14  
+[Segmentation]   Loss: 0.33, Accuracy: 99.30, Dice Score: 73.35
+[EVAL] Epoch 171:  
+[Classification] Accuracy: 95.11, Dice Score: 90.78, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.10, Dice Score 70.37
+[TRAIN] Epoch 172:  
+[Classification] Loss: 0.07, Accuracy: 96.78, Dice Score: 93.77  
+[Segmentation]   Loss: 0.35, Accuracy: 99.27, Dice Score: 71.71
+[EVAL] Epoch 172:  
+[Classification] Accuracy: 96.74, Dice Score: 93.78, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.40, Dice Score 76.68
+[TRAIN] Epoch 173:  
+[Classification] Loss: 0.06, Accuracy: 97.67, Dice Score: 95.45  
+[Segmentation]   Loss: 0.33, Accuracy: 99.30, Dice Score: 73.15
+[EVAL] Epoch 173:  
+[Classification] Accuracy: 95.11, Dice Score: 90.59, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.36, Dice Score 72.99
+[TRAIN] Epoch 174:  
+[Classification] Loss: 0.05, Accuracy: 98.20, Dice Score: 96.46  
+[Segmentation]   Loss: 0.33, Accuracy: 99.32, Dice Score: 73.43
+[EVAL] Epoch 174:  
+[Classification] Accuracy: 95.97, Dice Score: 92.21, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.40, Dice Score 76.24
+[TRAIN] Epoch 175:  
+[Classification] Loss: 0.05, Accuracy: 97.96, Dice Score: 96.01  
+[Segmentation]   Loss: 0.32, Accuracy: 99.31, Dice Score: 73.78
+[EVAL] Epoch 175:  
+[Classification] Accuracy: 96.35, Dice Score: 93.04, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.39, Dice Score 75.66
+[TRAIN] Epoch 176:  
+[Classification] Loss: 0.05, Accuracy: 97.76, Dice Score: 95.60  
+[Segmentation]   Loss: 0.33, Accuracy: 99.30, Dice Score: 73.62
+[EVAL] Epoch 176:  
+[Classification] Accuracy: 95.97, Dice Score: 92.36, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.33, Dice Score 70.72
+[TRAIN] Epoch 177:  
+[Classification] Loss: 0.16, Accuracy: 96.96, Dice Score: 94.10  
+[Segmentation]   Loss: 0.35, Accuracy: 99.28, Dice Score: 71.83
+[EVAL] Epoch 177:  
+[Classification] Accuracy: 95.20, Dice Score: 90.65, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.36, Dice Score 72.81
+[TRAIN] Epoch 178:  
+[Classification] Loss: 0.06, Accuracy: 97.19, Dice Score: 94.54  
+[Segmentation]   Loss: 0.34, Accuracy: 99.30, Dice Score: 72.82
+[EVAL] Epoch 178:  
+[Classification] Accuracy: 96.35, Dice Score: 93.01, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.39, Dice Score 75.24
+[TRAIN] Epoch 179:  
+[Classification] Loss: 0.05, Accuracy: 98.14, Dice Score: 96.35  
+[Segmentation]   Loss: 0.33, Accuracy: 99.31, Dice Score: 73.28
+[EVAL] Epoch 179:  
+[Classification] Accuracy: 94.63, Dice Score: 89.45, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.39, Dice Score 75.30
+[TRAIN] Epoch 180:  
+[Classification] Loss: 0.05, Accuracy: 97.81, Dice Score: 95.71  
+[Segmentation]   Loss: 0.33, Accuracy: 99.31, Dice Score: 74.05
+[EVAL] Epoch 180:  
+[Classification] Accuracy: 95.97, Dice Score: 92.21, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.38, Dice Score 74.92
+[TRAIN] Epoch 181:  
+[Classification] Loss: 0.05, Accuracy: 97.55, Dice Score: 95.22  
+[Segmentation]   Loss: 0.34, Accuracy: 99.32, Dice Score: 73.06
+[EVAL] Epoch 181:  
+[Classification] Accuracy: 96.45, Dice Score: 93.08, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.33, Dice Score 70.69
+[TRAIN] Epoch 182:  
+[Classification] Loss: 0.04, Accuracy: 98.52, Dice Score: 97.09  
+[Segmentation]   Loss: 0.33, Accuracy: 99.30, Dice Score: 73.60
+[EVAL] Epoch 182:  
+[Classification] Accuracy: 95.49, Dice Score: 91.58, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.39, Dice Score 75.78
+[TRAIN] Epoch 183:  
+[Classification] Loss: 0.08, Accuracy: 97.43, Dice Score: 94.99  
+[Segmentation]   Loss: 0.34, Accuracy: 99.27, Dice Score: 72.11
+[EVAL] Epoch 183:  
+[Classification] Accuracy: 95.68, Dice Score: 91.65, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.33, Dice Score 71.38
+[TRAIN] Epoch 184:  
+[Classification] Loss: 0.06, Accuracy: 97.28, Dice Score: 94.68  
+[Segmentation]   Loss: 0.34, Accuracy: 99.29, Dice Score: 72.98
+[EVAL] Epoch 184:  
+[Classification] Accuracy: 95.11, Dice Score: 90.41, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.40, Dice Score 76.08
+[TRAIN] Epoch 185:  
+[Classification] Loss: 0.04, Accuracy: 98.26, Dice Score: 96.58  
+[Segmentation]   Loss: 0.33, Accuracy: 99.32, Dice Score: 73.80
+[EVAL] Epoch 185:  
+[Classification] Accuracy: 95.20, Dice Score: 90.62, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.42, Dice Score 77.55
+[TRAIN] Epoch 186:  
+[Classification] Loss: 0.04, Accuracy: 98.49, Dice Score: 97.02  
+[Segmentation]   Loss: 0.32, Accuracy: 99.33, Dice Score: 74.17
+[EVAL] Epoch 186:  
+[Classification] Accuracy: 96.83, Dice Score: 93.85, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.41, Dice Score 76.34
+[TRAIN] Epoch 187:  
+[Classification] Loss: 0.04, Accuracy: 98.29, Dice Score: 96.63  
+[Segmentation]   Loss: 0.32, Accuracy: 99.33, Dice Score: 74.48
+[EVAL] Epoch 187:  
+[Classification] Accuracy: 96.35, Dice Score: 92.95, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.42, Dice Score 76.84
+[TRAIN] Epoch 188:  
+[Classification] Loss: 0.03, Accuracy: 98.61, Dice Score: 97.26  
+[Segmentation]   Loss: 0.32, Accuracy: 99.34, Dice Score: 74.69
+[EVAL] Epoch 188:  
+[Classification] Accuracy: 96.55, Dice Score: 93.33, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.40, Dice Score 75.39
+[TRAIN] Epoch 189:  
+[Classification] Loss: 0.03, Accuracy: 98.76, Dice Score: 97.55  
+[Segmentation]   Loss: 0.32, Accuracy: 99.34, Dice Score: 74.74
+[EVAL] Epoch 189:  
+[Classification] Accuracy: 96.74, Dice Score: 93.67, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.40, Dice Score 75.38
+[TRAIN] Epoch 190:  
+[Classification] Loss: 0.03, Accuracy: 98.76, Dice Score: 97.55  
+[Segmentation]   Loss: 0.32, Accuracy: 99.34, Dice Score: 74.80
+[EVAL] Epoch 190:  
+[Classification] Accuracy: 96.55, Dice Score: 93.33, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.41, Dice Score 77.61
+[TRAIN] Epoch 191:  
+[Classification] Loss: 0.02, Accuracy: 99.05, Dice Score: 98.13  
+[Segmentation]   Loss: 0.31, Accuracy: 99.34, Dice Score: 75.09
+[EVAL] Epoch 191:  
+[Classification] Accuracy: 96.45, Dice Score: 93.15, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.40, Dice Score 75.33
+[TRAIN] Epoch 192:  
+[Classification] Loss: 0.03, Accuracy: 98.88, Dice Score: 97.78  
+[Segmentation]   Loss: 0.31, Accuracy: 99.34, Dice Score: 75.04
+[EVAL] Epoch 192:  
+[Classification] Accuracy: 96.35, Dice Score: 92.94, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.41, Dice Score 76.34
+[TRAIN] Epoch 193:  
+[Classification] Loss: 0.03, Accuracy: 98.91, Dice Score: 97.84  
+[Segmentation]   Loss: 0.32, Accuracy: 99.34, Dice Score: 74.56
+[EVAL] Epoch 193:  
+[Classification] Accuracy: 96.55, Dice Score: 93.32, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.43, Dice Score 78.13
+[TRAIN] Epoch 194:  
+[Classification] Loss: 0.04, Accuracy: 98.58, Dice Score: 97.21  
+[Segmentation]   Loss: 0.32, Accuracy: 99.33, Dice Score: 74.37
+[EVAL] Epoch 194:  
+[Classification] Accuracy: 96.55, Dice Score: 93.35, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.42, Dice Score 77.20
+[TRAIN] Epoch 195:  
+[Classification] Loss: 0.04, Accuracy: 98.41, Dice Score: 96.85  
+[Segmentation]   Loss: 0.32, Accuracy: 99.34, Dice Score: 74.20
+[EVAL] Epoch 195:  
+[Classification] Accuracy: 96.64, Dice Score: 93.47, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.36, Dice Score 72.19
+[TRAIN] Epoch 196:  
+[Classification] Loss: 0.03, Accuracy: 98.97, Dice Score: 97.95  
+[Segmentation]   Loss: 0.31, Accuracy: 99.34, Dice Score: 75.28
+[EVAL] Epoch 196:  
+[Classification] Accuracy: 96.83, Dice Score: 93.93, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.43, Dice Score 77.22
+[TRAIN] Epoch 197:  
+[Classification] Loss: 0.03, Accuracy: 99.11, Dice Score: 98.24  
+[Segmentation]   Loss: 0.31, Accuracy: 99.36, Dice Score: 75.50
+[EVAL] Epoch 197:  
+[Classification] Accuracy: 96.64, Dice Score: 93.49, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.43, Dice Score 77.53
+[TRAIN] Epoch 198:  
+[Classification] Loss: 0.02, Accuracy: 99.05, Dice Score: 98.12  
+[Segmentation]   Loss: 0.31, Accuracy: 99.35, Dice Score: 75.03
+[EVAL] Epoch 198:  
+[Classification] Accuracy: 96.55, Dice Score: 93.35, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.41, Dice Score 75.35
+[TRAIN] Epoch 199:  
+[Classification] Loss: 0.02, Accuracy: 99.23, Dice Score: 98.48  
+[Segmentation]   Loss: 0.31, Accuracy: 99.35, Dice Score: 75.12
+[EVAL] Epoch 199:  
+[Classification] Accuracy: 96.55, Dice Score: 93.33, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.43, Dice Score 77.47
+[TRAIN] Epoch 200:  
+[Classification] Loss: 0.03, Accuracy: 98.94, Dice Score: 97.90  
+[Segmentation]   Loss: 0.31, Accuracy: 99.36, Dice Score: 75.47
+[EVAL] Epoch 200:  
+[Classification] Accuracy: 97.02, Dice Score: 94.26, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.42, Dice Score 76.26
+[TRAIN] Epoch 201:  
+[Classification] Loss: 0.03, Accuracy: 98.94, Dice Score: 97.89  
+[Segmentation]   Loss: 0.31, Accuracy: 99.35, Dice Score: 75.47
+[EVAL] Epoch 201:  
+[Classification] Accuracy: 96.55, Dice Score: 93.42, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.42, Dice Score 76.64
+[TRAIN] Epoch 202:  
+[Classification] Loss: 0.02, Accuracy: 99.23, Dice Score: 98.47  
+[Segmentation]   Loss: 0.31, Accuracy: 99.34, Dice Score: 75.06
+[EVAL] Epoch 202:  
+[Classification] Accuracy: 94.91, Dice Score: 90.38, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.33, Dice Score 72.92
+[TRAIN] Epoch 203:  
+[Classification] Loss: 0.04, Accuracy: 98.43, Dice Score: 96.91  
+[Segmentation]   Loss: 0.32, Accuracy: 99.32, Dice Score: 73.99
+[EVAL] Epoch 203:  
+[Classification] Accuracy: 96.26, Dice Score: 92.67, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.41, Dice Score 76.11
+[TRAIN] Epoch 204:  
+[Classification] Loss: 0.03, Accuracy: 99.03, Dice Score: 98.07  
+[Segmentation]   Loss: 0.32, Accuracy: 99.33, Dice Score: 74.76
+[EVAL] Epoch 204:  
+[Classification] Accuracy: 96.16, Dice Score: 92.59, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.38, Dice Score 74.88
+[TRAIN] Epoch 205:  
+[Classification] Loss: 0.24, Accuracy: 98.97, Dice Score: 97.95  
+[Segmentation]   Loss: 0.31, Accuracy: 99.34, Dice Score: 75.29
+[EVAL] Epoch 205:  
+[Classification] Accuracy: 96.64, Dice Score: 93.45, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.41, Dice Score 76.11
+[TRAIN] Epoch 206:  
+[Classification] Loss: 0.03, Accuracy: 98.73, Dice Score: 97.49  
+[Segmentation]   Loss: 0.31, Accuracy: 99.35, Dice Score: 75.55
+[EVAL] Epoch 206:  
+[Classification] Accuracy: 95.68, Dice Score: 91.70, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.42, Dice Score 76.02
+[TRAIN] Epoch 207:  
+[Classification] Loss: 0.85, Accuracy: 98.41, Dice Score: 96.85  
+[Segmentation]   Loss: 0.32, Accuracy: 99.34, Dice Score: 74.46
+[EVAL] Epoch 207:  
+[Classification] Accuracy: 95.11, Dice Score: 90.56, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.42, Dice Score 76.39
+[TRAIN] Epoch 208:  
+[Classification] Loss: 0.04, Accuracy: 98.32, Dice Score: 96.70  
+[Segmentation]   Loss: 0.32, Accuracy: 99.33, Dice Score: 74.58
+[EVAL] Epoch 208:  
+[Classification] Accuracy: 96.45, Dice Score: 93.08, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.42, Dice Score 78.33
+[TRAIN] Epoch 209:  
+[Classification] Loss: 0.04, Accuracy: 98.58, Dice Score: 97.20  
+[Segmentation]   Loss: 0.31, Accuracy: 99.34, Dice Score: 75.41
+[EVAL] Epoch 209:  
+[Classification] Accuracy: 96.26, Dice Score: 92.82, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.43, Dice Score 77.98
+[TRAIN] Epoch 210:  
+[Classification] Loss: 0.03, Accuracy: 98.61, Dice Score: 97.26  
+[Segmentation]   Loss: 0.32, Accuracy: 99.33, Dice Score: 74.79
+[EVAL] Epoch 210:  
+[Classification] Accuracy: 96.64, Dice Score: 93.49, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.43, Dice Score 77.71
+[TRAIN] Epoch 211:  
+[Classification] Loss: 0.04, Accuracy: 98.43, Dice Score: 96.92  
+[Segmentation]   Loss: 0.31, Accuracy: 99.34, Dice Score: 75.19
+[EVAL] Epoch 211:  
+[Classification] Accuracy: 96.93, Dice Score: 94.03, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.43, Dice Score 77.22
+[TRAIN] Epoch 212:  
+[Classification] Loss: 0.02, Accuracy: 99.17, Dice Score: 98.36  
+[Segmentation]   Loss: 0.31, Accuracy: 99.35, Dice Score: 75.57
+[EVAL] Epoch 212:  
+[Classification] Accuracy: 95.97, Dice Score: 92.19, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.42, Dice Score 76.71
+[TRAIN] Epoch 213:  
+[Classification] Loss: 0.03, Accuracy: 98.61, Dice Score: 97.26  
+[Segmentation]   Loss: 0.31, Accuracy: 99.35, Dice Score: 75.55
+[EVAL] Epoch 213:  
+[Classification] Accuracy: 96.16, Dice Score: 92.55, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.31, Dice Score 68.94
+[TRAIN] Epoch 214:  
+[Classification] Loss: 1.21, Accuracy: 98.02, Dice Score: 96.11  
+[Segmentation]   Loss: 0.32, Accuracy: 99.32, Dice Score: 74.27
+[EVAL] Epoch 214:  
+[Classification] Accuracy: 95.78, Dice Score: 91.91, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.39, Dice Score 74.72
+[TRAIN] Epoch 215:  
+[Classification] Loss: 0.04, Accuracy: 98.26, Dice Score: 96.57  
+[Segmentation]   Loss: 0.32, Accuracy: 99.33, Dice Score: 74.73
+[EVAL] Epoch 215:  
+[Classification] Accuracy: 95.68, Dice Score: 91.76, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.39, Dice Score 75.51
+[TRAIN] Epoch 216:  
+[Classification] Loss: 2.27, Accuracy: 96.78, Dice Score: 93.73  
+[Segmentation]   Loss: 0.34, Accuracy: 99.27, Dice Score: 72.57
+[EVAL] Epoch 216:  
+[Classification] Accuracy: 94.34, Dice Score: 89.46, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.32, Dice Score 71.98
+[TRAIN] Epoch 217:  
+[Classification] Loss: 0.07, Accuracy: 96.87, Dice Score: 93.92  
+[Segmentation]   Loss: 0.33, Accuracy: 99.30, Dice Score: 73.38
+[EVAL] Epoch 217:  
+[Classification] Accuracy: 96.35, Dice Score: 92.95, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.39, Dice Score 75.65
+[TRAIN] Epoch 218:  
+[Classification] Loss: 0.04, Accuracy: 98.23, Dice Score: 96.52  
+[Segmentation]   Loss: 0.33, Accuracy: 99.32, Dice Score: 73.90
+[EVAL] Epoch 218:  
+[Classification] Accuracy: 96.26, Dice Score: 92.78, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.37, Dice Score 73.27
+[TRAIN] Epoch 219:  
+[Classification] Loss: 0.05, Accuracy: 98.08, Dice Score: 96.23  
+[Segmentation]   Loss: 0.33, Accuracy: 99.32, Dice Score: 73.53
+[EVAL] Epoch 219:  
+[Classification] Accuracy: 96.35, Dice Score: 93.15, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.43, Dice Score 78.21
+[TRAIN] Epoch 220:  
+[Classification] Loss: 0.04, Accuracy: 98.38, Dice Score: 96.80  
+[Segmentation]   Loss: 0.32, Accuracy: 99.34, Dice Score: 74.25
+[EVAL] Epoch 220:  
+[Classification] Accuracy: 96.64, Dice Score: 93.52, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.44, Dice Score 78.24
+[TRAIN] Epoch 221:  
+[Classification] Loss: 0.25, Accuracy: 97.61, Dice Score: 95.33  
+[Segmentation]   Loss: 0.34, Accuracy: 99.30, Dice Score: 73.01
+[EVAL] Epoch 221:  
+[Classification] Accuracy: 95.68, Dice Score: 91.53, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.41, Dice Score 75.78
+[TRAIN] Epoch 222:  
+[Classification] Loss: 0.04, Accuracy: 98.52, Dice Score: 97.09  
+[Segmentation]   Loss: 0.32, Accuracy: 99.32, Dice Score: 74.55
+[EVAL] Epoch 222:  
+[Classification] Accuracy: 96.64, Dice Score: 93.49, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.42, Dice Score 77.62
+[TRAIN] Epoch 223:  
+[Classification] Loss: 0.03, Accuracy: 98.82, Dice Score: 97.66  
+[Segmentation]   Loss: 0.32, Accuracy: 99.33, Dice Score: 74.38
+[EVAL] Epoch 223:  
+[Classification] Accuracy: 96.93, Dice Score: 94.12, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.42, Dice Score 76.83
+[TRAIN] Epoch 224:  
+[Classification] Loss: 2.29, Accuracy: 98.82, Dice Score: 97.67  
+[Segmentation]   Loss: 0.32, Accuracy: 99.33, Dice Score: 74.77
+[EVAL] Epoch 224:  
+[Classification] Accuracy: 96.45, Dice Score: 93.19, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.42, Dice Score 76.64
+[TRAIN] Epoch 225:  
+[Classification] Loss: 0.04, Accuracy: 98.35, Dice Score: 96.74  
+[Segmentation]   Loss: 0.32, Accuracy: 99.34, Dice Score: 74.76
+[EVAL] Epoch 225:  
+[Classification] Accuracy: 96.64, Dice Score: 93.59, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.43, Dice Score 77.09
+[TRAIN] Epoch 226:  
+[Classification] Loss: 0.02, Accuracy: 99.14, Dice Score: 98.30  
+[Segmentation]   Loss: 0.31, Accuracy: 99.35, Dice Score: 75.07
+[EVAL] Epoch 226:  
+[Classification] Accuracy: 96.55, Dice Score: 93.30, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.42, Dice Score 77.02
+[TRAIN] Epoch 227:  
+[Classification] Loss: 0.03, Accuracy: 98.91, Dice Score: 97.84  
+[Segmentation]   Loss: 0.31, Accuracy: 99.35, Dice Score: 75.10
+[EVAL] Epoch 227:  
+[Classification] Accuracy: 96.26, Dice Score: 92.83, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.39, Dice Score 74.01
+[TRAIN] Epoch 228:  
+[Classification] Loss: 0.04, Accuracy: 98.43, Dice Score: 96.91  
+[Segmentation]   Loss: 0.31, Accuracy: 99.35, Dice Score: 75.63
+[EVAL] Epoch 228:  
+[Classification] Accuracy: 96.35, Dice Score: 93.01, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.41, Dice Score 75.72
+[TRAIN] Epoch 229:  
+[Classification] Loss: 0.03, Accuracy: 98.85, Dice Score: 97.72  
+[Segmentation]   Loss: 0.31, Accuracy: 99.34, Dice Score: 75.06
+[EVAL] Epoch 229:  
+[Classification] Accuracy: 96.64, Dice Score: 93.61, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.40, Dice Score 75.18
+[TRAIN] Epoch 230:  
+[Classification] Loss: 0.03, Accuracy: 98.88, Dice Score: 97.78  
+[Segmentation]   Loss: 0.31, Accuracy: 99.35, Dice Score: 75.66
+[EVAL] Epoch 230:  
+[Classification] Accuracy: 96.55, Dice Score: 93.33, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.40, Dice Score 75.11
+[TRAIN] Epoch 231:  
+[Classification] Loss: 0.09, Accuracy: 97.78, Dice Score: 95.65  
+[Segmentation]   Loss: 0.36, Accuracy: 99.25, Dice Score: 70.31
+[EVAL] Epoch 231:  
+[Classification] Accuracy: 95.11, Dice Score: 90.52, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.30, Dice Score 71.37
+[TRAIN] Epoch 232:  
+[Classification] Loss: 1.17, Accuracy: 97.84, Dice Score: 95.77  
+[Segmentation]   Loss: 0.34, Accuracy: 99.28, Dice Score: 72.51
+[EVAL] Epoch 232:  
+[Classification] Accuracy: 96.26, Dice Score: 92.78, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.38, Dice Score 75.36
+[TRAIN] Epoch 233:  
+[Classification] Loss: 0.05, Accuracy: 98.29, Dice Score: 96.63  
+[Segmentation]   Loss: 0.32, Accuracy: 99.31, Dice Score: 74.07
+[EVAL] Epoch 233:  
+[Classification] Accuracy: 95.87, Dice Score: 91.99, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.37, Dice Score 73.55
+[TRAIN] Epoch 234:  
+[Classification] Loss: 0.07, Accuracy: 97.61, Dice Score: 95.31  
+[Segmentation]   Loss: 0.32, Accuracy: 99.31, Dice Score: 74.12
+[EVAL] Epoch 234:  
+[Classification] Accuracy: 94.63, Dice Score: 89.55, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.42, Dice Score 76.99
+[TRAIN] Epoch 235:  
+[Classification] Loss: 0.05, Accuracy: 98.14, Dice Score: 96.35  
+[Segmentation]   Loss: 0.32, Accuracy: 99.33, Dice Score: 74.72
+[EVAL] Epoch 235:  
+[Classification] Accuracy: 96.55, Dice Score: 93.36, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.39, Dice Score 75.20
+[TRAIN] Epoch 236:  
+[Classification] Loss: 0.04, Accuracy: 98.76, Dice Score: 97.55  
+[Segmentation]   Loss: 0.32, Accuracy: 99.35, Dice Score: 74.84
+[EVAL] Epoch 236:  
+[Classification] Accuracy: 96.26, Dice Score: 92.79, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.43, Dice Score 77.66
+[TRAIN] Epoch 237:  
+[Classification] Loss: 0.03, Accuracy: 98.70, Dice Score: 97.43  
+[Segmentation]   Loss: 0.31, Accuracy: 99.35, Dice Score: 75.34
+[EVAL] Epoch 237:  
+[Classification] Accuracy: 95.97, Dice Score: 92.22, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.39, Dice Score 74.73
+[TRAIN] Epoch 238:  
+[Classification] Loss: 0.73, Accuracy: 98.82, Dice Score: 97.67  
+[Segmentation]   Loss: 0.31, Accuracy: 99.35, Dice Score: 75.38
+[EVAL] Epoch 238:  
+[Classification] Accuracy: 96.16, Dice Score: 92.59, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.42, Dice Score 76.67
+[TRAIN] Epoch 239:  
+[Classification] Loss: 0.03, Accuracy: 98.58, Dice Score: 97.20  
+[Segmentation]   Loss: 0.32, Accuracy: 99.35, Dice Score: 74.62
+[EVAL] Epoch 239:  
+[Classification] Accuracy: 96.16, Dice Score: 92.55, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.43, Dice Score 77.48
+[TRAIN] Epoch 240:  
+[Classification] Loss: 0.03, Accuracy: 98.82, Dice Score: 97.66  
+[Segmentation]   Loss: 0.31, Accuracy: 99.35, Dice Score: 75.22
+[EVAL] Epoch 240:  
+[Classification] Accuracy: 96.07, Dice Score: 92.52, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.41, Dice Score 77.05
+[TRAIN] Epoch 241:  
+[Classification] Loss: 0.03, Accuracy: 98.79, Dice Score: 97.61  
+[Segmentation]   Loss: 0.31, Accuracy: 99.34, Dice Score: 74.97
+[EVAL] Epoch 241:  
+[Classification] Accuracy: 96.74, Dice Score: 93.75, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.43, Dice Score 78.02
+[TRAIN] Epoch 242:  
+[Classification] Loss: 0.03, Accuracy: 98.73, Dice Score: 97.49  
+[Segmentation]   Loss: 0.31, Accuracy: 99.37, Dice Score: 76.01
+[EVAL] Epoch 242:  
+[Classification] Accuracy: 96.26, Dice Score: 92.79, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.42, Dice Score 77.19
+[TRAIN] Epoch 243:  
+[Classification] Loss: 0.03, Accuracy: 99.00, Dice Score: 98.01  
+[Segmentation]   Loss: 0.31, Accuracy: 99.36, Dice Score: 75.51
+[EVAL] Epoch 243:  
+[Classification] Accuracy: 96.55, Dice Score: 93.27, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.42, Dice Score 76.12
+[TRAIN] Epoch 244:  
+[Classification] Loss: 0.02, Accuracy: 99.03, Dice Score: 98.07  
+[Segmentation]   Loss: 0.31, Accuracy: 99.37, Dice Score: 75.86
+[EVAL] Epoch 244:  
+[Classification] Accuracy: 96.64, Dice Score: 93.47, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.45, Dice Score 78.49
+[TRAIN] Epoch 245:  
+[Classification] Loss: 0.03, Accuracy: 98.97, Dice Score: 97.95  
+[Segmentation]   Loss: 0.31, Accuracy: 99.37, Dice Score: 75.88
+[EVAL] Epoch 245:  
+[Classification] Accuracy: 95.87, Dice Score: 92.17, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.43, Dice Score 77.10
+[TRAIN] Epoch 246:  
+[Classification] Loss: 0.03, Accuracy: 98.88, Dice Score: 97.78  
+[Segmentation]   Loss: 0.31, Accuracy: 99.36, Dice Score: 75.12
+[EVAL] Epoch 246:  
+[Classification] Accuracy: 95.68, Dice Score: 91.76, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.45, Dice Score 78.77
+[TRAIN] Epoch 247:  
+[Classification] Loss: 0.03, Accuracy: 98.70, Dice Score: 97.43  
+[Segmentation]   Loss: 0.31, Accuracy: 99.36, Dice Score: 75.57
+[EVAL] Epoch 247:  
+[Classification] Accuracy: 96.26, Dice Score: 92.72, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.46, Dice Score 78.99
+[TRAIN] Epoch 248:  
+[Classification] Loss: 0.02, Accuracy: 98.97, Dice Score: 97.95  
+[Segmentation]   Loss: 0.30, Accuracy: 99.37, Dice Score: 76.44
+[EVAL] Epoch 248:  
+[Classification] Accuracy: 96.55, Dice Score: 93.28, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.44, Dice Score 77.20
+[TRAIN] Epoch 249:  
+[Classification] Loss: 0.42, Accuracy: 96.63, Dice Score: 93.48  
+[Segmentation]   Loss: 0.34, Accuracy: 99.29, Dice Score: 72.55
+[EVAL] Epoch 249:  
+[Classification] Accuracy: 94.82, Dice Score: 89.93, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.33, Dice Score 71.02
+[TRAIN] Epoch 250:  
+[Classification] Loss: 0.05, Accuracy: 97.67, Dice Score: 95.44  
+[Segmentation]   Loss: 0.32, Accuracy: 99.32, Dice Score: 73.84
+[EVAL] Epoch 250:  
+[Classification] Accuracy: 95.78, Dice Score: 91.90, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.38, Dice Score 73.55
+[TRAIN] Epoch 251:  
+[Classification] Loss: 0.08, Accuracy: 98.11, Dice Score: 96.29  
+[Segmentation]   Loss: 0.32, Accuracy: 99.33, Dice Score: 74.61
+[EVAL] Epoch 251:  
+[Classification] Accuracy: 95.78, Dice Score: 91.76, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.40, Dice Score 74.64
+[TRAIN] Epoch 252:  
+[Classification] Loss: 3.61, Accuracy: 95.92, Dice Score: 92.14  
+[Segmentation]   Loss: 0.36, Accuracy: 99.22, Dice Score: 69.92
+[EVAL] Epoch 252:  
+[Classification] Accuracy: 95.11, Dice Score: 90.97, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.09, Dice Score 71.14
+[TRAIN] Epoch 253:  
+[Classification] Loss: 0.08, Accuracy: 97.08, Dice Score: 94.33  
+[Segmentation]   Loss: 0.36, Accuracy: 99.25, Dice Score: 70.64
+[EVAL] Epoch 253:  
+[Classification] Accuracy: 96.45, Dice Score: 93.12, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.34, Dice Score 72.32
+[TRAIN] Epoch 254:  
+[Classification] Loss: 0.06, Accuracy: 98.17, Dice Score: 96.40  
+[Segmentation]   Loss: 0.33, Accuracy: 99.30, Dice Score: 72.89
+[EVAL] Epoch 254:  
+[Classification] Accuracy: 96.64, Dice Score: 93.47, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.38, Dice Score 75.47
+[TRAIN] Epoch 255:  
+[Classification] Loss: 0.04, Accuracy: 98.52, Dice Score: 97.09  
+[Segmentation]   Loss: 0.33, Accuracy: 99.31, Dice Score: 73.46
+[EVAL] Epoch 255:  
+[Classification] Accuracy: 96.64, Dice Score: 93.52, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.39, Dice Score 76.06
+[TRAIN] Epoch 256:  
+[Classification] Loss: 0.03, Accuracy: 98.73, Dice Score: 97.49  
+[Segmentation]   Loss: 0.33, Accuracy: 99.32, Dice Score: 73.80
+[EVAL] Epoch 256:  
+[Classification] Accuracy: 96.83, Dice Score: 93.88, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.40, Dice Score 76.11
+[TRAIN] Epoch 257:  
+[Classification] Loss: 0.04, Accuracy: 98.64, Dice Score: 97.32  
+[Segmentation]   Loss: 0.32, Accuracy: 99.33, Dice Score: 74.01
+[EVAL] Epoch 257:  
+[Classification] Accuracy: 96.26, Dice Score: 92.74, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.39, Dice Score 75.02
+[TRAIN] Epoch 258:  
+[Classification] Loss: 0.03, Accuracy: 99.00, Dice Score: 98.02  
+[Segmentation]   Loss: 0.32, Accuracy: 99.34, Dice Score: 74.46
+[EVAL] Epoch 258:  
+[Classification] Accuracy: 96.74, Dice Score: 93.70, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.40, Dice Score 75.55
+[TRAIN] Epoch 259:  
+[Classification] Loss: 0.03, Accuracy: 98.70, Dice Score: 97.43  
+[Segmentation]   Loss: 0.32, Accuracy: 99.34, Dice Score: 74.80
+[EVAL] Epoch 259:  
+[Classification] Accuracy: 96.83, Dice Score: 93.81, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.41, Dice Score 76.80
+[TRAIN] Epoch 260:  
+[Classification] Loss: 0.03, Accuracy: 98.76, Dice Score: 97.55  
+[Segmentation]   Loss: 0.32, Accuracy: 99.34, Dice Score: 74.88
+[EVAL] Epoch 260:  
+[Classification] Accuracy: 96.64, Dice Score: 93.47, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.41, Dice Score 76.02
+[TRAIN] Epoch 261:  
+[Classification] Loss: 0.15, Accuracy: 98.17, Dice Score: 96.40  
+[Segmentation]   Loss: 0.35, Accuracy: 99.22, Dice Score: 70.47
+[EVAL] Epoch 261:  
+[Classification] Accuracy: 95.49, Dice Score: 91.36, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.27, Dice Score 68.12
+[TRAIN] Epoch 262:  
+[Classification] Loss: 0.21, Accuracy: 97.34, Dice Score: 94.81  
+[Segmentation]   Loss: 0.36, Accuracy: 99.22, Dice Score: 70.34
+[EVAL] Epoch 262:  
+[Classification] Accuracy: 95.78, Dice Score: 92.06, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.36, Dice Score 74.65
+[TRAIN] Epoch 263:  
+[Classification] Loss: 0.05, Accuracy: 97.87, Dice Score: 95.84  
+[Segmentation]   Loss: 0.35, Accuracy: 99.28, Dice Score: 71.57
+[EVAL] Epoch 263:  
+[Classification] Accuracy: 96.16, Dice Score: 92.66, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.34, Dice Score 71.59
+[TRAIN] Epoch 264:  
+[Classification] Loss: 0.04, Accuracy: 98.61, Dice Score: 97.27  
+[Segmentation]   Loss: 0.34, Accuracy: 99.29, Dice Score: 72.75
+[EVAL] Epoch 264:  
+[Classification] Accuracy: 96.26, Dice Score: 92.80, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.39, Dice Score 75.72
+[TRAIN] Epoch 265:  
+[Classification] Loss: 0.04, Accuracy: 98.49, Dice Score: 97.03  
+[Segmentation]   Loss: 0.33, Accuracy: 99.31, Dice Score: 73.70
+[EVAL] Epoch 265:  
+[Classification] Accuracy: 96.35, Dice Score: 92.92, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.38, Dice Score 74.22
+[TRAIN] Epoch 266:  
+[Classification] Loss: 0.03, Accuracy: 98.76, Dice Score: 97.55  
+[Segmentation]   Loss: 0.32, Accuracy: 99.33, Dice Score: 74.16
+[EVAL] Epoch 266:  
+[Classification] Accuracy: 95.78, Dice Score: 91.74, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.39, Dice Score 74.74
+[TRAIN] Epoch 267:  
+[Classification] Loss: 0.03, Accuracy: 98.76, Dice Score: 97.55  
+[Segmentation]   Loss: 0.32, Accuracy: 99.32, Dice Score: 74.14
+[EVAL] Epoch 267:  
+[Classification] Accuracy: 96.55, Dice Score: 93.31, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.40, Dice Score 75.49
+[TRAIN] Epoch 268:  
+[Classification] Loss: 0.03, Accuracy: 98.76, Dice Score: 97.55  
+[Segmentation]   Loss: 0.32, Accuracy: 99.34, Dice Score: 74.25
+[EVAL] Epoch 268:  
+[Classification] Accuracy: 96.93, Dice Score: 94.02, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.41, Dice Score 76.34
+[TRAIN] Epoch 269:  
+[Classification] Loss: 0.02, Accuracy: 98.82, Dice Score: 97.67  
+[Segmentation]   Loss: 0.31, Accuracy: 99.34, Dice Score: 75.19
+[EVAL] Epoch 269:  
+[Classification] Accuracy: 96.64, Dice Score: 93.49, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.42, Dice Score 76.78
+[TRAIN] Epoch 270:  
+[Classification] Loss: 0.02, Accuracy: 99.03, Dice Score: 98.07  
+[Segmentation]   Loss: 0.31, Accuracy: 99.35, Dice Score: 75.35
+[EVAL] Epoch 270:  
+[Classification] Accuracy: 96.16, Dice Score: 92.48, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.43, Dice Score 77.22
+[TRAIN] Epoch 271:  
+[Classification] Loss: 0.02, Accuracy: 99.08, Dice Score: 98.19  
+[Segmentation]   Loss: 0.31, Accuracy: 99.36, Dice Score: 75.82
+[EVAL] Epoch 271:  
+[Classification] Accuracy: 96.83, Dice Score: 93.85, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.43, Dice Score 76.88
+[TRAIN] Epoch 272:  
+[Classification] Loss: 0.03, Accuracy: 99.08, Dice Score: 98.19  
+[Segmentation]   Loss: 0.31, Accuracy: 99.35, Dice Score: 75.05
+[EVAL] Epoch 272:  
+[Classification] Accuracy: 96.74, Dice Score: 93.73, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.44, Dice Score 77.47
+[TRAIN] Epoch 273:  
+[Classification] Loss: 0.02, Accuracy: 99.29, Dice Score: 98.59  
+[Segmentation]   Loss: 0.30, Accuracy: 99.36, Dice Score: 75.97
+[EVAL] Epoch 273:  
+[Classification] Accuracy: 96.83, Dice Score: 93.84, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.43, Dice Score 76.97
+[TRAIN] Epoch 274:  
+[Classification] Loss: 0.02, Accuracy: 99.20, Dice Score: 98.42  
+[Segmentation]   Loss: 0.31, Accuracy: 99.37, Dice Score: 75.84
+[EVAL] Epoch 274:  
+[Classification] Accuracy: 96.83, Dice Score: 93.85, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.43, Dice Score 77.01
+[TRAIN] Epoch 275:  
+[Classification] Loss: 0.02, Accuracy: 99.32, Dice Score: 98.65  
+[Segmentation]   Loss: 0.31, Accuracy: 99.37, Dice Score: 75.68
+[EVAL] Epoch 275:  
+[Classification] Accuracy: 96.74, Dice Score: 93.69, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.43, Dice Score 77.07
+[TRAIN] Epoch 276:  
+[Classification] Loss: 0.02, Accuracy: 98.97, Dice Score: 97.96  
+[Segmentation]   Loss: 0.30, Accuracy: 99.36, Dice Score: 76.18
+[EVAL] Epoch 276:  
+[Classification] Accuracy: 96.45, Dice Score: 93.12, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.43, Dice Score 76.88
+[TRAIN] Epoch 277:  
+[Classification] Loss: 0.02, Accuracy: 99.29, Dice Score: 98.59  
+[Segmentation]   Loss: 0.31, Accuracy: 99.37, Dice Score: 75.46
+[EVAL] Epoch 277:  
+[Classification] Accuracy: 96.64, Dice Score: 93.52, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.42, Dice Score 76.54
+[TRAIN] Epoch 278:  
+[Classification] Loss: 0.26, Accuracy: 98.70, Dice Score: 97.43  
+[Segmentation]   Loss: 0.32, Accuracy: 99.33, Dice Score: 74.68
+[EVAL] Epoch 278:  
+[Classification] Accuracy: 95.87, Dice Score: 92.07, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.41, Dice Score 76.06
+[TRAIN] Epoch 279:  
+[Classification] Loss: 0.03, Accuracy: 98.52, Dice Score: 97.08  
+[Segmentation]   Loss: 0.32, Accuracy: 99.33, Dice Score: 74.07
+[EVAL] Epoch 279:  
+[Classification] Accuracy: 96.55, Dice Score: 93.31, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.41, Dice Score 75.71
+[TRAIN] Epoch 280:  
+[Classification] Loss: 0.03, Accuracy: 99.00, Dice Score: 98.01  
+[Segmentation]   Loss: 0.31, Accuracy: 99.35, Dice Score: 75.41
+[EVAL] Epoch 280:  
+[Classification] Accuracy: 96.55, Dice Score: 93.36, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.43, Dice Score 77.17
+[TRAIN] Epoch 281:  
+[Classification] Loss: 0.03, Accuracy: 98.97, Dice Score: 97.96  
+[Segmentation]   Loss: 0.31, Accuracy: 99.36, Dice Score: 75.30
+[EVAL] Epoch 281:  
+[Classification] Accuracy: 96.55, Dice Score: 93.32, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.44, Dice Score 77.84
+[TRAIN] Epoch 282:  
+[Classification] Loss: 0.02, Accuracy: 99.38, Dice Score: 98.77  
+[Segmentation]   Loss: 0.30, Accuracy: 99.37, Dice Score: 75.97
+[EVAL] Epoch 282:  
+[Classification] Accuracy: 96.74, Dice Score: 93.68, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.43, Dice Score 76.70
+[TRAIN] Epoch 283:  
+[Classification] Loss: 0.03, Accuracy: 98.97, Dice Score: 97.95  
+[Segmentation]   Loss: 0.30, Accuracy: 99.36, Dice Score: 76.05
+[EVAL] Epoch 283:  
+[Classification] Accuracy: 96.55, Dice Score: 93.32, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.44, Dice Score 78.07
+[TRAIN] Epoch 284:  
+[Classification] Loss: 0.02, Accuracy: 98.94, Dice Score: 97.90  
+[Segmentation]   Loss: 0.30, Accuracy: 99.37, Dice Score: 76.12
+[EVAL] Epoch 284:  
+[Classification] Accuracy: 96.45, Dice Score: 93.12, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.44, Dice Score 77.32
+[TRAIN] Epoch 285:  
+[Classification] Loss: 0.02, Accuracy: 99.23, Dice Score: 98.47  
+[Segmentation]   Loss: 0.30, Accuracy: 99.37, Dice Score: 76.35
+[EVAL] Epoch 285:  
+[Classification] Accuracy: 96.64, Dice Score: 93.57, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.45, Dice Score 78.19
+[TRAIN] Epoch 286:  
+[Classification] Loss: 1.95, Accuracy: 98.58, Dice Score: 97.20  
+[Segmentation]   Loss: 0.32, Accuracy: 99.33, Dice Score: 74.33
+[EVAL] Epoch 286:  
+[Classification] Accuracy: 96.74, Dice Score: 93.67, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.41, Dice Score 75.80
+[TRAIN] Epoch 287:  
+[Classification] Loss: 0.02, Accuracy: 99.11, Dice Score: 98.24  
+[Segmentation]   Loss: 0.31, Accuracy: 99.36, Dice Score: 75.51
+[EVAL] Epoch 287:  
+[Classification] Accuracy: 96.55, Dice Score: 93.35, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.42, Dice Score 76.33
+[TRAIN] Epoch 288:  
+[Classification] Loss: 0.03, Accuracy: 98.82, Dice Score: 97.67  
+[Segmentation]   Loss: 0.30, Accuracy: 99.37, Dice Score: 76.26
+[EVAL] Epoch 288:  
+[Classification] Accuracy: 96.16, Dice Score: 92.55, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.41, Dice Score 75.18
+[TRAIN] Epoch 289:  
+[Classification] Loss: 0.02, Accuracy: 99.23, Dice Score: 98.48  
+[Segmentation]   Loss: 0.30, Accuracy: 99.37, Dice Score: 76.20
+[EVAL] Epoch 289:  
+[Classification] Accuracy: 96.35, Dice Score: 92.96, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.44, Dice Score 77.50
+[TRAIN] Epoch 290:  
+[Classification] Loss: 6.41, Accuracy: 98.61, Dice Score: 97.25  
+[Segmentation]   Loss: 0.32, Accuracy: 99.32, Dice Score: 74.77
+[EVAL] Epoch 290:  
+[Classification] Accuracy: 96.35, Dice Score: 92.98, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.43, Dice Score 77.22
+[TRAIN] Epoch 291:  
+[Classification] Loss: 0.05, Accuracy: 98.08, Dice Score: 96.23  
+[Segmentation]   Loss: 0.32, Accuracy: 99.33, Dice Score: 74.73
+[EVAL] Epoch 291:  
+[Classification] Accuracy: 96.64, Dice Score: 93.52, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.44, Dice Score 78.71
+[TRAIN] Epoch 292:  
+[Classification] Loss: 0.03, Accuracy: 99.03, Dice Score: 98.07  
+[Segmentation]   Loss: 0.31, Accuracy: 99.36, Dice Score: 75.46
+[EVAL] Epoch 292:  
+[Classification] Accuracy: 96.55, Dice Score: 93.30, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.44, Dice Score 77.38
+[TRAIN] Epoch 293:  
+[Classification] Loss: 0.03, Accuracy: 98.67, Dice Score: 97.37  
+[Segmentation]   Loss: 0.31, Accuracy: 99.35, Dice Score: 75.40
+[EVAL] Epoch 293:  
+[Classification] Accuracy: 96.07, Dice Score: 92.61, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.42, Dice Score 77.47
+[TRAIN] Epoch 294:  
+[Classification] Loss: 0.43, Accuracy: 96.69, Dice Score: 93.60  
+[Segmentation]   Loss: 0.36, Accuracy: 99.22, Dice Score: 70.32
+[EVAL] Epoch 294:  
+[Classification] Accuracy: 95.49, Dice Score: 91.42, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.34, Dice Score 72.86
+[TRAIN] Epoch 295:  
+[Classification] Loss: 0.10, Accuracy: 97.37, Dice Score: 94.88  
+[Segmentation]   Loss: 0.34, Accuracy: 99.28, Dice Score: 72.51
+[EVAL] Epoch 295:  
+[Classification] Accuracy: 95.68, Dice Score: 91.57, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.42, Dice Score 77.23
+[TRAIN] Epoch 296:  
+[Classification] Loss: 0.04, Accuracy: 98.64, Dice Score: 97.32  
+[Segmentation]   Loss: 0.32, Accuracy: 99.33, Dice Score: 74.49
+[EVAL] Epoch 296:  
+[Classification] Accuracy: 96.64, Dice Score: 93.45, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.43, Dice Score 77.86
+[TRAIN] Epoch 297:  
+[Classification] Loss: 2.31, Accuracy: 96.40, Dice Score: 93.08  
+[Segmentation]   Loss: 0.36, Accuracy: 99.17, Dice Score: 70.65
+[EVAL] Epoch 297:  
+[Classification] Accuracy: 95.78, Dice Score: 91.97, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.38, Dice Score 75.34
+[TRAIN] Epoch 298:  
+[Classification] Loss: 0.06, Accuracy: 97.22, Dice Score: 94.60  
+[Segmentation]   Loss: 0.34, Accuracy: 99.27, Dice Score: 71.93
+[EVAL] Epoch 298:  
+[Classification] Accuracy: 95.78, Dice Score: 91.91, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.40, Dice Score 76.16
+[TRAIN] Epoch 299:  
+[Classification] Loss: 0.05, Accuracy: 97.93, Dice Score: 95.95  
+[Segmentation]   Loss: 0.33, Accuracy: 99.30, Dice Score: 73.77
+[EVAL] Epoch 299:  
+[Classification] Accuracy: 96.26, Dice Score: 92.86, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.42, Dice Score 76.82
+[TRAIN] Epoch 300:  
+[Classification] Loss: 0.06, Accuracy: 97.84, Dice Score: 95.78  
+[Segmentation]   Loss: 0.32, Accuracy: 99.32, Dice Score: 73.91
+[EVAL] Epoch 300:  
+[Classification] Accuracy: 96.35, Dice Score: 93.00, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.42, Dice Score 77.51
+[TRAIN] Epoch 301:  
+[Classification] Loss: 0.07, Accuracy: 98.35, Dice Score: 96.76  
+[Segmentation]   Loss: 0.33, Accuracy: 99.32, Dice Score: 73.87
+[EVAL] Epoch 301:  
+[Classification] Accuracy: 96.55, Dice Score: 93.38, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.43, Dice Score 77.62
+[TRAIN] Epoch 302:  
+[Classification] Loss: 0.04, Accuracy: 98.43, Dice Score: 96.93  
+[Segmentation]   Loss: 0.32, Accuracy: 99.32, Dice Score: 74.53
+[EVAL] Epoch 302:  
+[Classification] Accuracy: 96.55, Dice Score: 93.36, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.42, Dice Score 76.60
+[TRAIN] Epoch 303:  
+[Classification] Loss: 0.03, Accuracy: 98.46, Dice Score: 96.97  
+[Segmentation]   Loss: 0.32, Accuracy: 99.33, Dice Score: 74.44
+[EVAL] Epoch 303:  
+[Classification] Accuracy: 96.45, Dice Score: 93.17, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.43, Dice Score 77.12
+[TRAIN] Epoch 304:  
+[Classification] Loss: 0.03, Accuracy: 98.49, Dice Score: 97.04  
+[Segmentation]   Loss: 0.32, Accuracy: 99.33, Dice Score: 74.21
+[EVAL] Epoch 304:  
+[Classification] Accuracy: 96.35, Dice Score: 93.04, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.44, Dice Score 77.83
+[TRAIN] Epoch 305:  
+[Classification] Loss: 0.03, Accuracy: 98.61, Dice Score: 97.26  
+[Segmentation]   Loss: 0.31, Accuracy: 99.34, Dice Score: 74.85
+[EVAL] Epoch 305:  
+[Classification] Accuracy: 96.16, Dice Score: 92.70, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.44, Dice Score 78.15
+[TRAIN] Epoch 306:  
+[Classification] Loss: 0.03, Accuracy: 98.82, Dice Score: 97.67  
+[Segmentation]   Loss: 0.31, Accuracy: 99.35, Dice Score: 75.53
+[EVAL] Epoch 306:  
+[Classification] Accuracy: 96.64, Dice Score: 93.52, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.43, Dice Score 77.43
+[TRAIN] Epoch 307:  
+[Classification] Loss: 0.03, Accuracy: 98.79, Dice Score: 97.61  
+[Segmentation]   Loss: 0.31, Accuracy: 99.36, Dice Score: 75.82
+[EVAL] Epoch 307:  
+[Classification] Accuracy: 96.35, Dice Score: 93.00, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.44, Dice Score 77.86
+[TRAIN] Epoch 308:  
+[Classification] Loss: 0.03, Accuracy: 98.97, Dice Score: 97.95  
+[Segmentation]   Loss: 0.31, Accuracy: 99.35, Dice Score: 75.11
+[EVAL] Epoch 308:  
+[Classification] Accuracy: 96.55, Dice Score: 93.38, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.45, Dice Score 78.35
+[TRAIN] Epoch 309:  
+[Classification] Loss: 0.29, Accuracy: 97.87, Dice Score: 95.82  
+[Segmentation]   Loss: 0.33, Accuracy: 99.30, Dice Score: 72.95
+[EVAL] Epoch 309:  
+[Classification] Accuracy: 96.16, Dice Score: 92.71, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.41, Dice Score 76.27
+[TRAIN] Epoch 310:  
+[Classification] Loss: 0.05, Accuracy: 98.88, Dice Score: 97.78  
+[Segmentation]   Loss: 0.32, Accuracy: 99.33, Dice Score: 74.90
+[EVAL] Epoch 310:  
+[Classification] Accuracy: 96.26, Dice Score: 92.82, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.43, Dice Score 77.22
+[TRAIN] Epoch 311:  
+[Classification] Loss: 0.03, Accuracy: 99.11, Dice Score: 98.24  
+[Segmentation]   Loss: 0.31, Accuracy: 99.35, Dice Score: 75.35
+[EVAL] Epoch 311:  
+[Classification] Accuracy: 96.74, Dice Score: 93.76, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.43, Dice Score 77.28
+[TRAIN] Epoch 312:  
+[Classification] Loss: 0.03, Accuracy: 99.05, Dice Score: 98.13  
+[Segmentation]   Loss: 0.31, Accuracy: 99.34, Dice Score: 74.92
+[EVAL] Epoch 312:  
+[Classification] Accuracy: 96.45, Dice Score: 93.26, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.40, Dice Score 75.18
+[TRAIN] Epoch 313:  
+[Classification] Loss: 0.03, Accuracy: 99.00, Dice Score: 98.01  
+[Segmentation]   Loss: 0.31, Accuracy: 99.35, Dice Score: 75.51
+[EVAL] Epoch 313:  
+[Classification] Accuracy: 96.64, Dice Score: 93.51, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.42, Dice Score 76.48
+[TRAIN] Epoch 314:  
+[Classification] Loss: 0.02, Accuracy: 99.05, Dice Score: 98.13  
+[Segmentation]   Loss: 0.31, Accuracy: 99.36, Dice Score: 75.62
+[EVAL] Epoch 314:  
+[Classification] Accuracy: 96.45, Dice Score: 93.19, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.43, Dice Score 76.66
+[TRAIN] Epoch 315:  
+[Classification] Loss: 0.02, Accuracy: 99.05, Dice Score: 98.13  
+[Segmentation]   Loss: 0.31, Accuracy: 99.36, Dice Score: 75.49
+[EVAL] Epoch 315:  
+[Classification] Accuracy: 96.26, Dice Score: 92.71, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.43, Dice Score 77.16
+[TRAIN] Epoch 316:  
+[Classification] Loss: 0.03, Accuracy: 99.00, Dice Score: 98.01  
+[Segmentation]   Loss: 0.31, Accuracy: 99.36, Dice Score: 75.58
+[EVAL] Epoch 316:  
+[Classification] Accuracy: 96.74, Dice Score: 93.72, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.43, Dice Score 76.94
+[TRAIN] Epoch 317:  
+[Classification] Loss: 0.07, Accuracy: 98.85, Dice Score: 97.72  
+[Segmentation]   Loss: 0.31, Accuracy: 99.35, Dice Score: 75.61
+[EVAL] Epoch 317:  
+[Classification] Accuracy: 96.45, Dice Score: 93.15, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.43, Dice Score 76.70
+[TRAIN] Epoch 318:  
+[Classification] Loss: 0.53, Accuracy: 97.96, Dice Score: 96.01  
+[Segmentation]   Loss: 0.33, Accuracy: 99.30, Dice Score: 73.93
+[EVAL] Epoch 318:  
+[Classification] Accuracy: 95.11, Dice Score: 90.59, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.41, Dice Score 76.77
+[TRAIN] Epoch 319:  
+[Classification] Loss: 0.04, Accuracy: 98.49, Dice Score: 97.03  
+[Segmentation]   Loss: 0.31, Accuracy: 99.34, Dice Score: 75.54
+[EVAL] Epoch 319:  
+[Classification] Accuracy: 95.78, Dice Score: 91.97, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.41, Dice Score 76.21
+[TRAIN] Epoch 320:  
+[Classification] Loss: 0.03, Accuracy: 98.85, Dice Score: 97.72  
+[Segmentation]   Loss: 0.31, Accuracy: 99.35, Dice Score: 75.46
+[EVAL] Epoch 320:  
+[Classification] Accuracy: 95.87, Dice Score: 92.04, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.42, Dice Score 76.77
+[TRAIN] Epoch 321:  
+[Classification] Loss: 0.12, Accuracy: 98.52, Dice Score: 97.09  
+[Segmentation]   Loss: 0.32, Accuracy: 99.33, Dice Score: 74.69
+[EVAL] Epoch 321:  
+[Classification] Accuracy: 95.59, Dice Score: 91.51, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.40, Dice Score 75.29
+[TRAIN] Epoch 322:  
+[Classification] Loss: 0.04, Accuracy: 98.49, Dice Score: 97.03  
+[Segmentation]   Loss: 0.32, Accuracy: 99.34, Dice Score: 74.86
+[EVAL] Epoch 322:  
+[Classification] Accuracy: 95.78, Dice Score: 91.82, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.43, Dice Score 77.35
+[TRAIN] Epoch 323:  
+[Classification] Loss: 0.03, Accuracy: 98.61, Dice Score: 97.25  
+[Segmentation]   Loss: 0.31, Accuracy: 99.35, Dice Score: 75.09
+[EVAL] Epoch 323:  
+[Classification] Accuracy: 95.78, Dice Score: 91.88, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.41, Dice Score 75.99
+[TRAIN] Epoch 324:  
+[Classification] Loss: 0.03, Accuracy: 99.03, Dice Score: 98.07  
+[Segmentation]   Loss: 0.31, Accuracy: 99.36, Dice Score: 75.61
+[EVAL] Epoch 324:  
+[Classification] Accuracy: 95.78, Dice Score: 91.88, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.43, Dice Score 77.33
+[TRAIN] Epoch 325:  
+[Classification] Loss: 0.03, Accuracy: 99.05, Dice Score: 98.13  
+[Segmentation]   Loss: 0.30, Accuracy: 99.36, Dice Score: 76.00
+[EVAL] Epoch 325:  
+[Classification] Accuracy: 96.26, Dice Score: 92.80, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.43, Dice Score 77.24
+[TRAIN] Epoch 326:  
+[Classification] Loss: 0.02, Accuracy: 99.20, Dice Score: 98.42  
+[Segmentation]   Loss: 0.30, Accuracy: 99.36, Dice Score: 76.05
+[EVAL] Epoch 326:  
+[Classification] Accuracy: 96.35, Dice Score: 92.95, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.43, Dice Score 76.87
+[TRAIN] Epoch 327:  
+[Classification] Loss: 0.22, Accuracy: 99.11, Dice Score: 98.24  
+[Segmentation]   Loss: 0.30, Accuracy: 99.36, Dice Score: 75.78
+[EVAL] Epoch 327:  
+[Classification] Accuracy: 95.87, Dice Score: 92.11, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.44, Dice Score 77.44
+[TRAIN] Epoch 328:  
+[Classification] Loss: 0.02, Accuracy: 99.23, Dice Score: 98.48  
+[Segmentation]   Loss: 0.30, Accuracy: 99.36, Dice Score: 75.98
+[EVAL] Epoch 328:  
+[Classification] Accuracy: 96.07, Dice Score: 92.45, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.44, Dice Score 77.61
+[TRAIN] Epoch 329:  
+[Classification] Loss: 0.02, Accuracy: 99.23, Dice Score: 98.48  
+[Segmentation]   Loss: 0.31, Accuracy: 99.37, Dice Score: 75.32
+[EVAL] Epoch 329:  
+[Classification] Accuracy: 95.97, Dice Score: 92.27, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.44, Dice Score 77.54
+[TRAIN] Epoch 330:  
+[Classification] Loss: 0.15, Accuracy: 99.03, Dice Score: 98.07  
+[Segmentation]   Loss: 0.31, Accuracy: 99.34, Dice Score: 75.37
+[EVAL] Epoch 330:  
+[Classification] Accuracy: 90.60, Dice Score: 84.09, F1 Score: 0.91  
+[Segmentation]   Accuracy: 97.67, Dice Score 52.85
+[TRAIN] Epoch 331:  
+[Classification] Loss: 0.11, Accuracy: 97.25, Dice Score: 94.64  
+[Segmentation]   Loss: 0.34, Accuracy: 99.28, Dice Score: 72.04
+[EVAL] Epoch 331:  
+[Classification] Accuracy: 95.68, Dice Score: 91.76, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.40, Dice Score 75.65
+[TRAIN] Epoch 332:  
+[Classification] Loss: 0.03, Accuracy: 98.94, Dice Score: 97.90  
+[Segmentation]   Loss: 0.31, Accuracy: 99.36, Dice Score: 75.86
+[EVAL] Epoch 332:  
+[Classification] Accuracy: 96.35, Dice Score: 93.03, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.42, Dice Score 76.34
+[TRAIN] Epoch 333:  
+[Classification] Loss: 0.02, Accuracy: 99.29, Dice Score: 98.59  
+[Segmentation]   Loss: 0.30, Accuracy: 99.36, Dice Score: 76.09
+[EVAL] Epoch 333:  
+[Classification] Accuracy: 96.07, Dice Score: 92.46, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.43, Dice Score 77.55
+[TRAIN] Epoch 334:  
+[Classification] Loss: 0.02, Accuracy: 98.94, Dice Score: 97.90  
+[Segmentation]   Loss: 0.31, Accuracy: 99.37, Dice Score: 75.87
+[EVAL] Epoch 334:  
+[Classification] Accuracy: 96.26, Dice Score: 92.70, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.42, Dice Score 76.52
+[TRAIN] Epoch 335:  
+[Classification] Loss: 0.02, Accuracy: 99.03, Dice Score: 98.07  
+[Segmentation]   Loss: 0.30, Accuracy: 99.37, Dice Score: 76.28
+[EVAL] Epoch 335:  
+[Classification] Accuracy: 96.16, Dice Score: 92.69, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.44, Dice Score 78.24
+[TRAIN] Epoch 336:  
+[Classification] Loss: 0.02, Accuracy: 99.35, Dice Score: 98.71  
+[Segmentation]   Loss: 0.31, Accuracy: 99.37, Dice Score: 75.72
+[EVAL] Epoch 336:  
+[Classification] Accuracy: 96.74, Dice Score: 93.73, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.44, Dice Score 78.56
+[TRAIN] Epoch 337:  
+[Classification] Loss: 0.02, Accuracy: 99.32, Dice Score: 98.65  
+[Segmentation]   Loss: 0.30, Accuracy: 99.38, Dice Score: 76.43
+[EVAL] Epoch 337:  
+[Classification] Accuracy: 96.45, Dice Score: 93.15, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.43, Dice Score 77.06
+[TRAIN] Epoch 338:  
+[Classification] Loss: 0.01, Accuracy: 99.41, Dice Score: 98.82  
+[Segmentation]   Loss: 0.30, Accuracy: 99.37, Dice Score: 76.32
+[EVAL] Epoch 338:  
+[Classification] Accuracy: 96.45, Dice Score: 93.24, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.45, Dice Score 78.22
+[TRAIN] Epoch 339:  
+[Classification] Loss: 0.02, Accuracy: 99.38, Dice Score: 98.77  
+[Segmentation]   Loss: 0.30, Accuracy: 99.38, Dice Score: 76.64
+[EVAL] Epoch 339:  
+[Classification] Accuracy: 95.97, Dice Score: 92.15, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.44, Dice Score 78.00
+[TRAIN] Epoch 340:  
+[Classification] Loss: 0.01, Accuracy: 99.41, Dice Score: 98.82  
+[Segmentation]   Loss: 0.30, Accuracy: 99.38, Dice Score: 76.18
+[EVAL] Epoch 340:  
+[Classification] Accuracy: 96.45, Dice Score: 93.11, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.44, Dice Score 77.57
+[TRAIN] Epoch 341:  
+[Classification] Loss: 0.01, Accuracy: 99.41, Dice Score: 98.82  
+[Segmentation]   Loss: 0.30, Accuracy: 99.38, Dice Score: 76.66
+[EVAL] Epoch 341:  
+[Classification] Accuracy: 96.93, Dice Score: 94.05, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.45, Dice Score 77.84
+[TRAIN] Epoch 342:  
+[Classification] Loss: 0.01, Accuracy: 99.53, Dice Score: 99.06  
+[Segmentation]   Loss: 0.30, Accuracy: 99.39, Dice Score: 76.71
+[EVAL] Epoch 342:  
+[Classification] Accuracy: 95.97, Dice Score: 92.16, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.45, Dice Score 78.22
+[TRAIN] Epoch 343:  
+[Classification] Loss: 0.02, Accuracy: 99.11, Dice Score: 98.24  
+[Segmentation]   Loss: 0.30, Accuracy: 99.38, Dice Score: 76.42
+[EVAL] Epoch 343:  
+[Classification] Accuracy: 95.78, Dice Score: 91.74, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.44, Dice Score 77.63
+[TRAIN] Epoch 344:  
+[Classification] Loss: 0.01, Accuracy: 99.47, Dice Score: 98.94  
+[Segmentation]   Loss: 0.30, Accuracy: 99.38, Dice Score: 76.32
+[EVAL] Epoch 344:  
+[Classification] Accuracy: 96.07, Dice Score: 92.36, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.45, Dice Score 78.04
+[TRAIN] Epoch 345:  
+[Classification] Loss: 0.02, Accuracy: 99.35, Dice Score: 98.71  
+[Segmentation]   Loss: 0.30, Accuracy: 99.39, Dice Score: 76.59
+[EVAL] Epoch 345:  
+[Classification] Accuracy: 95.97, Dice Score: 92.22, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.46, Dice Score 78.64
+[TRAIN] Epoch 346:  
+[Classification] Loss: 0.02, Accuracy: 99.26, Dice Score: 98.53  
+[Segmentation]   Loss: 0.29, Accuracy: 99.39, Dice Score: 76.82
+[EVAL] Epoch 346:  
+[Classification] Accuracy: 96.83, Dice Score: 93.89, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.46, Dice Score 78.79
+[TRAIN] Epoch 347:  
+[Classification] Loss: 0.01, Accuracy: 99.47, Dice Score: 98.94  
+[Segmentation]   Loss: 0.29, Accuracy: 99.39, Dice Score: 76.85
+[EVAL] Epoch 347:  
+[Classification] Accuracy: 96.83, Dice Score: 93.89, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.45, Dice Score 78.24
+[TRAIN] Epoch 348:  
+[Classification] Loss: 0.01, Accuracy: 99.59, Dice Score: 99.18  
+[Segmentation]   Loss: 0.29, Accuracy: 99.39, Dice Score: 76.70
+[EVAL] Epoch 348:  
+[Classification] Accuracy: 96.64, Dice Score: 93.51, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.45, Dice Score 78.33
+[TRAIN] Epoch 349:  
+[Classification] Loss: 0.01, Accuracy: 99.50, Dice Score: 99.00  
+[Segmentation]   Loss: 0.29, Accuracy: 99.39, Dice Score: 76.92
+[EVAL] Epoch 349:  
+[Classification] Accuracy: 96.64, Dice Score: 93.52, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.44, Dice Score 77.03
+[TRAIN] Epoch 350:  
+[Classification] Loss: 0.01, Accuracy: 99.53, Dice Score: 99.06  
+[Segmentation]   Loss: 0.30, Accuracy: 99.39, Dice Score: 76.81
+[EVAL] Epoch 350:  
+[Classification] Accuracy: 96.64, Dice Score: 93.51, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.45, Dice Score 78.55
+[TRAIN] Epoch 351:  
+[Classification] Loss: 0.02, Accuracy: 99.44, Dice Score: 98.88  
+[Segmentation]   Loss: 0.29, Accuracy: 99.40, Dice Score: 77.10
+[EVAL] Epoch 351:  
+[Classification] Accuracy: 96.64, Dice Score: 93.46, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.45, Dice Score 78.15
+[TRAIN] Epoch 352:  
+[Classification] Loss: 0.01, Accuracy: 99.53, Dice Score: 99.06  
+[Segmentation]   Loss: 0.29, Accuracy: 99.39, Dice Score: 76.92
+[EVAL] Epoch 352:  
+[Classification] Accuracy: 96.64, Dice Score: 93.51, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.45, Dice Score 77.67
+[TRAIN] Epoch 353:  
+[Classification] Loss: 0.01, Accuracy: 99.35, Dice Score: 98.71  
+[Segmentation]   Loss: 0.30, Accuracy: 99.40, Dice Score: 76.75
+[EVAL] Epoch 353:  
+[Classification] Accuracy: 96.55, Dice Score: 93.35, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.46, Dice Score 79.54
+[TRAIN] Epoch 354:  
+[Classification] Loss: 0.01, Accuracy: 99.47, Dice Score: 98.94  
+[Segmentation]   Loss: 0.30, Accuracy: 99.39, Dice Score: 76.88
+[EVAL] Epoch 354:  
+[Classification] Accuracy: 95.97, Dice Score: 92.21, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.45, Dice Score 77.98
+[TRAIN] Epoch 355:  
+[Classification] Loss: 0.01, Accuracy: 99.44, Dice Score: 98.88  
+[Segmentation]   Loss: 0.30, Accuracy: 99.39, Dice Score: 76.79
+[EVAL] Epoch 355:  
+[Classification] Accuracy: 96.55, Dice Score: 93.28, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.44, Dice Score 77.27
+[TRAIN] Epoch 356:  
+[Classification] Loss: 0.01, Accuracy: 99.56, Dice Score: 99.12  
+[Segmentation]   Loss: 0.29, Accuracy: 99.40, Dice Score: 77.17
+[EVAL] Epoch 356:  
+[Classification] Accuracy: 96.64, Dice Score: 93.52, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.44, Dice Score 77.08
+[TRAIN] Epoch 357:  
+[Classification] Loss: 0.01, Accuracy: 99.59, Dice Score: 99.18  
+[Segmentation]   Loss: 0.29, Accuracy: 99.40, Dice Score: 76.87
+[EVAL] Epoch 357:  
+[Classification] Accuracy: 96.07, Dice Score: 92.36, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.46, Dice Score 78.66
+[TRAIN] Epoch 358:  
+[Classification] Loss: 0.01, Accuracy: 99.56, Dice Score: 99.12  
+[Segmentation]   Loss: 0.29, Accuracy: 99.40, Dice Score: 77.16
+[EVAL] Epoch 358:  
+[Classification] Accuracy: 96.64, Dice Score: 93.49, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.45, Dice Score 78.19
+[TRAIN] Epoch 359:  
+[Classification] Loss: 0.01, Accuracy: 99.41, Dice Score: 98.82  
+[Segmentation]   Loss: 0.30, Accuracy: 99.40, Dice Score: 76.81
+[EVAL] Epoch 359:  
+[Classification] Accuracy: 96.74, Dice Score: 93.69, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.43, Dice Score 76.30
+[TRAIN] Epoch 360:  
+[Classification] Loss: 0.01, Accuracy: 99.41, Dice Score: 98.83  
+[Segmentation]   Loss: 0.29, Accuracy: 99.40, Dice Score: 76.92
+[EVAL] Epoch 360:  
+[Classification] Accuracy: 96.64, Dice Score: 93.48, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.47, Dice Score 79.43
+[TRAIN] Epoch 361:  
+[Classification] Loss: 0.02, Accuracy: 99.44, Dice Score: 98.88  
+[Segmentation]   Loss: 0.29, Accuracy: 99.40, Dice Score: 77.50
+[EVAL] Epoch 361:  
+[Classification] Accuracy: 96.74, Dice Score: 93.68, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.44, Dice Score 76.99
+[TRAIN] Epoch 362:  
+[Classification] Loss: 0.01, Accuracy: 99.41, Dice Score: 98.82  
+[Segmentation]   Loss: 0.29, Accuracy: 99.40, Dice Score: 77.21
+[EVAL] Epoch 362:  
+[Classification] Accuracy: 96.55, Dice Score: 93.28, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.45, Dice Score 77.97
+[TRAIN] Epoch 363:  
+[Classification] Loss: 0.02, Accuracy: 99.32, Dice Score: 98.65  
+[Segmentation]   Loss: 0.29, Accuracy: 99.40, Dice Score: 77.11
+[EVAL] Epoch 363:  
+[Classification] Accuracy: 96.07, Dice Score: 92.28, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.44, Dice Score 77.43
+[TRAIN] Epoch 364:  
+[Classification] Loss: 0.01, Accuracy: 99.53, Dice Score: 99.06  
+[Segmentation]   Loss: 0.29, Accuracy: 99.40, Dice Score: 76.93
+[EVAL] Epoch 364:  
+[Classification] Accuracy: 96.35, Dice Score: 92.92, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.45, Dice Score 78.25
+[TRAIN] Epoch 365:  
+[Classification] Loss: 0.01, Accuracy: 99.62, Dice Score: 99.23  
+[Segmentation]   Loss: 0.29, Accuracy: 99.40, Dice Score: 77.21
+[EVAL] Epoch 365:  
+[Classification] Accuracy: 96.74, Dice Score: 93.67, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.46, Dice Score 78.48
+[TRAIN] Epoch 366:  
+[Classification] Loss: 0.01, Accuracy: 99.65, Dice Score: 99.29  
+[Segmentation]   Loss: 0.29, Accuracy: 99.40, Dice Score: 77.29
+[EVAL] Epoch 366:  
+[Classification] Accuracy: 96.55, Dice Score: 93.35, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.45, Dice Score 78.39
+[TRAIN] Epoch 367:  
+[Classification] Loss: 0.01, Accuracy: 99.50, Dice Score: 99.00  
+[Segmentation]   Loss: 0.29, Accuracy: 99.41, Dice Score: 77.51
+[EVAL] Epoch 367:  
+[Classification] Accuracy: 96.45, Dice Score: 93.12, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.43, Dice Score 77.14
+[TRAIN] Epoch 368:  
+[Classification] Loss: 0.01, Accuracy: 99.70, Dice Score: 99.41  
+[Segmentation]   Loss: 0.29, Accuracy: 99.40, Dice Score: 77.26
+[EVAL] Epoch 368:  
+[Classification] Accuracy: 96.35, Dice Score: 92.96, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.46, Dice Score 78.55
+[TRAIN] Epoch 369:  
+[Classification] Loss: 0.02, Accuracy: 99.29, Dice Score: 98.59  
+[Segmentation]   Loss: 0.30, Accuracy: 99.37, Dice Score: 76.26
+[EVAL] Epoch 369:  
+[Classification] Accuracy: 96.26, Dice Score: 92.76, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.45, Dice Score 78.28
+[TRAIN] Epoch 370:  
+[Classification] Loss: 0.01, Accuracy: 99.47, Dice Score: 98.94  
+[Segmentation]   Loss: 0.29, Accuracy: 99.40, Dice Score: 76.99
+[EVAL] Epoch 370:  
+[Classification] Accuracy: 96.35, Dice Score: 92.96, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.45, Dice Score 78.13
+[TRAIN] Epoch 371:  
+[Classification] Loss: 0.74, Accuracy: 99.50, Dice Score: 99.00  
+[Segmentation]   Loss: 0.30, Accuracy: 99.38, Dice Score: 76.55
+[EVAL] Epoch 371:  
+[Classification] Accuracy: 95.97, Dice Score: 92.16, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.43, Dice Score 76.51
+[TRAIN] Epoch 372:  
+[Classification] Loss: 0.03, Accuracy: 98.85, Dice Score: 97.72  
+[Segmentation]   Loss: 0.31, Accuracy: 99.37, Dice Score: 75.71
+[EVAL] Epoch 372:  
+[Classification] Accuracy: 95.68, Dice Score: 91.79, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.43, Dice Score 76.33
+[TRAIN] Epoch 373:  
+[Classification] Loss: 0.02, Accuracy: 99.23, Dice Score: 98.48  
+[Segmentation]   Loss: 0.30, Accuracy: 99.38, Dice Score: 76.36
+[EVAL] Epoch 373:  
+[Classification] Accuracy: 96.26, Dice Score: 92.82, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.46, Dice Score 78.67
+[TRAIN] Epoch 374:  
+[Classification] Loss: 0.03, Accuracy: 98.79, Dice Score: 97.60  
+[Segmentation]   Loss: 0.30, Accuracy: 99.39, Dice Score: 76.37
+[EVAL] Epoch 374:  
+[Classification] Accuracy: 95.97, Dice Score: 92.22, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.45, Dice Score 78.86
+[TRAIN] Epoch 375:  
+[Classification] Loss: 0.03, Accuracy: 98.88, Dice Score: 97.78  
+[Segmentation]   Loss: 0.30, Accuracy: 99.39, Dice Score: 76.84
+[EVAL] Epoch 375:  
+[Classification] Accuracy: 96.16, Dice Score: 92.57, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.44, Dice Score 77.25
+[TRAIN] Epoch 376:  
+[Classification] Loss: 0.02, Accuracy: 99.41, Dice Score: 98.82  
+[Segmentation]   Loss: 0.29, Accuracy: 99.39, Dice Score: 77.08
+[EVAL] Epoch 376:  
+[Classification] Accuracy: 96.26, Dice Score: 92.67, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.46, Dice Score 78.39
+[TRAIN] Epoch 377:  
+[Classification] Loss: 0.02, Accuracy: 99.47, Dice Score: 98.94  
+[Segmentation]   Loss: 0.29, Accuracy: 99.40, Dice Score: 77.15
+[EVAL] Epoch 377:  
+[Classification] Accuracy: 96.07, Dice Score: 92.34, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.42, Dice Score 75.45
+[TRAIN] Epoch 378:  
+[Classification] Loss: 0.02, Accuracy: 99.32, Dice Score: 98.65  
+[Segmentation]   Loss: 0.30, Accuracy: 99.39, Dice Score: 76.45
+[EVAL] Epoch 378:  
+[Classification] Accuracy: 96.16, Dice Score: 92.63, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.46, Dice Score 78.50
+[TRAIN] Epoch 379:  
+[Classification] Loss: 0.02, Accuracy: 99.11, Dice Score: 98.24  
+[Segmentation]   Loss: 0.29, Accuracy: 99.39, Dice Score: 77.08
+[EVAL] Epoch 379:  
+[Classification] Accuracy: 95.39, Dice Score: 91.32, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.44, Dice Score 77.71
+[TRAIN] Epoch 380:  
+[Classification] Loss: 0.02, Accuracy: 99.41, Dice Score: 98.83  
+[Segmentation]   Loss: 0.29, Accuracy: 99.40, Dice Score: 76.82
+[EVAL] Epoch 380:  
+[Classification] Accuracy: 95.97, Dice Score: 92.19, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.45, Dice Score 78.35
+[TRAIN] Epoch 381:  
+[Classification] Loss: 1.09, Accuracy: 99.17, Dice Score: 98.36  
+[Segmentation]   Loss: 0.30, Accuracy: 99.37, Dice Score: 76.74
+[EVAL] Epoch 381:  
+[Classification] Accuracy: 95.78, Dice Score: 92.00, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.45, Dice Score 77.87
+[TRAIN] Epoch 382:  
+[Classification] Loss: 0.02, Accuracy: 99.26, Dice Score: 98.53  
+[Segmentation]   Loss: 0.30, Accuracy: 99.39, Dice Score: 76.67
+[EVAL] Epoch 382:  
+[Classification] Accuracy: 96.16, Dice Score: 92.67, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.46, Dice Score 79.85
+[TRAIN] Epoch 383:  
+[Classification] Loss: 0.02, Accuracy: 99.05, Dice Score: 98.13  
+[Segmentation]   Loss: 0.29, Accuracy: 99.40, Dice Score: 77.40
+[EVAL] Epoch 383:  
+[Classification] Accuracy: 95.97, Dice Score: 92.25, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.44, Dice Score 77.13
+[TRAIN] Epoch 384:  
+[Classification] Loss: 0.02, Accuracy: 99.35, Dice Score: 98.71  
+[Segmentation]   Loss: 0.29, Accuracy: 99.39, Dice Score: 76.77
+[EVAL] Epoch 384:  
+[Classification] Accuracy: 95.97, Dice Score: 92.21, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.44, Dice Score 77.34
+[TRAIN] Epoch 385:  
+[Classification] Loss: 0.09, Accuracy: 97.93, Dice Score: 95.94  
+[Segmentation]   Loss: 0.33, Accuracy: 99.29, Dice Score: 72.63
+[EVAL] Epoch 385:  
+[Classification] Accuracy: 95.68, Dice Score: 91.70, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.43, Dice Score 77.94
+[TRAIN] Epoch 386:  
+[Classification] Loss: 0.05, Accuracy: 98.58, Dice Score: 97.20  
+[Segmentation]   Loss: 0.31, Accuracy: 99.33, Dice Score: 74.96
+[EVAL] Epoch 386:  
+[Classification] Accuracy: 96.07, Dice Score: 92.44, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.41, Dice Score 75.70
+[TRAIN] Epoch 387:  
+[Classification] Loss: 0.02, Accuracy: 99.05, Dice Score: 98.12  
+[Segmentation]   Loss: 0.30, Accuracy: 99.38, Dice Score: 76.39
+[EVAL] Epoch 387:  
+[Classification] Accuracy: 96.26, Dice Score: 92.74, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.45, Dice Score 78.34
+[TRAIN] Epoch 388:  
+[Classification] Loss: 0.02, Accuracy: 99.20, Dice Score: 98.42  
+[Segmentation]   Loss: 0.30, Accuracy: 99.39, Dice Score: 76.79
+[EVAL] Epoch 388:  
+[Classification] Accuracy: 96.26, Dice Score: 92.75, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.45, Dice Score 78.32
+[TRAIN] Epoch 389:  
+[Classification] Loss: 0.02, Accuracy: 99.26, Dice Score: 98.53  
+[Segmentation]   Loss: 0.29, Accuracy: 99.39, Dice Score: 76.96
+[EVAL] Epoch 389:  
+[Classification] Accuracy: 96.16, Dice Score: 92.51, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.46, Dice Score 78.65
+[TRAIN] Epoch 390:  
+[Classification] Loss: 0.01, Accuracy: 99.47, Dice Score: 98.94  
+[Segmentation]   Loss: 0.29, Accuracy: 99.40, Dice Score: 77.16
+[EVAL] Epoch 390:  
+[Classification] Accuracy: 96.26, Dice Score: 92.74, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.45, Dice Score 78.15
+[TRAIN] Epoch 391:  
+[Classification] Loss: 0.01, Accuracy: 99.53, Dice Score: 99.06  
+[Segmentation]   Loss: 0.29, Accuracy: 99.41, Dice Score: 76.98
+[EVAL] Epoch 391:  
+[Classification] Accuracy: 96.07, Dice Score: 92.38, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.47, Dice Score 79.26
+[TRAIN] Epoch 392:  
+[Classification] Loss: 0.01, Accuracy: 99.59, Dice Score: 99.18  
+[Segmentation]   Loss: 0.29, Accuracy: 99.41, Dice Score: 77.69
+[EVAL] Epoch 392:  
+[Classification] Accuracy: 96.26, Dice Score: 92.79, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.45, Dice Score 77.88
+[TRAIN] Epoch 393:  
+[Classification] Loss: 0.01, Accuracy: 99.65, Dice Score: 99.29  
+[Segmentation]   Loss: 0.29, Accuracy: 99.41, Dice Score: 77.46
+[EVAL] Epoch 393:  
+[Classification] Accuracy: 96.16, Dice Score: 92.65, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.45, Dice Score 78.19
+[TRAIN] Epoch 394:  
+[Classification] Loss: 0.01, Accuracy: 99.56, Dice Score: 99.12  
+[Segmentation]   Loss: 0.28, Accuracy: 99.41, Dice Score: 77.87
+[EVAL] Epoch 394:  
+[Classification] Accuracy: 96.35, Dice Score: 92.96, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.47, Dice Score 79.64
+[TRAIN] Epoch 395:  
+[Classification] Loss: 0.01, Accuracy: 99.47, Dice Score: 98.94  
+[Segmentation]   Loss: 0.28, Accuracy: 99.41, Dice Score: 78.09
+[EVAL] Epoch 395:  
+[Classification] Accuracy: 96.45, Dice Score: 93.14, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.47, Dice Score 78.88
+[TRAIN] Epoch 396:  
+[Classification] Loss: 0.01, Accuracy: 99.68, Dice Score: 99.35  
+[Segmentation]   Loss: 0.29, Accuracy: 99.41, Dice Score: 76.99
+[EVAL] Epoch 396:  
+[Classification] Accuracy: 96.45, Dice Score: 93.16, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.46, Dice Score 78.68
+[TRAIN] Epoch 397:  
+[Classification] Loss: 0.04, Accuracy: 99.11, Dice Score: 98.24  
+[Segmentation]   Loss: 0.30, Accuracy: 99.39, Dice Score: 76.73
+[EVAL] Epoch 397:  
+[Classification] Accuracy: 95.78, Dice Score: 92.01, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.45, Dice Score 79.87
+[TRAIN] Epoch 398:  
+[Classification] Loss: 0.03, Accuracy: 99.35, Dice Score: 98.71  
+[Segmentation]   Loss: 0.29, Accuracy: 99.40, Dice Score: 77.39
+[EVAL] Epoch 398:  
+[Classification] Accuracy: 96.64, Dice Score: 93.43, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.46, Dice Score 79.68
+[TRAIN] Epoch 399:  
+[Classification] Loss: 0.02, Accuracy: 99.41, Dice Score: 98.83  
+[Segmentation]   Loss: 0.30, Accuracy: 99.39, Dice Score: 76.50
+[EVAL] Epoch 399:  
+[Classification] Accuracy: 95.87, Dice Score: 92.07, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.46, Dice Score 79.24
+[TRAIN] Epoch 400:  
+[Classification] Loss: 0.02, Accuracy: 99.41, Dice Score: 98.82  
+[Segmentation]   Loss: 0.30, Accuracy: 99.39, Dice Score: 76.99
+[EVAL] Epoch 400:  
+[Classification] Accuracy: 96.07, Dice Score: 92.45, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.42, Dice Score 75.74
+[TRAIN] Epoch 401:  
+[Classification] Loss: 0.03, Accuracy: 98.73, Dice Score: 97.49  
+[Segmentation]   Loss: 0.29, Accuracy: 99.39, Dice Score: 76.88
+[EVAL] Epoch 401:  
+[Classification] Accuracy: 96.26, Dice Score: 92.76, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.42, Dice Score 75.98
+[TRAIN] Epoch 402:  
+[Classification] Loss: 0.02, Accuracy: 99.14, Dice Score: 98.30  
+[Segmentation]   Loss: 0.30, Accuracy: 99.40, Dice Score: 76.74
+[EVAL] Epoch 402:  
+[Classification] Accuracy: 94.82, Dice Score: 90.49, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.43, Dice Score 77.10
+[TRAIN] Epoch 403:  
+[Classification] Loss: 0.02, Accuracy: 99.17, Dice Score: 98.36  
+[Segmentation]   Loss: 0.29, Accuracy: 99.40, Dice Score: 77.28
+[EVAL] Epoch 403:  
+[Classification] Accuracy: 95.78, Dice Score: 91.87, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.46, Dice Score 78.43
+[TRAIN] Epoch 404:  
+[Classification] Loss: 0.02, Accuracy: 99.47, Dice Score: 98.94  
+[Segmentation]   Loss: 0.29, Accuracy: 99.39, Dice Score: 77.16
+[EVAL] Epoch 404:  
+[Classification] Accuracy: 96.26, Dice Score: 92.74, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.47, Dice Score 79.04
+[TRAIN] Epoch 405:  
+[Classification] Loss: 0.10, Accuracy: 99.47, Dice Score: 98.94  
+[Segmentation]   Loss: 0.29, Accuracy: 99.39, Dice Score: 77.22
+[EVAL] Epoch 405:  
+[Classification] Accuracy: 96.26, Dice Score: 92.66, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.45, Dice Score 78.72
+[TRAIN] Epoch 406:  
+[Classification] Loss: 0.03, Accuracy: 98.88, Dice Score: 97.78  
+[Segmentation]   Loss: 0.30, Accuracy: 99.37, Dice Score: 75.97
+[EVAL] Epoch 406:  
+[Classification] Accuracy: 96.35, Dice Score: 93.03, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.44, Dice Score 77.49
+[TRAIN] Epoch 407:  
+[Classification] Loss: 0.02, Accuracy: 99.08, Dice Score: 98.19  
+[Segmentation]   Loss: 0.30, Accuracy: 99.40, Dice Score: 76.54
+[EVAL] Epoch 407:  
+[Classification] Accuracy: 96.26, Dice Score: 92.82, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.44, Dice Score 77.57
+[TRAIN] Epoch 408:  
+[Classification] Loss: 0.02, Accuracy: 99.14, Dice Score: 98.30  
+[Segmentation]   Loss: 0.29, Accuracy: 99.39, Dice Score: 76.78
+[EVAL] Epoch 408:  
+[Classification] Accuracy: 95.87, Dice Score: 92.18, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.43, Dice Score 76.66
+[TRAIN] Epoch 409:  
+[Classification] Loss: 0.02, Accuracy: 99.32, Dice Score: 98.65  
+[Segmentation]   Loss: 0.29, Accuracy: 99.39, Dice Score: 76.76
+[EVAL] Epoch 409:  
+[Classification] Accuracy: 96.26, Dice Score: 92.78, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.46, Dice Score 79.24
+[TRAIN] Epoch 410:  
+[Classification] Loss: 0.02, Accuracy: 99.38, Dice Score: 98.77  
+[Segmentation]   Loss: 0.29, Accuracy: 99.40, Dice Score: 77.68
+[EVAL] Epoch 410:  
+[Classification] Accuracy: 95.68, Dice Score: 91.83, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.41, Dice Score 75.97
+[TRAIN] Epoch 411:  
+[Classification] Loss: 0.02, Accuracy: 99.47, Dice Score: 98.94  
+[Segmentation]   Loss: 0.29, Accuracy: 99.40, Dice Score: 77.01
+[EVAL] Epoch 411:  
+[Classification] Accuracy: 96.35, Dice Score: 92.99, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.42, Dice Score 75.31
+[TRAIN] Epoch 412:  
+[Classification] Loss: 0.02, Accuracy: 98.97, Dice Score: 97.95  
+[Segmentation]   Loss: 0.29, Accuracy: 99.40, Dice Score: 77.31
+[EVAL] Epoch 412:  
+[Classification] Accuracy: 96.16, Dice Score: 92.61, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.41, Dice Score 75.58
+[TRAIN] Epoch 413:  
+[Classification] Loss: 0.02, Accuracy: 99.29, Dice Score: 98.59  
+[Segmentation]   Loss: 0.29, Accuracy: 99.40, Dice Score: 77.23
+[EVAL] Epoch 413:  
+[Classification] Accuracy: 96.45, Dice Score: 93.15, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.48, Dice Score 79.82
+[TRAIN] Epoch 414:  
+[Classification] Loss: 0.02, Accuracy: 99.29, Dice Score: 98.59  
+[Segmentation]   Loss: 0.29, Accuracy: 99.41, Dice Score: 77.33
+[EVAL] Epoch 414:  
+[Classification] Accuracy: 95.87, Dice Score: 92.01, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.45, Dice Score 77.87
+[TRAIN] Epoch 415:  
+[Classification] Loss: 0.01, Accuracy: 99.50, Dice Score: 99.00  
+[Segmentation]   Loss: 0.29, Accuracy: 99.41, Dice Score: 77.89
+[EVAL] Epoch 415:  
+[Classification] Accuracy: 96.45, Dice Score: 93.20, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.47, Dice Score 78.99
+[TRAIN] Epoch 416:  
+[Classification] Loss: 0.01, Accuracy: 99.56, Dice Score: 99.12  
+[Segmentation]   Loss: 0.28, Accuracy: 99.42, Dice Score: 78.18
+[EVAL] Epoch 416:  
+[Classification] Accuracy: 96.74, Dice Score: 93.73, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.48, Dice Score 79.87
+[TRAIN] Epoch 417:  
+[Classification] Loss: 0.01, Accuracy: 99.20, Dice Score: 98.42  
+[Segmentation]   Loss: 0.29, Accuracy: 99.41, Dice Score: 77.42
+[EVAL] Epoch 417:  
+[Classification] Accuracy: 96.16, Dice Score: 92.55, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.45, Dice Score 78.71
+[TRAIN] Epoch 418:  
+[Classification] Loss: 0.01, Accuracy: 99.53, Dice Score: 99.06  
+[Segmentation]   Loss: 0.29, Accuracy: 99.41, Dice Score: 77.68
+[EVAL] Epoch 418:  
+[Classification] Accuracy: 96.45, Dice Score: 93.19, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.44, Dice Score 77.00
+[TRAIN] Epoch 419:  
+[Classification] Loss: 0.01, Accuracy: 99.76, Dice Score: 99.53  
+[Segmentation]   Loss: 0.28, Accuracy: 99.42, Dice Score: 78.10
+[EVAL] Epoch 419:  
+[Classification] Accuracy: 96.26, Dice Score: 92.83, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.46, Dice Score 78.48
+[TRAIN] Epoch 420:  
+[Classification] Loss: 0.01, Accuracy: 99.53, Dice Score: 99.06  
+[Segmentation]   Loss: 0.28, Accuracy: 99.42, Dice Score: 77.95
+[EVAL] Epoch 420:  
+[Classification] Accuracy: 96.26, Dice Score: 92.79, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.46, Dice Score 78.33
+[TRAIN] Epoch 421:  
+[Classification] Loss: 0.01, Accuracy: 99.50, Dice Score: 99.00  
+[Segmentation]   Loss: 0.29, Accuracy: 99.42, Dice Score: 77.78
+[EVAL] Epoch 421:  
+[Classification] Accuracy: 95.97, Dice Score: 92.21, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.45, Dice Score 77.45
+[TRAIN] Epoch 422:  
+[Classification] Loss: 0.02, Accuracy: 99.41, Dice Score: 98.82  
+[Segmentation]   Loss: 0.28, Accuracy: 99.42, Dice Score: 77.90
+[EVAL] Epoch 422:  
+[Classification] Accuracy: 96.16, Dice Score: 92.63, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.46, Dice Score 78.27
+[TRAIN] Epoch 423:  
+[Classification] Loss: 0.01, Accuracy: 99.53, Dice Score: 99.06  
+[Segmentation]   Loss: 0.28, Accuracy: 99.42, Dice Score: 77.91
+[EVAL] Epoch 423:  
+[Classification] Accuracy: 96.45, Dice Score: 93.17, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.46, Dice Score 78.98
+[TRAIN] Epoch 424:  
+[Classification] Loss: 0.01, Accuracy: 99.68, Dice Score: 99.35  
+[Segmentation]   Loss: 0.28, Accuracy: 99.42, Dice Score: 78.40
+[EVAL] Epoch 424:  
+[Classification] Accuracy: 96.26, Dice Score: 92.79, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.45, Dice Score 77.59
+[TRAIN] Epoch 425:  
+[Classification] Loss: 0.02, Accuracy: 99.50, Dice Score: 99.00  
+[Segmentation]   Loss: 0.30, Accuracy: 99.40, Dice Score: 76.31
+[EVAL] Epoch 425:  
+[Classification] Accuracy: 96.55, Dice Score: 93.27, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.43, Dice Score 76.93
+[TRAIN] Epoch 426:  
+[Classification] Loss: 0.01, Accuracy: 99.56, Dice Score: 99.12  
+[Segmentation]   Loss: 0.29, Accuracy: 99.41, Dice Score: 77.18
+[EVAL] Epoch 426:  
+[Classification] Accuracy: 96.35, Dice Score: 93.04, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.45, Dice Score 77.92
+[TRAIN] Epoch 427:  
+[Classification] Loss: 0.01, Accuracy: 99.79, Dice Score: 99.59  
+[Segmentation]   Loss: 0.28, Accuracy: 99.42, Dice Score: 78.13
+[EVAL] Epoch 427:  
+[Classification] Accuracy: 96.83, Dice Score: 93.90, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.47, Dice Score 78.94
+[TRAIN] Epoch 428:  
+[Classification] Loss: 0.01, Accuracy: 99.50, Dice Score: 99.00  
+[Segmentation]   Loss: 0.28, Accuracy: 99.42, Dice Score: 77.87
+[EVAL] Epoch 428:  
+[Classification] Accuracy: 96.55, Dice Score: 93.37, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.48, Dice Score 79.76
+[TRAIN] Epoch 429:  
+[Classification] Loss: 0.01, Accuracy: 99.68, Dice Score: 99.35  
+[Segmentation]   Loss: 0.28, Accuracy: 99.42, Dice Score: 77.96
+[EVAL] Epoch 429:  
+[Classification] Accuracy: 96.55, Dice Score: 93.32, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.47, Dice Score 78.92
+[TRAIN] Epoch 430:  
+[Classification] Loss: 0.01, Accuracy: 99.70, Dice Score: 99.41  
+[Segmentation]   Loss: 0.28, Accuracy: 99.43, Dice Score: 78.10
+[EVAL] Epoch 430:  
+[Classification] Accuracy: 96.74, Dice Score: 93.73, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.47, Dice Score 79.48
+[TRAIN] Epoch 431:  
+[Classification] Loss: 0.01, Accuracy: 99.59, Dice Score: 99.18  
+[Segmentation]   Loss: 0.28, Accuracy: 99.43, Dice Score: 78.09
+[EVAL] Epoch 431:  
+[Classification] Accuracy: 96.45, Dice Score: 93.20, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.47, Dice Score 78.50
+[TRAIN] Epoch 432:  
+[Classification] Loss: 0.01, Accuracy: 99.56, Dice Score: 99.12  
+[Segmentation]   Loss: 0.28, Accuracy: 99.42, Dice Score: 78.20
+[EVAL] Epoch 432:  
+[Classification] Accuracy: 96.07, Dice Score: 92.52, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.46, Dice Score 78.84
+[TRAIN] Epoch 433:  
+[Classification] Loss: 0.01, Accuracy: 99.62, Dice Score: 99.24  
+[Segmentation]   Loss: 0.28, Accuracy: 99.42, Dice Score: 78.08
+[EVAL] Epoch 433:  
+[Classification] Accuracy: 96.55, Dice Score: 93.30, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.43, Dice Score 75.99
+[TRAIN] Epoch 434:  
+[Classification] Loss: 0.01, Accuracy: 99.62, Dice Score: 99.23  
+[Segmentation]   Loss: 0.28, Accuracy: 99.43, Dice Score: 78.38
+[EVAL] Epoch 434:  
+[Classification] Accuracy: 96.64, Dice Score: 93.55, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.47, Dice Score 79.32
+[TRAIN] Epoch 435:  
+[Classification] Loss: 0.01, Accuracy: 99.82, Dice Score: 99.65  
+[Segmentation]   Loss: 0.28, Accuracy: 99.43, Dice Score: 78.52
+[EVAL] Epoch 435:  
+[Classification] Accuracy: 96.45, Dice Score: 93.21, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.47, Dice Score 79.06
+[TRAIN] Epoch 436:  
+[Classification] Loss: 0.00, Accuracy: 99.85, Dice Score: 99.71  
+[Segmentation]   Loss: 0.28, Accuracy: 99.43, Dice Score: 78.48
+[EVAL] Epoch 436:  
+[Classification] Accuracy: 96.45, Dice Score: 93.14, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.47, Dice Score 78.80
+[TRAIN] Epoch 437:  
+[Classification] Loss: 0.01, Accuracy: 99.70, Dice Score: 99.41  
+[Segmentation]   Loss: 0.28, Accuracy: 99.43, Dice Score: 78.33
+[EVAL] Epoch 437:  
+[Classification] Accuracy: 96.45, Dice Score: 93.19, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.46, Dice Score 78.47
+[TRAIN] Epoch 438:  
+[Classification] Loss: 0.01, Accuracy: 99.73, Dice Score: 99.47  
+[Segmentation]   Loss: 0.28, Accuracy: 99.43, Dice Score: 78.64
+[EVAL] Epoch 438:  
+[Classification] Accuracy: 96.64, Dice Score: 93.51, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.46, Dice Score 78.14
+[TRAIN] Epoch 439:  
+[Classification] Loss: 0.01, Accuracy: 99.70, Dice Score: 99.41  
+[Segmentation]   Loss: 0.28, Accuracy: 99.43, Dice Score: 78.07
+[EVAL] Epoch 439:  
+[Classification] Accuracy: 96.74, Dice Score: 93.66, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.47, Dice Score 79.05
+[TRAIN] Epoch 440:  
+[Classification] Loss: 0.01, Accuracy: 99.76, Dice Score: 99.53  
+[Segmentation]   Loss: 0.28, Accuracy: 99.43, Dice Score: 78.32
+[EVAL] Epoch 440:  
+[Classification] Accuracy: 97.22, Dice Score: 94.58, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.47, Dice Score 78.82
+[TRAIN] Epoch 441:  
+[Classification] Loss: 0.00, Accuracy: 99.85, Dice Score: 99.71  
+[Segmentation]   Loss: 0.28, Accuracy: 99.43, Dice Score: 78.50
+[EVAL] Epoch 441:  
+[Classification] Accuracy: 96.55, Dice Score: 93.32, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.48, Dice Score 79.84
+[TRAIN] Epoch 442:  
+[Classification] Loss: 1.17, Accuracy: 99.20, Dice Score: 98.42  
+[Segmentation]   Loss: 0.29, Accuracy: 99.41, Dice Score: 77.69
+[EVAL] Epoch 442:  
+[Classification] Accuracy: 96.55, Dice Score: 93.38, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.47, Dice Score 78.98
+[TRAIN] Epoch 443:  
+[Classification] Loss: 0.07, Accuracy: 98.23, Dice Score: 96.52  
+[Segmentation]   Loss: 0.31, Accuracy: 99.35, Dice Score: 75.60
+[EVAL] Epoch 443:  
+[Classification] Accuracy: 96.07, Dice Score: 92.39, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.38, Dice Score 75.69
+[TRAIN] Epoch 444:  
+[Classification] Loss: 0.04, Accuracy: 98.58, Dice Score: 97.20  
+[Segmentation]   Loss: 0.32, Accuracy: 99.33, Dice Score: 74.11
+[EVAL] Epoch 444:  
+[Classification] Accuracy: 96.26, Dice Score: 92.78, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.42, Dice Score 76.72
+[TRAIN] Epoch 445:  
+[Classification] Loss: 0.02, Accuracy: 99.44, Dice Score: 98.88  
+[Segmentation]   Loss: 0.30, Accuracy: 99.38, Dice Score: 76.56
+[EVAL] Epoch 445:  
+[Classification] Accuracy: 96.26, Dice Score: 92.76, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.45, Dice Score 78.57
+[TRAIN] Epoch 446:  
+[Classification] Loss: 0.06, Accuracy: 99.53, Dice Score: 99.06  
+[Segmentation]   Loss: 0.30, Accuracy: 99.37, Dice Score: 76.18
+[EVAL] Epoch 446:  
+[Classification] Accuracy: 96.16, Dice Score: 92.62, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.44, Dice Score 77.54
+[TRAIN] Epoch 447:  
+[Classification] Loss: 0.25, Accuracy: 96.66, Dice Score: 93.52  
+[Segmentation]   Loss: 0.36, Accuracy: 99.23, Dice Score: 69.77
+[EVAL] Epoch 447:  
+[Classification] Accuracy: 95.49, Dice Score: 91.50, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.41, Dice Score 78.11
+[TRAIN] Epoch 448:  
+[Classification] Loss: 0.16, Accuracy: 98.58, Dice Score: 97.20  
+[Segmentation]   Loss: 0.32, Accuracy: 99.33, Dice Score: 74.10
+[EVAL] Epoch 448:  
+[Classification] Accuracy: 96.45, Dice Score: 93.06, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.44, Dice Score 77.68
+[TRAIN] Epoch 449:  
+[Classification] Loss: 0.02, Accuracy: 99.20, Dice Score: 98.42  
+[Segmentation]   Loss: 0.30, Accuracy: 99.39, Dice Score: 76.56
+[EVAL] Epoch 449:  
+[Classification] Accuracy: 96.55, Dice Score: 93.32, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.46, Dice Score 78.91
+ ###Test###
+[TEST] Epoch 0:  
+[Classification] Accuracy: 89.44, Dice Score: 82.49, F1 Score: 0.90  
+[Segmentation]   Accuracy: 95.47, Dice Score 25.77
+[TEST] Epoch 1:  
+[Classification] Accuracy: 86.77, Dice Score: 78.86, F1 Score: 0.88  
+[Segmentation]   Accuracy: 96.32, Dice Score 31.91
+[TEST] Epoch 2:  
+[Classification] Accuracy: 90.08, Dice Score: 83.23, F1 Score: 0.91  
+[Segmentation]   Accuracy: 97.15, Dice Score 37.73
+[TEST] Epoch 3:  
+[Classification] Accuracy: 91.60, Dice Score: 85.10, F1 Score: 0.92  
+[Segmentation]   Accuracy: 98.07, Dice Score 45.20
+[TEST] Epoch 4:  
+[Classification] Accuracy: 90.59, Dice Score: 83.63, F1 Score: 0.91  
+[Segmentation]   Accuracy: 95.76, Dice Score 32.74
+[TEST] Epoch 5:  
+[Classification] Accuracy: 90.33, Dice Score: 83.22, F1 Score: 0.91  
+[Segmentation]   Accuracy: 98.79, Dice Score 55.66
+[TEST] Epoch 6:  
+[Classification] Accuracy: 89.95, Dice Score: 83.16, F1 Score: 0.91  
+[Segmentation]   Accuracy: 98.42, Dice Score 38.38
+[TEST] Epoch 7:  
+[Classification] Accuracy: 88.93, Dice Score: 80.05, F1 Score: 0.89  
+[Segmentation]   Accuracy: 98.84, Dice Score 37.92
+[TEST] Epoch 8:  
+[Classification] Accuracy: 90.20, Dice Score: 82.89, F1 Score: 0.91  
+[Segmentation]   Accuracy: 98.82, Dice Score 36.96
+[TEST] Epoch 9:  
+[Classification] Accuracy: 90.84, Dice Score: 84.42, F1 Score: 0.92  
+[Segmentation]   Accuracy: 98.95, Dice Score 43.52
+[TEST] Epoch 10:  
+[Classification] Accuracy: 90.71, Dice Score: 83.78, F1 Score: 0.91  
+[Segmentation]   Accuracy: 98.97, Dice Score 49.89
+[TEST] Epoch 11:  
+[Classification] Accuracy: 90.97, Dice Score: 84.67, F1 Score: 0.92  
+[Segmentation]   Accuracy: 98.94, Dice Score 49.88
+[TEST] Epoch 12:  
+[Classification] Accuracy: 91.09, Dice Score: 84.75, F1 Score: 0.92  
+[Segmentation]   Accuracy: 99.05, Dice Score 51.99
+[TEST] Epoch 13:  
+[Classification] Accuracy: 92.24, Dice Score: 86.14, F1 Score: 0.93  
+[Segmentation]   Accuracy: 99.08, Dice Score 46.06
+[TEST] Epoch 14:  
+[Classification] Accuracy: 92.75, Dice Score: 86.87, F1 Score: 0.93  
+[Segmentation]   Accuracy: 99.13, Dice Score 54.62
+[TEST] Epoch 15:  
+[Classification] Accuracy: 91.98, Dice Score: 85.52, F1 Score: 0.92  
+[Segmentation]   Accuracy: 99.17, Dice Score 55.29
+[TEST] Epoch 16:  
+[Classification] Accuracy: 91.35, Dice Score: 85.15, F1 Score: 0.92  
+[Segmentation]   Accuracy: 99.08, Dice Score 47.53
+[TEST] Epoch 17:  
+[Classification] Accuracy: 91.98, Dice Score: 85.87, F1 Score: 0.92  
+[Segmentation]   Accuracy: 99.13, Dice Score 55.15
+[TEST] Epoch 18:  
+[Classification] Accuracy: 93.00, Dice Score: 87.56, F1 Score: 0.93  
+[Segmentation]   Accuracy: 99.17, Dice Score 56.99
+[TEST] Epoch 19:  
+[Classification] Accuracy: 91.98, Dice Score: 85.97, F1 Score: 0.92  
+[Segmentation]   Accuracy: 99.18, Dice Score 61.47
+[TEST] Epoch 20:  
+[Classification] Accuracy: 91.98, Dice Score: 85.91, F1 Score: 0.92  
+[Segmentation]   Accuracy: 99.21, Dice Score 59.19
+[TEST] Epoch 21:  
+[Classification] Accuracy: 93.26, Dice Score: 87.76, F1 Score: 0.93  
+[Segmentation]   Accuracy: 99.19, Dice Score 56.09
+[TEST] Epoch 22:  
+[Classification] Accuracy: 93.13, Dice Score: 87.35, F1 Score: 0.93  
+[Segmentation]   Accuracy: 99.17, Dice Score 61.26
+[TEST] Epoch 23:  
+[Classification] Accuracy: 92.62, Dice Score: 86.73, F1 Score: 0.93  
+[Segmentation]   Accuracy: 99.22, Dice Score 61.82
+[TEST] Epoch 24:  
+[Classification] Accuracy: 91.60, Dice Score: 85.33, F1 Score: 0.92  
+[Segmentation]   Accuracy: 99.24, Dice Score 64.20
+[TEST] Epoch 25:  
+[Classification] Accuracy: 93.26, Dice Score: 87.82, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.25, Dice Score 62.29
+[TEST] Epoch 26:  
+[Classification] Accuracy: 93.00, Dice Score: 87.41, F1 Score: 0.93  
+[Segmentation]   Accuracy: 99.25, Dice Score 65.62
+[TEST] Epoch 27:  
+[Classification] Accuracy: 93.64, Dice Score: 88.61, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.29, Dice Score 64.85
+[TEST] Epoch 28:  
+[Classification] Accuracy: 92.75, Dice Score: 87.22, F1 Score: 0.93  
+[Segmentation]   Accuracy: 99.29, Dice Score 63.29
+[TEST] Epoch 29:  
+[Classification] Accuracy: 93.77, Dice Score: 88.47, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.28, Dice Score 61.36
+[TEST] Epoch 30:  
+[Classification] Accuracy: 93.13, Dice Score: 87.44, F1 Score: 0.93  
+[Segmentation]   Accuracy: 99.30, Dice Score 67.84
+[TEST] Epoch 31:  
+[Classification] Accuracy: 92.49, Dice Score: 86.59, F1 Score: 0.93  
+[Segmentation]   Accuracy: 99.32, Dice Score 66.90
+[TEST] Epoch 32:  
+[Classification] Accuracy: 93.64, Dice Score: 88.21, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.33, Dice Score 65.53
+[TEST] Epoch 33:  
+[Classification] Accuracy: 93.89, Dice Score: 88.65, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.33, Dice Score 64.87
+[TEST] Epoch 34:  
+[Classification] Accuracy: 92.88, Dice Score: 86.67, F1 Score: 0.93  
+[Segmentation]   Accuracy: 99.30, Dice Score 64.83
+[TEST] Epoch 35:  
+[Classification] Accuracy: 91.98, Dice Score: 85.94, F1 Score: 0.92  
+[Segmentation]   Accuracy: 99.23, Dice Score 61.08
+[TEST] Epoch 36:  
+[Classification] Accuracy: 92.24, Dice Score: 86.29, F1 Score: 0.93  
+[Segmentation]   Accuracy: 99.29, Dice Score 65.57
+[TEST] Epoch 37:  
+[Classification] Accuracy: 93.51, Dice Score: 88.25, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.26, Dice Score 67.79
+[TEST] Epoch 38:  
+[Classification] Accuracy: 93.89, Dice Score: 88.86, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.31, Dice Score 64.70
+[TEST] Epoch 39:  
+[Classification] Accuracy: 92.24, Dice Score: 86.32, F1 Score: 0.93  
+[Segmentation]   Accuracy: 98.88, Dice Score 60.63
+[TEST] Epoch 40:  
+[Classification] Accuracy: 92.49, Dice Score: 86.50, F1 Score: 0.93  
+[Segmentation]   Accuracy: 99.31, Dice Score 66.93
+[TEST] Epoch 41:  
+[Classification] Accuracy: 93.64, Dice Score: 88.21, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.32, Dice Score 67.24
+[TEST] Epoch 42:  
+[Classification] Accuracy: 93.64, Dice Score: 88.29, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.34, Dice Score 66.60
+[TEST] Epoch 43:  
+[Classification] Accuracy: 92.88, Dice Score: 87.19, F1 Score: 0.93  
+[Segmentation]   Accuracy: 99.31, Dice Score 69.04
+[TEST] Epoch 44:  
+[Classification] Accuracy: 93.38, Dice Score: 87.56, F1 Score: 0.93  
+[Segmentation]   Accuracy: 99.32, Dice Score 67.34
+[TEST] Epoch 45:  
+[Classification] Accuracy: 94.02, Dice Score: 88.92, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.33, Dice Score 69.18
+[TEST] Epoch 46:  
+[Classification] Accuracy: 93.26, Dice Score: 87.35, F1 Score: 0.93  
+[Segmentation]   Accuracy: 99.36, Dice Score 68.74
+[TEST] Epoch 47:  
+[Classification] Accuracy: 93.00, Dice Score: 86.55, F1 Score: 0.93  
+[Segmentation]   Accuracy: 99.35, Dice Score 65.53
+[TEST] Epoch 48:  
+[Classification] Accuracy: 94.15, Dice Score: 89.07, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.37, Dice Score 69.48
+[TEST] Epoch 49:  
+[Classification] Accuracy: 94.27, Dice Score: 89.18, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.33, Dice Score 64.08
+[TEST] Epoch 50:  
+[Classification] Accuracy: 93.00, Dice Score: 87.50, F1 Score: 0.93  
+[Segmentation]   Accuracy: 99.35, Dice Score 69.84
+[TEST] Epoch 51:  
+[Classification] Accuracy: 94.40, Dice Score: 89.37, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.37, Dice Score 69.38
+[TEST] Epoch 52:  
+[Classification] Accuracy: 92.75, Dice Score: 87.02, F1 Score: 0.93  
+[Segmentation]   Accuracy: 99.32, Dice Score 69.36
+[TEST] Epoch 53:  
+[Classification] Accuracy: 91.35, Dice Score: 85.15, F1 Score: 0.92  
+[Segmentation]   Accuracy: 99.36, Dice Score 67.47
+[TEST] Epoch 54:  
+[Classification] Accuracy: 94.78, Dice Score: 90.40, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.35, Dice Score 70.86
+[TEST] Epoch 55:  
+[Classification] Accuracy: 93.13, Dice Score: 87.64, F1 Score: 0.93  
+[Segmentation]   Accuracy: 99.38, Dice Score 71.43
+[TEST] Epoch 56:  
+[Classification] Accuracy: 94.27, Dice Score: 89.02, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.37, Dice Score 71.29
+[TEST] Epoch 57:  
+[Classification] Accuracy: 94.78, Dice Score: 90.24, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.39, Dice Score 71.17
+[TEST] Epoch 58:  
+[Classification] Accuracy: 90.84, Dice Score: 82.86, F1 Score: 0.91  
+[Segmentation]   Accuracy: 99.18, Dice Score 56.27
+[TEST] Epoch 59:  
+[Classification] Accuracy: 92.49, Dice Score: 86.25, F1 Score: 0.93  
+[Segmentation]   Accuracy: 99.28, Dice Score 61.70
+[TEST] Epoch 60:  
+[Classification] Accuracy: 93.89, Dice Score: 88.81, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.37, Dice Score 68.72
+[TEST] Epoch 61:  
+[Classification] Accuracy: 92.88, Dice Score: 87.27, F1 Score: 0.93  
+[Segmentation]   Accuracy: 99.33, Dice Score 68.00
+[TEST] Epoch 62:  
+[Classification] Accuracy: 93.51, Dice Score: 87.65, F1 Score: 0.93  
+[Segmentation]   Accuracy: 99.36, Dice Score 70.26
+[TEST] Epoch 63:  
+[Classification] Accuracy: 92.49, Dice Score: 86.02, F1 Score: 0.92  
+[Segmentation]   Accuracy: 99.34, Dice Score 67.86
+[TEST] Epoch 64:  
+[Classification] Accuracy: 94.40, Dice Score: 89.57, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.35, Dice Score 66.10
+[TEST] Epoch 65:  
+[Classification] Accuracy: 94.40, Dice Score: 89.11, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.30, Dice Score 62.45
+[TEST] Epoch 66:  
+[Classification] Accuracy: 93.77, Dice Score: 88.31, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.37, Dice Score 68.46
+[TEST] Epoch 67:  
+[Classification] Accuracy: 94.27, Dice Score: 89.39, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.39, Dice Score 70.18
+[TEST] Epoch 68:  
+[Classification] Accuracy: 89.95, Dice Score: 82.79, F1 Score: 0.91  
+[Segmentation]   Accuracy: 98.87, Dice Score 44.35
+[TEST] Epoch 69:  
+[Classification] Accuracy: 93.89, Dice Score: 88.76, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.36, Dice Score 68.92
+[TEST] Epoch 70:  
+[Classification] Accuracy: 94.15, Dice Score: 89.05, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.37, Dice Score 68.60
+[TEST] Epoch 71:  
+[Classification] Accuracy: 90.84, Dice Score: 84.42, F1 Score: 0.92  
+[Segmentation]   Accuracy: 99.15, Dice Score 45.93
+[TEST] Epoch 72:  
+[Classification] Accuracy: 93.64, Dice Score: 88.32, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.35, Dice Score 67.15
+[TEST] Epoch 73:  
+[Classification] Accuracy: 93.64, Dice Score: 88.40, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.39, Dice Score 70.24
+[TEST] Epoch 74:  
+[Classification] Accuracy: 94.27, Dice Score: 89.21, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.39, Dice Score 68.92
+[TEST] Epoch 75:  
+[Classification] Accuracy: 94.66, Dice Score: 89.83, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.39, Dice Score 68.99
+[TEST] Epoch 76:  
+[Classification] Accuracy: 94.40, Dice Score: 89.32, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.41, Dice Score 71.38
+[TEST] Epoch 77:  
+[Classification] Accuracy: 94.66, Dice Score: 89.93, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.38, Dice Score 68.69
+[TEST] Epoch 78:  
+[Classification] Accuracy: 94.78, Dice Score: 90.05, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.36, Dice Score 66.37
+[TEST] Epoch 79:  
+[Classification] Accuracy: 81.42, Dice Score: 62.94, F1 Score: 0.77  
+[Segmentation]   Accuracy: 99.16, Dice Score 48.23
+[TEST] Epoch 80:  
+[Classification] Accuracy: 94.53, Dice Score: 89.69, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.38, Dice Score 68.30
+[TEST] Epoch 81:  
+[Classification] Accuracy: 94.27, Dice Score: 89.29, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.39, Dice Score 70.62
+[TEST] Epoch 82:  
+[Classification] Accuracy: 95.17, Dice Score: 90.75, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.39, Dice Score 68.78
+[TEST] Epoch 83:  
+[Classification] Accuracy: 94.15, Dice Score: 88.89, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.41, Dice Score 71.46
+[TEST] Epoch 84:  
+[Classification] Accuracy: 94.78, Dice Score: 90.33, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.41, Dice Score 72.08
+[TEST] Epoch 85:  
+[Classification] Accuracy: 95.80, Dice Score: 91.97, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.40, Dice Score 71.95
+[TEST] Epoch 86:  
+[Classification] Accuracy: 92.88, Dice Score: 87.13, F1 Score: 0.93  
+[Segmentation]   Accuracy: 99.32, Dice Score 65.16
+[TEST] Epoch 87:  
+[Classification] Accuracy: 93.13, Dice Score: 86.70, F1 Score: 0.93  
+[Segmentation]   Accuracy: 99.35, Dice Score 66.10
+[TEST] Epoch 88:  
+[Classification] Accuracy: 94.40, Dice Score: 89.57, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.41, Dice Score 73.53
+[TEST] Epoch 89:  
+[Classification] Accuracy: 93.89, Dice Score: 88.68, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.31, Dice Score 63.99
+[TEST] Epoch 90:  
+[Classification] Accuracy: 94.78, Dice Score: 90.33, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.39, Dice Score 69.87
+[TEST] Epoch 91:  
+[Classification] Accuracy: 95.29, Dice Score: 91.19, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.37, Dice Score 68.04
+[TEST] Epoch 92:  
+[Classification] Accuracy: 95.67, Dice Score: 91.85, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.41, Dice Score 71.28
+[TEST] Epoch 93:  
+[Classification] Accuracy: 94.40, Dice Score: 89.60, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.40, Dice Score 71.59
+[TEST] Epoch 94:  
+[Classification] Accuracy: 94.15, Dice Score: 89.13, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.37, Dice Score 68.50
+[TEST] Epoch 95:  
+[Classification] Accuracy: 94.66, Dice Score: 90.05, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.41, Dice Score 72.41
+[TEST] Epoch 96:  
+[Classification] Accuracy: 94.53, Dice Score: 89.74, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.41, Dice Score 72.32
+[TEST] Epoch 97:  
+[Classification] Accuracy: 94.53, Dice Score: 89.79, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.42, Dice Score 72.54
+[TEST] Epoch 98:  
+[Classification] Accuracy: 94.91, Dice Score: 90.52, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.42, Dice Score 72.40
+[TEST] Epoch 99:  
+[Classification] Accuracy: 94.78, Dice Score: 90.17, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.40, Dice Score 70.30
+[TEST] Epoch 100:  
+[Classification] Accuracy: 94.53, Dice Score: 89.76, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.43, Dice Score 72.47
+[TEST] Epoch 101:  
+[Classification] Accuracy: 94.78, Dice Score: 90.07, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.42, Dice Score 72.08
+[TEST] Epoch 102:  
+[Classification] Accuracy: 95.04, Dice Score: 90.46, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.42, Dice Score 72.07
+[TEST] Epoch 103:  
+[Classification] Accuracy: 94.91, Dice Score: 90.36, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.40, Dice Score 70.13
+[TEST] Epoch 104:  
+[Classification] Accuracy: 94.91, Dice Score: 90.36, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.43, Dice Score 73.12
+[TEST] Epoch 105:  
+[Classification] Accuracy: 95.29, Dice Score: 91.08, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.41, Dice Score 70.55
+[TEST] Epoch 106:  
+[Classification] Accuracy: 95.17, Dice Score: 90.89, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.43, Dice Score 72.57
+[TEST] Epoch 107:  
+[Classification] Accuracy: 95.29, Dice Score: 91.06, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.43, Dice Score 73.11
+[TEST] Epoch 108:  
+[Classification] Accuracy: 94.15, Dice Score: 89.18, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.42, Dice Score 73.12
+[TEST] Epoch 109:  
+[Classification] Accuracy: 94.91, Dice Score: 90.27, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.42, Dice Score 71.82
+[TEST] Epoch 110:  
+[Classification] Accuracy: 95.29, Dice Score: 90.93, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.41, Dice Score 74.06
+[TEST] Epoch 111:  
+[Classification] Accuracy: 95.17, Dice Score: 90.78, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.42, Dice Score 71.35
+[TEST] Epoch 112:  
+[Classification] Accuracy: 94.91, Dice Score: 90.31, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.43, Dice Score 73.51
+[TEST] Epoch 113:  
+[Classification] Accuracy: 94.66, Dice Score: 89.76, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.42, Dice Score 71.06
+[TEST] Epoch 114:  
+[Classification] Accuracy: 95.17, Dice Score: 90.82, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.42, Dice Score 70.90
+[TEST] Epoch 115:  
+[Classification] Accuracy: 95.55, Dice Score: 91.53, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.44, Dice Score 73.83
+[TEST] Epoch 116:  
+[Classification] Accuracy: 95.55, Dice Score: 91.46, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.43, Dice Score 72.41
+[TEST] Epoch 117:  
+[Classification] Accuracy: 95.42, Dice Score: 91.26, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.43, Dice Score 72.12
+[TEST] Epoch 118:  
+[Classification] Accuracy: 95.04, Dice Score: 90.49, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.43, Dice Score 72.00
+[TEST] Epoch 119:  
+[Classification] Accuracy: 95.55, Dice Score: 91.59, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.44, Dice Score 73.54
+[TEST] Epoch 120:  
+[Classification] Accuracy: 95.55, Dice Score: 91.44, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.44, Dice Score 73.48
+[TEST] Epoch 121:  
+[Classification] Accuracy: 94.78, Dice Score: 89.88, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.43, Dice Score 72.03
+[TEST] Epoch 122:  
+[Classification] Accuracy: 95.42, Dice Score: 91.22, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.44, Dice Score 72.99
+[TEST] Epoch 123:  
+[Classification] Accuracy: 96.31, Dice Score: 93.00, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.44, Dice Score 72.87
+[TEST] Epoch 124:  
+[Classification] Accuracy: 96.06, Dice Score: 92.53, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.45, Dice Score 74.37
+[TEST] Epoch 125:  
+[Classification] Accuracy: 95.55, Dice Score: 91.53, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.45, Dice Score 74.17
+[TEST] Epoch 126:  
+[Classification] Accuracy: 95.17, Dice Score: 90.71, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.44, Dice Score 74.97
+[TEST] Epoch 127:  
+[Classification] Accuracy: 95.80, Dice Score: 91.83, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.43, Dice Score 71.26
+[TEST] Epoch 128:  
+[Classification] Accuracy: 95.80, Dice Score: 91.93, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.45, Dice Score 74.49
+[TEST] Epoch 129:  
+[Classification] Accuracy: 94.53, Dice Score: 89.33, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.43, Dice Score 71.56
+[TEST] Epoch 130:  
+[Classification] Accuracy: 94.91, Dice Score: 90.34, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.45, Dice Score 73.35
+[TEST] Epoch 131:  
+[Classification] Accuracy: 95.29, Dice Score: 91.04, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.44, Dice Score 72.54
+[TEST] Epoch 132:  
+[Classification] Accuracy: 95.04, Dice Score: 90.53, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.44, Dice Score 74.86
+[TEST] Epoch 133:  
+[Classification] Accuracy: 95.42, Dice Score: 91.37, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.44, Dice Score 74.05
+[TEST] Epoch 134:  
+[Classification] Accuracy: 96.06, Dice Score: 92.36, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.45, Dice Score 73.63
+[TEST] Epoch 135:  
+[Classification] Accuracy: 95.29, Dice Score: 90.84, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.42, Dice Score 71.37
+[TEST] Epoch 136:  
+[Classification] Accuracy: 95.42, Dice Score: 91.11, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.40, Dice Score 68.29
+[TEST] Epoch 137:  
+[Classification] Accuracy: 95.67, Dice Score: 91.75, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.44, Dice Score 74.49
+[TEST] Epoch 138:  
+[Classification] Accuracy: 91.86, Dice Score: 84.16, F1 Score: 0.91  
+[Segmentation]   Accuracy: 99.44, Dice Score 74.20
+[TEST] Epoch 139:  
+[Classification] Accuracy: 95.42, Dice Score: 91.35, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.46, Dice Score 74.27
+[TEST] Epoch 140:  
+[Classification] Accuracy: 95.42, Dice Score: 91.09, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.44, Dice Score 71.84
+[TEST] Epoch 141:  
+[Classification] Accuracy: 95.93, Dice Score: 92.29, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.44, Dice Score 73.63
+[TEST] Epoch 142:  
+[Classification] Accuracy: 95.04, Dice Score: 90.39, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.44, Dice Score 72.85
+[TEST] Epoch 143:  
+[Classification] Accuracy: 94.78, Dice Score: 89.80, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.45, Dice Score 73.26
+[TEST] Epoch 144:  
+[Classification] Accuracy: 94.27, Dice Score: 88.89, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.42, Dice Score 70.37
+[TEST] Epoch 145:  
+[Classification] Accuracy: 96.06, Dice Score: 92.49, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.47, Dice Score 75.40
+[TEST] Epoch 146:  
+[Classification] Accuracy: 95.29, Dice Score: 90.89, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.45, Dice Score 73.72
+[TEST] Epoch 147:  
+[Classification] Accuracy: 95.17, Dice Score: 90.55, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.45, Dice Score 75.73
+[TEST] Epoch 148:  
+[Classification] Accuracy: 96.31, Dice Score: 92.77, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.44, Dice Score 73.14
+[TEST] Epoch 149:  
+[Classification] Accuracy: 95.42, Dice Score: 91.26, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.45, Dice Score 72.99
+[TEST] Epoch 150:  
+[Classification] Accuracy: 96.31, Dice Score: 92.91, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.47, Dice Score 75.69
+[TEST] Epoch 151:  
+[Classification] Accuracy: 95.93, Dice Score: 92.08, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.47, Dice Score 75.23
+[TEST] Epoch 152:  
+[Classification] Accuracy: 95.42, Dice Score: 91.18, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.47, Dice Score 74.39
+[TEST] Epoch 153:  
+[Classification] Accuracy: 95.17, Dice Score: 90.71, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.44, Dice Score 72.87
+[TEST] Epoch 154:  
+[Classification] Accuracy: 95.67, Dice Score: 91.89, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.47, Dice Score 74.81
+[TEST] Epoch 155:  
+[Classification] Accuracy: 95.04, Dice Score: 90.78, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.45, Dice Score 76.31
+[TEST] Epoch 156:  
+[Classification] Accuracy: 94.78, Dice Score: 89.85, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.45, Dice Score 73.28
+[TEST] Epoch 157:  
+[Classification] Accuracy: 95.04, Dice Score: 90.37, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.47, Dice Score 75.05
+[TEST] Epoch 158:  
+[Classification] Accuracy: 96.06, Dice Score: 92.40, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.48, Dice Score 75.12
+[TEST] Epoch 159:  
+[Classification] Accuracy: 95.42, Dice Score: 91.26, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.46, Dice Score 73.20
+[TEST] Epoch 160:  
+[Classification] Accuracy: 95.93, Dice Score: 92.31, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.47, Dice Score 75.19
+[TEST] Epoch 161:  
+[Classification] Accuracy: 95.67, Dice Score: 91.75, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.47, Dice Score 74.23
+[TEST] Epoch 162:  
+[Classification] Accuracy: 96.31, Dice Score: 92.91, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.48, Dice Score 75.20
+[TEST] Epoch 163:  
+[Classification] Accuracy: 94.53, Dice Score: 89.38, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.46, Dice Score 72.80
+[TEST] Epoch 164:  
+[Classification] Accuracy: 95.04, Dice Score: 90.30, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.48, Dice Score 74.88
+[TEST] Epoch 165:  
+[Classification] Accuracy: 95.93, Dice Score: 92.20, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.49, Dice Score 75.78
+[TEST] Epoch 166:  
+[Classification] Accuracy: 96.06, Dice Score: 92.38, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.48, Dice Score 75.95
+[TEST] Epoch 167:  
+[Classification] Accuracy: 95.67, Dice Score: 91.65, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.47, Dice Score 74.24
+[TEST] Epoch 168:  
+[Classification] Accuracy: 94.91, Dice Score: 90.12, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.48, Dice Score 75.28
+[TEST] Epoch 169:  
+[Classification] Accuracy: 95.42, Dice Score: 91.20, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.48, Dice Score 75.08
+[TEST] Epoch 170:  
+[Classification] Accuracy: 95.42, Dice Score: 91.22, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.49, Dice Score 76.21
+[TEST] Epoch 171:  
+[Classification] Accuracy: 95.17, Dice Score: 90.93, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.21, Dice Score 69.52
+[TEST] Epoch 172:  
+[Classification] Accuracy: 96.18, Dice Score: 92.79, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.48, Dice Score 76.05
+[TEST] Epoch 173:  
+[Classification] Accuracy: 94.91, Dice Score: 90.15, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.46, Dice Score 73.58
+[TEST] Epoch 174:  
+[Classification] Accuracy: 95.29, Dice Score: 90.89, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.49, Dice Score 76.17
+[TEST] Epoch 175:  
+[Classification] Accuracy: 95.55, Dice Score: 91.53, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.48, Dice Score 75.60
+[TEST] Epoch 176:  
+[Classification] Accuracy: 95.67, Dice Score: 91.87, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.44, Dice Score 71.64
+[TEST] Epoch 177:  
+[Classification] Accuracy: 94.66, Dice Score: 89.63, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.45, Dice Score 72.95
+[TEST] Epoch 178:  
+[Classification] Accuracy: 96.18, Dice Score: 92.70, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.48, Dice Score 75.01
+[TEST] Epoch 179:  
+[Classification] Accuracy: 93.64, Dice Score: 87.56, F1 Score: 0.93  
+[Segmentation]   Accuracy: 99.48, Dice Score 75.47
+[TEST] Epoch 180:  
+[Classification] Accuracy: 95.67, Dice Score: 91.60, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.48, Dice Score 75.21
+[TEST] Epoch 181:  
+[Classification] Accuracy: 95.67, Dice Score: 91.67, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.44, Dice Score 71.83
+[TEST] Epoch 182:  
+[Classification] Accuracy: 95.42, Dice Score: 91.47, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.47, Dice Score 75.32
+[TEST] Epoch 183:  
+[Classification] Accuracy: 95.67, Dice Score: 91.58, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.44, Dice Score 71.98
+[TEST] Epoch 184:  
+[Classification] Accuracy: 94.53, Dice Score: 89.20, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.48, Dice Score 75.36
+[TEST] Epoch 185:  
+[Classification] Accuracy: 94.78, Dice Score: 89.70, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.49, Dice Score 76.70
+[TEST] Epoch 186:  
+[Classification] Accuracy: 95.55, Dice Score: 91.38, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.49, Dice Score 75.79
+[TEST] Epoch 187:  
+[Classification] Accuracy: 96.18, Dice Score: 92.56, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.49, Dice Score 76.29
+[TEST] Epoch 188:  
+[Classification] Accuracy: 96.18, Dice Score: 92.65, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.49, Dice Score 75.34
+[TEST] Epoch 189:  
+[Classification] Accuracy: 96.18, Dice Score: 92.63, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.49, Dice Score 75.43
+[TEST] Epoch 190:  
+[Classification] Accuracy: 95.29, Dice Score: 90.91, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.49, Dice Score 76.86
+[TEST] Epoch 191:  
+[Classification] Accuracy: 96.44, Dice Score: 93.09, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.49, Dice Score 75.67
+[TEST] Epoch 192:  
+[Classification] Accuracy: 95.42, Dice Score: 91.18, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.50, Dice Score 76.25
+[TEST] Epoch 193:  
+[Classification] Accuracy: 95.67, Dice Score: 91.69, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.50, Dice Score 77.27
+[TEST] Epoch 194:  
+[Classification] Accuracy: 96.06, Dice Score: 92.44, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.49, Dice Score 76.68
+[TEST] Epoch 195:  
+[Classification] Accuracy: 95.55, Dice Score: 91.34, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.46, Dice Score 72.83
+[TEST] Epoch 196:  
+[Classification] Accuracy: 96.31, Dice Score: 92.91, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.51, Dice Score 76.78
+[TEST] Epoch 197:  
+[Classification] Accuracy: 95.42, Dice Score: 91.11, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.51, Dice Score 77.11
+[TEST] Epoch 198:  
+[Classification] Accuracy: 96.18, Dice Score: 92.57, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.49, Dice Score 75.37
+[TEST] Epoch 199:  
+[Classification] Accuracy: 96.18, Dice Score: 92.65, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.50, Dice Score 77.10
+[TEST] Epoch 200:  
+[Classification] Accuracy: 96.31, Dice Score: 92.91, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.50, Dice Score 75.75
+[TEST] Epoch 201:  
+[Classification] Accuracy: 96.06, Dice Score: 92.51, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.50, Dice Score 76.45
+[TEST] Epoch 202:  
+[Classification] Accuracy: 95.55, Dice Score: 91.48, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.44, Dice Score 73.46
+[TEST] Epoch 203:  
+[Classification] Accuracy: 95.67, Dice Score: 91.56, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.49, Dice Score 75.94
+[TEST] Epoch 204:  
+[Classification] Accuracy: 95.67, Dice Score: 91.65, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.48, Dice Score 75.78
+[TEST] Epoch 205:  
+[Classification] Accuracy: 95.80, Dice Score: 91.79, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.50, Dice Score 76.30
+[TEST] Epoch 206:  
+[Classification] Accuracy: 95.42, Dice Score: 91.11, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.50, Dice Score 75.75
+[TEST] Epoch 207:  
+[Classification] Accuracy: 95.04, Dice Score: 90.35, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.49, Dice Score 75.52
+[TEST] Epoch 208:  
+[Classification] Accuracy: 95.04, Dice Score: 90.32, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.50, Dice Score 77.83
+[TEST] Epoch 209:  
+[Classification] Accuracy: 96.56, Dice Score: 93.35, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.51, Dice Score 77.27
+[TEST] Epoch 210:  
+[Classification] Accuracy: 95.80, Dice Score: 91.89, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.50, Dice Score 77.06
+[TEST] Epoch 211:  
+[Classification] Accuracy: 95.67, Dice Score: 91.60, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.50, Dice Score 76.10
+[TEST] Epoch 212:  
+[Classification] Accuracy: 95.42, Dice Score: 91.09, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.50, Dice Score 76.33
+[TEST] Epoch 213:  
+[Classification] Accuracy: 95.04, Dice Score: 90.44, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.43, Dice Score 70.39
+[TEST] Epoch 214:  
+[Classification] Accuracy: 95.55, Dice Score: 91.46, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.48, Dice Score 74.38
+[TEST] Epoch 215:  
+[Classification] Accuracy: 94.78, Dice Score: 90.10, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.49, Dice Score 75.60
+[TEST] Epoch 216:  
+[Classification] Accuracy: 94.27, Dice Score: 89.21, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.43, Dice Score 72.71
+[TEST] Epoch 217:  
+[Classification] Accuracy: 95.04, Dice Score: 90.42, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.48, Dice Score 75.68
+[TEST] Epoch 218:  
+[Classification] Accuracy: 96.31, Dice Score: 92.79, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.47, Dice Score 73.70
+[TEST] Epoch 219:  
+[Classification] Accuracy: 95.29, Dice Score: 91.23, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.50, Dice Score 77.26
+[TEST] Epoch 220:  
+[Classification] Accuracy: 96.31, Dice Score: 92.93, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.51, Dice Score 77.36
+[TEST] Epoch 221:  
+[Classification] Accuracy: 95.67, Dice Score: 91.46, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.48, Dice Score 75.17
+[TEST] Epoch 222:  
+[Classification] Accuracy: 96.56, Dice Score: 93.33, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.49, Dice Score 76.75
+[TEST] Epoch 223:  
+[Classification] Accuracy: 96.18, Dice Score: 92.74, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.50, Dice Score 76.21
+[TEST] Epoch 224:  
+[Classification] Accuracy: 95.93, Dice Score: 92.23, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.49, Dice Score 75.99
+[TEST] Epoch 225:  
+[Classification] Accuracy: 96.31, Dice Score: 92.94, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.50, Dice Score 76.16
+[TEST] Epoch 226:  
+[Classification] Accuracy: 95.67, Dice Score: 91.58, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.50, Dice Score 76.63
+[TEST] Epoch 227:  
+[Classification] Accuracy: 95.55, Dice Score: 91.42, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.48, Dice Score 74.02
+[TEST] Epoch 228:  
+[Classification] Accuracy: 96.44, Dice Score: 93.10, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.49, Dice Score 75.18
+[TEST] Epoch 229:  
+[Classification] Accuracy: 96.44, Dice Score: 93.24, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.49, Dice Score 74.89
+[TEST] Epoch 230:  
+[Classification] Accuracy: 96.44, Dice Score: 93.14, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.49, Dice Score 75.32
+[TEST] Epoch 231:  
+[Classification] Accuracy: 95.29, Dice Score: 90.86, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.41, Dice Score 71.97
+[TEST] Epoch 232:  
+[Classification] Accuracy: 96.18, Dice Score: 92.65, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.47, Dice Score 75.24
+[TEST] Epoch 233:  
+[Classification] Accuracy: 95.67, Dice Score: 91.56, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.48, Dice Score 74.30
+[TEST] Epoch 234:  
+[Classification] Accuracy: 95.29, Dice Score: 90.80, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.49, Dice Score 76.49
+[TEST] Epoch 235:  
+[Classification] Accuracy: 96.06, Dice Score: 92.42, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.49, Dice Score 75.48
+[TEST] Epoch 236:  
+[Classification] Accuracy: 95.93, Dice Score: 92.14, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.50, Dice Score 76.90
+[TEST] Epoch 237:  
+[Classification] Accuracy: 95.67, Dice Score: 91.63, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.49, Dice Score 74.95
+[TEST] Epoch 238:  
+[Classification] Accuracy: 95.80, Dice Score: 91.89, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.50, Dice Score 76.13
+[TEST] Epoch 239:  
+[Classification] Accuracy: 96.06, Dice Score: 92.35, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.51, Dice Score 77.03
+[TEST] Epoch 240:  
+[Classification] Accuracy: 96.56, Dice Score: 93.41, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.50, Dice Score 76.89
+[TEST] Epoch 241:  
+[Classification] Accuracy: 95.93, Dice Score: 92.21, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.51, Dice Score 77.28
+[TEST] Epoch 242:  
+[Classification] Accuracy: 95.93, Dice Score: 92.12, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.50, Dice Score 76.43
+[TEST] Epoch 243:  
+[Classification] Accuracy: 96.06, Dice Score: 92.36, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.50, Dice Score 75.78
+[TEST] Epoch 244:  
+[Classification] Accuracy: 96.31, Dice Score: 92.84, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.52, Dice Score 77.63
+[TEST] Epoch 245:  
+[Classification] Accuracy: 96.18, Dice Score: 92.68, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.51, Dice Score 76.52
+[TEST] Epoch 246:  
+[Classification] Accuracy: 96.31, Dice Score: 92.93, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.52, Dice Score 77.67
+[TEST] Epoch 247:  
+[Classification] Accuracy: 96.31, Dice Score: 92.82, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.52, Dice Score 77.86
+[TEST] Epoch 248:  
+[Classification] Accuracy: 96.06, Dice Score: 92.36, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.51, Dice Score 76.25
+[TEST] Epoch 249:  
+[Classification] Accuracy: 94.40, Dice Score: 89.03, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.44, Dice Score 72.24
+[TEST] Epoch 250:  
+[Classification] Accuracy: 94.78, Dice Score: 90.00, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.48, Dice Score 74.22
+[TEST] Epoch 251:  
+[Classification] Accuracy: 94.78, Dice Score: 89.90, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.48, Dice Score 73.93
+[TEST] Epoch 252:  
+[Classification] Accuracy: 93.89, Dice Score: 88.91, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.19, Dice Score 69.55
+[TEST] Epoch 253:  
+[Classification] Accuracy: 95.67, Dice Score: 91.67, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.45, Dice Score 72.87
+[TEST] Epoch 254:  
+[Classification] Accuracy: 95.04, Dice Score: 90.46, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.47, Dice Score 75.50
+[TEST] Epoch 255:  
+[Classification] Accuracy: 95.55, Dice Score: 91.44, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.49, Dice Score 76.15
+[TEST] Epoch 256:  
+[Classification] Accuracy: 96.06, Dice Score: 92.40, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.48, Dice Score 75.87
+[TEST] Epoch 257:  
+[Classification] Accuracy: 95.29, Dice Score: 90.89, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.48, Dice Score 75.12
+[TEST] Epoch 258:  
+[Classification] Accuracy: 95.80, Dice Score: 91.89, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.49, Dice Score 75.39
+[TEST] Epoch 259:  
+[Classification] Accuracy: 95.67, Dice Score: 91.60, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.50, Dice Score 76.48
+[TEST] Epoch 260:  
+[Classification] Accuracy: 95.55, Dice Score: 91.40, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.49, Dice Score 75.96
+[TEST] Epoch 261:  
+[Classification] Accuracy: 95.93, Dice Score: 92.14, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.39, Dice Score 69.19
+[TEST] Epoch 262:  
+[Classification] Accuracy: 95.55, Dice Score: 91.57, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.44, Dice Score 73.94
+[TEST] Epoch 263:  
+[Classification] Accuracy: 95.80, Dice Score: 91.89, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.43, Dice Score 71.53
+[TEST] Epoch 264:  
+[Classification] Accuracy: 95.93, Dice Score: 92.14, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.47, Dice Score 75.20
+[TEST] Epoch 265:  
+[Classification] Accuracy: 95.29, Dice Score: 90.84, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.47, Dice Score 73.78
+[TEST] Epoch 266:  
+[Classification] Accuracy: 94.53, Dice Score: 89.33, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.48, Dice Score 74.41
+[TEST] Epoch 267:  
+[Classification] Accuracy: 95.17, Dice Score: 90.62, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.49, Dice Score 75.32
+[TEST] Epoch 268:  
+[Classification] Accuracy: 96.18, Dice Score: 92.57, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.49, Dice Score 75.89
+[TEST] Epoch 269:  
+[Classification] Accuracy: 95.93, Dice Score: 92.06, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.50, Dice Score 75.85
+[TEST] Epoch 270:  
+[Classification] Accuracy: 95.42, Dice Score: 91.04, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.50, Dice Score 76.35
+[TEST] Epoch 271:  
+[Classification] Accuracy: 96.06, Dice Score: 92.36, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.50, Dice Score 76.00
+[TEST] Epoch 272:  
+[Classification] Accuracy: 95.80, Dice Score: 91.87, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.51, Dice Score 76.65
+[TEST] Epoch 273:  
+[Classification] Accuracy: 96.18, Dice Score: 92.57, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.50, Dice Score 76.10
+[TEST] Epoch 274:  
+[Classification] Accuracy: 95.93, Dice Score: 92.10, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.51, Dice Score 76.14
+[TEST] Epoch 275:  
+[Classification] Accuracy: 95.80, Dice Score: 91.85, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.51, Dice Score 76.42
+[TEST] Epoch 276:  
+[Classification] Accuracy: 95.55, Dice Score: 91.36, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.51, Dice Score 76.19
+[TEST] Epoch 277:  
+[Classification] Accuracy: 95.93, Dice Score: 92.12, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.50, Dice Score 76.01
+[TEST] Epoch 278:  
+[Classification] Accuracy: 95.29, Dice Score: 91.00, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.48, Dice Score 75.23
+[TEST] Epoch 279:  
+[Classification] Accuracy: 95.29, Dice Score: 91.00, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.49, Dice Score 75.26
+[TEST] Epoch 280:  
+[Classification] Accuracy: 95.93, Dice Score: 92.18, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.51, Dice Score 76.52
+[TEST] Epoch 281:  
+[Classification] Accuracy: 96.06, Dice Score: 92.36, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.51, Dice Score 77.21
+[TEST] Epoch 282:  
+[Classification] Accuracy: 95.55, Dice Score: 91.42, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.51, Dice Score 76.16
+[TEST] Epoch 283:  
+[Classification] Accuracy: 95.67, Dice Score: 91.67, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.52, Dice Score 77.44
+[TEST] Epoch 284:  
+[Classification] Accuracy: 96.18, Dice Score: 92.61, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.52, Dice Score 76.90
+[TEST] Epoch 285:  
+[Classification] Accuracy: 96.18, Dice Score: 92.67, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.52, Dice Score 77.51
+[TEST] Epoch 286:  
+[Classification] Accuracy: 95.17, Dice Score: 90.64, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.50, Dice Score 75.71
+[TEST] Epoch 287:  
+[Classification] Accuracy: 96.31, Dice Score: 92.91, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.51, Dice Score 76.19
+[TEST] Epoch 288:  
+[Classification] Accuracy: 95.67, Dice Score: 91.58, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.49, Dice Score 75.07
+[TEST] Epoch 289:  
+[Classification] Accuracy: 96.44, Dice Score: 93.19, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.52, Dice Score 77.34
+[TEST] Epoch 290:  
+[Classification] Accuracy: 96.18, Dice Score: 92.65, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.50, Dice Score 76.78
+[TEST] Epoch 291:  
+[Classification] Accuracy: 96.44, Dice Score: 93.09, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.51, Dice Score 77.82
+[TEST] Epoch 292:  
+[Classification] Accuracy: 96.95, Dice Score: 94.03, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.51, Dice Score 76.65
+[TEST] Epoch 293:  
+[Classification] Accuracy: 95.93, Dice Score: 92.38, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.50, Dice Score 76.95
+[TEST] Epoch 294:  
+[Classification] Accuracy: 94.91, Dice Score: 90.29, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.43, Dice Score 72.46
+[TEST] Epoch 295:  
+[Classification] Accuracy: 95.42, Dice Score: 90.95, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.49, Dice Score 76.12
+[TEST] Epoch 296:  
+[Classification] Accuracy: 96.31, Dice Score: 92.82, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.50, Dice Score 76.67
+[TEST] Epoch 297:  
+[Classification] Accuracy: 95.04, Dice Score: 90.58, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.47, Dice Score 74.79
+[TEST] Epoch 298:  
+[Classification] Accuracy: 95.55, Dice Score: 91.40, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.48, Dice Score 75.49
+[TEST] Epoch 299:  
+[Classification] Accuracy: 95.80, Dice Score: 91.95, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.49, Dice Score 76.05
+[TEST] Epoch 300:  
+[Classification] Accuracy: 96.18, Dice Score: 92.59, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.50, Dice Score 76.76
+[TEST] Epoch 301:  
+[Classification] Accuracy: 96.31, Dice Score: 92.87, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.50, Dice Score 76.81
+[TEST] Epoch 302:  
+[Classification] Accuracy: 96.18, Dice Score: 92.59, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.50, Dice Score 76.07
+[TEST] Epoch 303:  
+[Classification] Accuracy: 96.56, Dice Score: 93.32, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.50, Dice Score 76.40
+[TEST] Epoch 304:  
+[Classification] Accuracy: 96.56, Dice Score: 93.33, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.51, Dice Score 76.95
+[TEST] Epoch 305:  
+[Classification] Accuracy: 96.56, Dice Score: 93.33, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.51, Dice Score 77.38
+[TEST] Epoch 306:  
+[Classification] Accuracy: 96.44, Dice Score: 93.03, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.51, Dice Score 76.61
+[TEST] Epoch 307:  
+[Classification] Accuracy: 96.31, Dice Score: 92.82, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.51, Dice Score 77.11
+[TEST] Epoch 308:  
+[Classification] Accuracy: 96.56, Dice Score: 93.33, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.51, Dice Score 77.46
+[TEST] Epoch 309:  
+[Classification] Accuracy: 96.18, Dice Score: 92.75, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.49, Dice Score 75.65
+[TEST] Epoch 310:  
+[Classification] Accuracy: 96.31, Dice Score: 92.87, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.50, Dice Score 76.35
+[TEST] Epoch 311:  
+[Classification] Accuracy: 95.80, Dice Score: 91.99, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.50, Dice Score 76.55
+[TEST] Epoch 312:  
+[Classification] Accuracy: 96.31, Dice Score: 92.94, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.49, Dice Score 74.80
+[TEST] Epoch 313:  
+[Classification] Accuracy: 96.06, Dice Score: 92.40, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.50, Dice Score 75.89
+[TEST] Epoch 314:  
+[Classification] Accuracy: 96.44, Dice Score: 93.14, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.50, Dice Score 76.02
+[TEST] Epoch 315:  
+[Classification] Accuracy: 96.31, Dice Score: 92.77, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.51, Dice Score 76.44
+[TEST] Epoch 316:  
+[Classification] Accuracy: 96.44, Dice Score: 93.12, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.51, Dice Score 76.37
+[TEST] Epoch 317:  
+[Classification] Accuracy: 96.18, Dice Score: 92.65, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.50, Dice Score 76.05
+[TEST] Epoch 318:  
+[Classification] Accuracy: 95.67, Dice Score: 91.67, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.49, Dice Score 75.93
+[TEST] Epoch 319:  
+[Classification] Accuracy: 96.06, Dice Score: 92.48, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.49, Dice Score 75.45
+[TEST] Epoch 320:  
+[Classification] Accuracy: 96.06, Dice Score: 92.36, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.50, Dice Score 76.01
+[TEST] Epoch 321:  
+[Classification] Accuracy: 95.17, Dice Score: 90.75, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.49, Dice Score 75.20
+[TEST] Epoch 322:  
+[Classification] Accuracy: 96.18, Dice Score: 92.57, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.50, Dice Score 76.79
+[TEST] Epoch 323:  
+[Classification] Accuracy: 96.18, Dice Score: 92.65, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.50, Dice Score 75.73
+[TEST] Epoch 324:  
+[Classification] Accuracy: 96.06, Dice Score: 92.40, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.51, Dice Score 76.74
+[TEST] Epoch 325:  
+[Classification] Accuracy: 96.31, Dice Score: 92.91, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.51, Dice Score 76.83
+[TEST] Epoch 326:  
+[Classification] Accuracy: 96.31, Dice Score: 92.91, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.51, Dice Score 76.57
+[TEST] Epoch 327:  
+[Classification] Accuracy: 96.44, Dice Score: 93.14, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.51, Dice Score 76.87
+[TEST] Epoch 328:  
+[Classification] Accuracy: 96.18, Dice Score: 92.63, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.51, Dice Score 77.01
+[TEST] Epoch 329:  
+[Classification] Accuracy: 96.56, Dice Score: 93.37, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.51, Dice Score 76.86
+[TEST] Epoch 330:  
+[Classification] Accuracy: 90.71, Dice Score: 84.27, F1 Score: 0.91  
+[Segmentation]   Accuracy: 97.75, Dice Score 48.97
+[TEST] Epoch 331:  
+[Classification] Accuracy: 96.18, Dice Score: 92.67, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.50, Dice Score 76.07
+[TEST] Epoch 332:  
+[Classification] Accuracy: 96.18, Dice Score: 92.67, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.50, Dice Score 76.16
+[TEST] Epoch 333:  
+[Classification] Accuracy: 96.44, Dice Score: 93.15, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.52, Dice Score 77.22
+[TEST] Epoch 334:  
+[Classification] Accuracy: 95.67, Dice Score: 91.60, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.51, Dice Score 76.28
+[TEST] Epoch 335:  
+[Classification] Accuracy: 96.56, Dice Score: 93.41, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.52, Dice Score 77.93
+[TEST] Epoch 336:  
+[Classification] Accuracy: 96.44, Dice Score: 93.12, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.52, Dice Score 78.20
+[TEST] Epoch 337:  
+[Classification] Accuracy: 96.56, Dice Score: 93.35, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.52, Dice Score 76.86
+[TEST] Epoch 338:  
+[Classification] Accuracy: 96.44, Dice Score: 93.19, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.52, Dice Score 77.68
+[TEST] Epoch 339:  
+[Classification] Accuracy: 95.80, Dice Score: 91.83, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.52, Dice Score 77.40
+[TEST] Epoch 340:  
+[Classification] Accuracy: 96.31, Dice Score: 92.86, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.52, Dice Score 77.18
+[TEST] Epoch 341:  
+[Classification] Accuracy: 96.31, Dice Score: 92.86, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.52, Dice Score 77.36
+[TEST] Epoch 342:  
+[Classification] Accuracy: 96.06, Dice Score: 92.33, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.52, Dice Score 77.67
+[TEST] Epoch 343:  
+[Classification] Accuracy: 95.80, Dice Score: 91.85, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.52, Dice Score 77.11
+[TEST] Epoch 344:  
+[Classification] Accuracy: 95.93, Dice Score: 92.12, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.52, Dice Score 77.55
+[TEST] Epoch 345:  
+[Classification] Accuracy: 95.93, Dice Score: 92.12, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.53, Dice Score 77.82
+[TEST] Epoch 346:  
+[Classification] Accuracy: 96.31, Dice Score: 92.86, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.53, Dice Score 78.03
+[TEST] Epoch 347:  
+[Classification] Accuracy: 96.18, Dice Score: 92.67, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.53, Dice Score 78.03
+[TEST] Epoch 348:  
+[Classification] Accuracy: 96.18, Dice Score: 92.63, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.53, Dice Score 77.73
+[TEST] Epoch 349:  
+[Classification] Accuracy: 96.31, Dice Score: 92.87, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.52, Dice Score 76.67
+[TEST] Epoch 350:  
+[Classification] Accuracy: 96.69, Dice Score: 93.60, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.53, Dice Score 78.01
+[TEST] Epoch 351:  
+[Classification] Accuracy: 95.55, Dice Score: 91.36, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.53, Dice Score 77.63
+[TEST] Epoch 352:  
+[Classification] Accuracy: 95.93, Dice Score: 92.18, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.52, Dice Score 76.97
+[TEST] Epoch 353:  
+[Classification] Accuracy: 96.18, Dice Score: 92.65, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.53, Dice Score 78.66
+[TEST] Epoch 354:  
+[Classification] Accuracy: 95.42, Dice Score: 91.15, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.52, Dice Score 77.47
+[TEST] Epoch 355:  
+[Classification] Accuracy: 95.42, Dice Score: 91.18, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.52, Dice Score 77.22
+[TEST] Epoch 356:  
+[Classification] Accuracy: 96.06, Dice Score: 92.38, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.52, Dice Score 76.97
+[TEST] Epoch 357:  
+[Classification] Accuracy: 95.93, Dice Score: 92.10, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.53, Dice Score 77.86
+[TEST] Epoch 358:  
+[Classification] Accuracy: 96.18, Dice Score: 92.61, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.53, Dice Score 77.41
+[TEST] Epoch 359:  
+[Classification] Accuracy: 96.18, Dice Score: 92.63, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.51, Dice Score 76.27
+[TEST] Epoch 360:  
+[Classification] Accuracy: 95.80, Dice Score: 91.83, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.54, Dice Score 78.41
+[TEST] Epoch 361:  
+[Classification] Accuracy: 95.67, Dice Score: 91.69, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.52, Dice Score 76.44
+[TEST] Epoch 362:  
+[Classification] Accuracy: 96.18, Dice Score: 92.59, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.53, Dice Score 77.64
+[TEST] Epoch 363:  
+[Classification] Accuracy: 94.40, Dice Score: 89.11, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.52, Dice Score 76.72
+[TEST] Epoch 364:  
+[Classification] Accuracy: 96.44, Dice Score: 93.10, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.53, Dice Score 77.80
+[TEST] Epoch 365:  
+[Classification] Accuracy: 95.80, Dice Score: 91.89, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.53, Dice Score 77.94
+[TEST] Epoch 366:  
+[Classification] Accuracy: 96.06, Dice Score: 92.35, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.53, Dice Score 77.94
+[TEST] Epoch 367:  
+[Classification] Accuracy: 95.80, Dice Score: 91.87, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.52, Dice Score 76.96
+[TEST] Epoch 368:  
+[Classification] Accuracy: 95.80, Dice Score: 91.93, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.53, Dice Score 77.95
+[TEST] Epoch 369:  
+[Classification] Accuracy: 95.93, Dice Score: 92.14, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.53, Dice Score 77.54
+[TEST] Epoch 370:  
+[Classification] Accuracy: 96.56, Dice Score: 93.35, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.52, Dice Score 77.21
+[TEST] Epoch 371:  
+[Classification] Accuracy: 95.67, Dice Score: 91.60, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.51, Dice Score 75.66
+[TEST] Epoch 372:  
+[Classification] Accuracy: 95.93, Dice Score: 92.25, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.51, Dice Score 75.86
+[TEST] Epoch 373:  
+[Classification] Accuracy: 95.93, Dice Score: 92.16, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.53, Dice Score 77.80
+[TEST] Epoch 374:  
+[Classification] Accuracy: 95.80, Dice Score: 91.93, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.52, Dice Score 77.94
+[TEST] Epoch 375:  
+[Classification] Accuracy: 96.31, Dice Score: 92.86, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.52, Dice Score 76.77
+[TEST] Epoch 376:  
+[Classification] Accuracy: 95.93, Dice Score: 92.06, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.53, Dice Score 77.47
+[TEST] Epoch 377:  
+[Classification] Accuracy: 95.67, Dice Score: 91.58, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.51, Dice Score 75.55
+[TEST] Epoch 378:  
+[Classification] Accuracy: 96.56, Dice Score: 93.40, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.52, Dice Score 77.31
+[TEST] Epoch 379:  
+[Classification] Accuracy: 95.67, Dice Score: 91.79, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.51, Dice Score 76.46
+[TEST] Epoch 380:  
+[Classification] Accuracy: 95.80, Dice Score: 91.87, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.53, Dice Score 77.78
+[TEST] Epoch 381:  
+[Classification] Accuracy: 96.69, Dice Score: 93.66, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.52, Dice Score 77.37
+[TEST] Epoch 382:  
+[Classification] Accuracy: 96.95, Dice Score: 94.09, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.52, Dice Score 78.69
+[TEST] Epoch 383:  
+[Classification] Accuracy: 95.93, Dice Score: 92.14, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.51, Dice Score 76.02
+[TEST] Epoch 384:  
+[Classification] Accuracy: 95.29, Dice Score: 90.82, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.51, Dice Score 76.56
+[TEST] Epoch 385:  
+[Classification] Accuracy: 96.44, Dice Score: 93.12, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.51, Dice Score 77.37
+[TEST] Epoch 386:  
+[Classification] Accuracy: 96.06, Dice Score: 92.38, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.50, Dice Score 75.35
+[TEST] Epoch 387:  
+[Classification] Accuracy: 96.06, Dice Score: 92.40, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.52, Dice Score 77.46
+[TEST] Epoch 388:  
+[Classification] Accuracy: 96.06, Dice Score: 92.36, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.53, Dice Score 77.59
+[TEST] Epoch 389:  
+[Classification] Accuracy: 95.67, Dice Score: 91.56, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.53, Dice Score 77.80
+[TEST] Epoch 390:  
+[Classification] Accuracy: 96.06, Dice Score: 92.36, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.52, Dice Score 77.26
+[TEST] Epoch 391:  
+[Classification] Accuracy: 96.18, Dice Score: 92.63, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.54, Dice Score 78.41
+[TEST] Epoch 392:  
+[Classification] Accuracy: 96.06, Dice Score: 92.36, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.52, Dice Score 77.16
+[TEST] Epoch 393:  
+[Classification] Accuracy: 96.31, Dice Score: 92.87, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.53, Dice Score 77.40
+[TEST] Epoch 394:  
+[Classification] Accuracy: 96.56, Dice Score: 93.33, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.54, Dice Score 78.58
+[TEST] Epoch 395:  
+[Classification] Accuracy: 96.44, Dice Score: 93.09, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.53, Dice Score 77.88
+[TEST] Epoch 396:  
+[Classification] Accuracy: 96.06, Dice Score: 92.36, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.53, Dice Score 77.87
+[TEST] Epoch 397:  
+[Classification] Accuracy: 96.31, Dice Score: 92.94, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.51, Dice Score 78.66
+[TEST] Epoch 398:  
+[Classification] Accuracy: 95.80, Dice Score: 91.83, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.53, Dice Score 78.52
+[TEST] Epoch 399:  
+[Classification] Accuracy: 96.06, Dice Score: 92.40, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.53, Dice Score 78.51
+[TEST] Epoch 400:  
+[Classification] Accuracy: 95.55, Dice Score: 91.38, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.51, Dice Score 76.16
+[TEST] Epoch 401:  
+[Classification] Accuracy: 95.80, Dice Score: 91.81, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.51, Dice Score 76.21
+[TEST] Epoch 402:  
+[Classification] Accuracy: 93.77, Dice Score: 88.76, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.51, Dice Score 76.46
+[TEST] Epoch 403:  
+[Classification] Accuracy: 96.06, Dice Score: 92.35, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.53, Dice Score 77.50
+[TEST] Epoch 404:  
+[Classification] Accuracy: 95.93, Dice Score: 92.14, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.53, Dice Score 77.96
+[TEST] Epoch 405:  
+[Classification] Accuracy: 95.80, Dice Score: 91.83, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.53, Dice Score 78.00
+[TEST] Epoch 406:  
+[Classification] Accuracy: 96.56, Dice Score: 93.43, F1 Score: 0.97  
+[Segmentation]   Accuracy: 99.52, Dice Score 76.98
+[TEST] Epoch 407:  
+[Classification] Accuracy: 96.18, Dice Score: 92.59, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.52, Dice Score 76.87
+[TEST] Epoch 408:  
+[Classification] Accuracy: 96.31, Dice Score: 92.94, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.51, Dice Score 76.07
+[TEST] Epoch 409:  
+[Classification] Accuracy: 95.93, Dice Score: 92.10, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.53, Dice Score 78.06
+[TEST] Epoch 410:  
+[Classification] Accuracy: 96.31, Dice Score: 92.94, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.51, Dice Score 76.37
+[TEST] Epoch 411:  
+[Classification] Accuracy: 96.31, Dice Score: 92.89, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.50, Dice Score 74.88
+[TEST] Epoch 412:  
+[Classification] Accuracy: 95.42, Dice Score: 91.22, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.50, Dice Score 75.68
+[TEST] Epoch 413:  
+[Classification] Accuracy: 95.55, Dice Score: 91.44, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.54, Dice Score 78.69
+[TEST] Epoch 414:  
+[Classification] Accuracy: 95.42, Dice Score: 91.09, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.52, Dice Score 77.24
+[TEST] Epoch 415:  
+[Classification] Accuracy: 96.44, Dice Score: 93.14, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.54, Dice Score 78.20
+[TEST] Epoch 416:  
+[Classification] Accuracy: 96.31, Dice Score: 92.87, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.54, Dice Score 78.59
+[TEST] Epoch 417:  
+[Classification] Accuracy: 95.29, Dice Score: 90.86, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.53, Dice Score 77.98
+[TEST] Epoch 418:  
+[Classification] Accuracy: 96.06, Dice Score: 92.40, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.52, Dice Score 76.43
+[TEST] Epoch 419:  
+[Classification] Accuracy: 96.31, Dice Score: 92.93, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.53, Dice Score 77.60
+[TEST] Epoch 420:  
+[Classification] Accuracy: 96.44, Dice Score: 93.12, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.53, Dice Score 77.79
+[TEST] Epoch 421:  
+[Classification] Accuracy: 95.42, Dice Score: 91.13, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.52, Dice Score 76.70
+[TEST] Epoch 422:  
+[Classification] Accuracy: 95.80, Dice Score: 91.89, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.53, Dice Score 77.26
+[TEST] Epoch 423:  
+[Classification] Accuracy: 96.18, Dice Score: 92.61, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.53, Dice Score 78.27
+[TEST] Epoch 424:  
+[Classification] Accuracy: 95.55, Dice Score: 91.40, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.53, Dice Score 77.07
+[TEST] Epoch 425:  
+[Classification] Accuracy: 95.29, Dice Score: 90.82, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.51, Dice Score 76.62
+[TEST] Epoch 426:  
+[Classification] Accuracy: 96.06, Dice Score: 92.38, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.53, Dice Score 77.55
+[TEST] Epoch 427:  
+[Classification] Accuracy: 95.17, Dice Score: 90.66, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.54, Dice Score 78.09
+[TEST] Epoch 428:  
+[Classification] Accuracy: 96.06, Dice Score: 92.42, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.54, Dice Score 78.64
+[TEST] Epoch 429:  
+[Classification] Accuracy: 96.06, Dice Score: 92.38, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.54, Dice Score 78.06
+[TEST] Epoch 430:  
+[Classification] Accuracy: 96.18, Dice Score: 92.63, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.54, Dice Score 78.45
+[TEST] Epoch 431:  
+[Classification] Accuracy: 96.06, Dice Score: 92.40, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.54, Dice Score 77.72
+[TEST] Epoch 432:  
+[Classification] Accuracy: 96.06, Dice Score: 92.46, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.52, Dice Score 77.91
+[TEST] Epoch 433:  
+[Classification] Accuracy: 95.29, Dice Score: 90.89, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.51, Dice Score 75.52
+[TEST] Epoch 434:  
+[Classification] Accuracy: 96.06, Dice Score: 92.36, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.54, Dice Score 78.52
+[TEST] Epoch 435:  
+[Classification] Accuracy: 96.31, Dice Score: 92.86, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.54, Dice Score 78.07
+[TEST] Epoch 436:  
+[Classification] Accuracy: 95.55, Dice Score: 91.34, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.54, Dice Score 78.01
+[TEST] Epoch 437:  
+[Classification] Accuracy: 96.31, Dice Score: 92.87, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.54, Dice Score 77.81
+[TEST] Epoch 438:  
+[Classification] Accuracy: 96.06, Dice Score: 92.36, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.53, Dice Score 77.24
+[TEST] Epoch 439:  
+[Classification] Accuracy: 95.67, Dice Score: 91.65, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.54, Dice Score 78.23
+[TEST] Epoch 440:  
+[Classification] Accuracy: 96.18, Dice Score: 92.59, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.54, Dice Score 78.05
+[TEST] Epoch 441:  
+[Classification] Accuracy: 96.31, Dice Score: 92.86, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.55, Dice Score 78.76
+[TEST] Epoch 442:  
+[Classification] Accuracy: 95.80, Dice Score: 91.93, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.53, Dice Score 77.77
+[TEST] Epoch 443:  
+[Classification] Accuracy: 95.42, Dice Score: 91.13, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.46, Dice Score 74.76
+[TEST] Epoch 444:  
+[Classification] Accuracy: 95.17, Dice Score: 90.71, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.50, Dice Score 76.44
+[TEST] Epoch 445:  
+[Classification] Accuracy: 95.67, Dice Score: 91.60, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.52, Dice Score 77.77
+[TEST] Epoch 446:  
+[Classification] Accuracy: 95.80, Dice Score: 91.93, F1 Score: 0.96  
+[Segmentation]   Accuracy: 99.52, Dice Score 77.02
+[TEST] Epoch 447:  
+[Classification] Accuracy: 95.29, Dice Score: 91.11, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.48, Dice Score 77.14
+[TEST] Epoch 448:  
+[Classification] Accuracy: 94.53, Dice Score: 89.38, F1 Score: 0.94  
+[Segmentation]   Accuracy: 99.52, Dice Score 77.64
+[TEST] Epoch 449:  
+[Classification] Accuracy: 95.29, Dice Score: 90.91, F1 Score: 0.95  
+[Segmentation]   Accuracy: 99.53, Dice Score 78.33
+ Best model is model with index: 382
