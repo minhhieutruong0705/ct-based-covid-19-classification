@@ -1,4 +1,5 @@
 # Result
 
-- `ResultProcessing`: Implemention of Result Processing
-- `Outputs`: Result Visualization and Summarization
+- [`src`](./src): Implemention of result processing
+- [`Models`](./Models): Trained models with quantitave analysis
+- [`SegmentationExamples`](./SegmentationExamples): Samples of lesion segemtation for qualitative analysis
