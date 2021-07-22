@@ -4,7 +4,7 @@
 
 A training record consists of:
   - `train_log`
-  - `graphs` directory: graphs of Loss, Accuracy, Dice Similarity Coeficient, and F1 Score on train, evaluation, test sets
+  - `graphs` directory: graphs of loss, accuracy, dice similarity coeficient, and F1 score on train, evaluation, and test sets
   - `train_result`: summarization of performance on **TEST** set
 
 ## Index Table
