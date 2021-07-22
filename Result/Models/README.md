@@ -14,10 +14,10 @@ A training record consists of:
 | **CRNet** | PNG | 256x256 | [`CRNet_PNG_256`](./CRNet_PNG_256) |
 | **CR-IM** | DICOM | 256x256 | [`OriginalIncoNet_HU_256`](./OriginalIncoNet_HU_256) |
 | **CR-IM** | PNG | 256x256 | [`OriginalIncoNet_PNG_256`](./OriginalIncoNet_PNG_256) |
-| **CR-IM-SCRC** | DICOM | 256x256 | [`XNet_HU_256`](./XNet_HU_256) |
-| **CR-IM-SCRC** | PNG | 256x256 | [`XNet_PNG_256`](./XNet_PNG_256) |
+| **CR-IM-SCRE** | DICOM | 256x256 | [`XNet_HU_256`](./XNet_HU_256) |
+| **CR-IM-SCRE** | PNG | 256x256 | [`XNet_PNG_256`](./XNet_PNG_256) |
 | | | | |
-| CR-IM-SCRC | DICOM - **CAP** | 256x256 | [`XNet_CAP_HU_256`](./XNet_CAP_HU_256) |
-| CR-IM-SCRC | PNG - **CAP** | 256x256 | [`XNet_CAP_PNG_256`](./XNet_CAP_PNG_256) |
+| CR-IM-SCRE | DICOM - **CAP** | 256x256 | [`XNet_CAP_HU_256`](./XNet_CAP_HU_256) |
+| CR-IM-SCRE | PNG - **CAP** | 256x256 | [`XNet_CAP_PNG_256`](./XNet_CAP_PNG_256) |
 | | | | |
-| CR-IM-SCRC | DICOM | **512x512** | [`XNet_512`](./XNet_512) |
+| CR-IM-SCRE | DICOM | **512x512** | [`XNet_512`](./XNet_512) |
